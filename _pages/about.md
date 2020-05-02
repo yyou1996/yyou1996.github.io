@@ -16,6 +16,6 @@ Latest Updates:
 -----
 **Feb 2020.** Publish "[L^2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" @ CVPR 2020.
 
-**Aug - Pres.** Attend Texas A&M University, College Station, United States, for the Ph.D.'s Degree in Electrical Engineering, and join Shen Lab supervision by Prof. [Yang Shen](https://shen-lab.github.io/).
+**Aug 2019 - Pres.** Attend Texas A&M University, College Station, United States, for the Ph.D.'s Degree in Electrical Engineering, and join Shen Lab supervision by Prof. [Yang Shen](https://shen-lab.github.io/).
 
 
