@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuning You"
+title                    : "游宇宁 Yuning You"
 title_separator          : "-"
-name                     : &name "游宇宁 (Yuning You)"
+name                     : &name "Yuning You"
 description              : &description "personal description"
 url                      : https://yyou1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
