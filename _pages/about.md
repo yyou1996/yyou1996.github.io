@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Electrical Engineering at Texas A&M University (TAMU) supervised by Prof. [Yang Shen](https://shen-lab.github.io/), and personally co-supervised by Prof. [Zhangyang Wang](https://www.atlaswang.com/). Before coming to TAMU, I received my bachelor's degree from Xi'an Jiaotong University.
+I am a first-year Ph.D. student in Shen Lab of Department of Electrical and Computer Engineering at Texas A&M University (TAMU) supervised by Prof. [Yang Shen](https://shen-lab.github.io/), and personally co-supervised by Prof. [Zhangyang Wang](https://www.atlaswang.com/). Before coming to TAMU, I received my bachelor's degree from Xi'an Jiaotong University (XJTU).
 
 My research interests include but are not limited to graph machine learning and self-supervised learning. I am excited about machine learning research that can provide insights.
 
