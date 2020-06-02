@@ -5,8 +5,27 @@ permalink: /news/
 author_profile: true
 ---
 
-Publications
+News
 =====
+**Jun.** Publish an [self-supervised GCN]() paper @ ICML 2020.
+
+**Feb 2020.** Publish an [efficient GCN training](https://arxiv.org/abs/2003.13606) paper @ CVPR 2020.
+
+------
+
+**Aug - Pres.** Attend Texas A&M University, College Station, United States, for the Ph.D.'s Degree in Electrical Engineering, and join Shen Lab supervision by Prof. Yang Shen.
+
+May - Aug. Join SciencE and systEm Lab (iSEE) in the School of Data and Computer Science at Sun Yet-Sen University, Guangzhou, China, as a voluntary research assistant supervision by Prof. Wei-Shi Zheng.
+Feb 2019. Receive the Electrical and Computer Engineering PhD Merit Fellowship from Texas A&M University.
+------
+Jul - Aug 2018. Join Optical+Biomedical Engineering Laboratory (OBEL) in the School of Electrical, Electronic & Computer Engineering at the University of Western Australia, Perth, Australia, as a voluntary research assistant supervision by Dr. Karol Karnowski & Prof. Barry Cense.
+------
+Dec 2016. Receive 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling from China Society for Industrial and Applied Mathematics.
+------
+Aug 2015 - Jun 2019. Attend Xi'an Jiaotong University, Xi'an, China, for the Bachelor's Degree in Information Engineering.
+
+
+
 **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "When does Self-Supervision Help Graph Convolutional Networks?", *International Conference on Machine Learning* (**ICML**), 2020.
 [[arXiv]]() [[code]]() [[supplement]]()
 
