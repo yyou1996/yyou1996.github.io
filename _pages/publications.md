@@ -7,8 +7,9 @@ author_profile: true
 
 Conference
 =====
-__Y. You__<sup>*</sup>, T. Chen<sup>*</sup>, Z. Wang, Y. Shen, "L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks", *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2020.
-[[arkiv]](https://arxiv.org/abs/2003.13606) [[supplement]]()
+** Y. You ** <sup>*</sup>, T. Chen<sup>*</sup>, Z. Wang, Y. Shen, "L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks", * IEEE Conference on Computer Vision and Pattern Recognition * (**CVPR**), 2020.
+[[arkiv]](https://arxiv.org/abs/2003.13606) [[supplement]]() [[code]]() [[reviews]]() [[rebuttal]]() [[meta-reviews]]()
+
 
 {% include base_path %}
 
