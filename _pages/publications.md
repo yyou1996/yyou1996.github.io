@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+Conference
+=====
+L^2 -GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks
+
+
 {% include base_path %}
 
 Education
