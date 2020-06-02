@@ -10,10 +10,11 @@ Conference Publications
 **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks", *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2020.
 [[arkiv]](https://arxiv.org/abs/2003.13606) [[code]](https://github.com/TAMU-VITA/L2-GCN) [[supplement]](https://github.com/yyou1996/yyou1996.github.io/blob/master/papers/cvpr2020_l2gcn/supplement.pdf) [[reviews]](https://github.com/yyou1996/yyou1996.github.io/blob/master/papers/cvpr2020_l2gcn/reviews.pdf) [[rebuttal]](https://github.com/yyou1996/yyou1996.github.io/blob/master/papers/cvpr2020_l2gcn/rebuttal.pdf) [[meta-reviews]](https://github.com/yyou1996/yyou1996.github.io/blob/master/papers/cvpr2020_l2gcn/meta-reviews.pdf)
 
+Journal Publications
+=====
+Not yet
+
 Preprint Drafts
 =====
 TBD
 
-Journal Publications
-=====
-Not yet
