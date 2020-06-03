@@ -259,7 +259,6 @@ permalink: /:categories/:title/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-"""
 # Plugins
 plugins:
   - jekyll-paginate
@@ -274,7 +273,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-"""
 
 
 # Archives
