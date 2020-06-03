@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
+Publication
 =====
 **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "When does Self-Supervision Help Graph Convolutional Networks?", *International Conference on Machine Learning* (**ICML**), 2020.
 [[arXiv]]() [[code]]() [[supplement]]() \\

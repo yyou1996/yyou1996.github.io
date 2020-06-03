@@ -3,8 +3,8 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Experimences"
+  - title: "Experimence"
     url: /experimences/
 
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/

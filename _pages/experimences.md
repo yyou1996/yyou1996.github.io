@@ -10,7 +10,7 @@ Education
 * Ph.D. in Electrical Engineering at Texas A&M University, College Station, in Shen Lab supervision by Prof. [Yang Shen](https://shen-lab.github.io/), Aug 2019 - Present
 * Bachelor of Engineering in Information Engineering at Xi'an Jiaotong University, Aug 2015 - Jun 2019 
 
-Professional Experimences
+Professional Experimence
 =====
 * Voluntary Research Assistant, May 2019 - Aug 2019 
   * [SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) at Sun Yat-Sen University, Guangzhou 
