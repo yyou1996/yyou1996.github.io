@@ -15,7 +15,7 @@ author_profile: true
 Professional Experimence
 =====
 **Voluntary Research Assistant**, May 2019 - Aug 2019 \\
--- [SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) at Sun Yat-Sen University, Guangzhou \\
+-- [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) at Sun Yat-Sen University, Guangzhou \\
 -- Supervisor: Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/) \\
 -- Research topics: Graph convolutional networks, skeleton-based action recognition
 
