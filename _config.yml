@@ -86,9 +86,11 @@ author:
   location         : 
   employer         :
   pubmed           : #
-  googlescholar    : "https://scholar.google.com/citations?user=KEwC1N8AAAAJ&hl=en"
   email            : "yuning.you@tamu.edu"
-  # researchgate     : "https://www.researchgate.net/profile/Yuning_You4"
+  googlescholar    : "https://scholar.google.com/citations?user=KEwC1N8AAAAJ&hl=en"
+  github           : "yyou1996"
+  linkedin         : "yuningyou"
+  researchgate     : # "https://www.researchgate.net/profile/Yuning_You4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +98,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yyou1996"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yuningyou"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
