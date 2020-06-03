@@ -12,7 +12,7 @@ author_profile: true
 **Xian Jiaotong University, Xi'an**, Aug 2015 - Jun 2019 \\
 -- Bachelor of Engineering in Information Engineering
 
-Professional Experimence
+Professional Experience
 =====
 **Voluntary Research Assistant**, May 2019 - Aug 2019 \\
 -- [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) at Sun Yat-Sen University, Guangzhou \\
