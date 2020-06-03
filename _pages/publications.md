@@ -13,5 +13,5 @@ G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, "An Optimization Approach of Compr
 
 Preprint Draft
 =====
-**Y. You**, G. Lv, "Sphere Bounding Scheme for Probabilistic Robust Constructive Interference Precoding in MISO Downlink Transmission", 2019. [[arXiv]](https://arxiv.org/abs/1903.04740)
+**Y. You** and G. Lv, "Sphere Bounding Scheme for Probabilistic Robust Constructive Interference Precoding in MISO Downlink Transmission", 2019. [[arXiv]](https://arxiv.org/abs/1903.04740)
 
