@@ -14,8 +14,7 @@ My research interests include but are not limited to graph machine learning and 
 
 Recent News:
 =====
+**Jun.** Publish [When does Self-Supervision Help Graph Convolutional Networks?]() @ ICML 2020.
+
 **Feb 2020.** Publish "[L^2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" @ CVPR 2020.
-
-**Aug 2019 - Pres.** Attend Texas A&M University, College Station, United States, for the Ph.D.'s Degree in Electrical Engineering, and join Shen Lab supervision by Prof. [Yang Shen](https://shen-lab.github.io/).
-
 
