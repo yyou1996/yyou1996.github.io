@@ -9,7 +9,7 @@ author_profile: true
 -- Ph.D. in Electrical Engineering \\
 -- Shen Lab, supervision by Prof. [Yang Shen](https://shen-lab.github.io/)
 
-**Xian Jiaotong University, Xi'An**, Aug 2015 - Jun 2019 \\
+**Xian Jiaotong University, Xi'an**, Aug 2015 - Jun 2019 \\
 -- Bachelor of Engineering in Information Engineering
 
 Professional Experimence
