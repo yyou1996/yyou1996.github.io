@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 **Ph.D. student** in Electrical Engineering at Texas A&M University, College Station, Aug 2019 - Present \\
+-- Shen Lab, Supervision by Prof. [Yang Shen](https://shen-lab.github.io/)
+
 **Bachelor of Engineering** in Information Engineering at Xi'an Jiaotong University, Xi'an, Aug 2015 - Jun 2019 
 
 Professional Experimence
