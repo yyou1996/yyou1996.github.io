@@ -10,6 +10,7 @@ News
 **Jun.** Publish an [self-supervised GCN]() paper @ ICML 2020.
 
 **Feb 2020.** Publish an [efficient GCN training](https://arxiv.org/abs/2003.13606) paper @ CVPR 2020.
+
 -----
 
 **Aug - Pres.** Attend Texas A&M University, College Station, United States, for the Ph.D.'s Degree in Electrical Engineering, and join Shen Lab supervision by Prof. Yang Shen.
