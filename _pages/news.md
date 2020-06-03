@@ -7,8 +7,7 @@ author_profile: true
 
 News
 =====
-**Jun.** Publish an [When does Self-Supervision Help Graph Convolutional Networks?]() paper @ ICML 2020.
-
+**Jun.** Publish an [When does Self-Supervision Help Graph Convolutional Networks?]() paper @ ICML 2020. \\
 **Feb 2020.** Publish [L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606) @ CVPR 2020.
 
 -----
