@@ -13,7 +13,7 @@ I am a first-year Ph.D. student in Shen Lab of Department of Electrical and Comp
 My research interests include but are not limited to graph machine learning and self-supervised learning. I am excited about any research that can provide insights.
 
 Recent News:
------
+=====
 **Feb 2020.** Publish "[L^2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" @ CVPR 2020.
 
 **Aug 2019 - Pres.** Attend Texas A&M University, College Station, United States, for the Ph.D.'s Degree in Electrical Engineering, and join Shen Lab supervision by Prof. [Yang Shen](https://shen-lab.github.io/).
