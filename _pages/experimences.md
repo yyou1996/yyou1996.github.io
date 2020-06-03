@@ -5,10 +5,12 @@ permalink: /experimences/
 author_profile: true
 ---
 
-**Ph.D. student** in Electrical Engineering at Texas A&M University, College Station, Aug 2019 - Present \\
--- Shen Lab, Supervision by Prof. [Yang Shen](https://shen-lab.github.io/)
+**Texas A&M University, College Station**, Aug 2019 - Present \\
+-- Ph.D. in Electrical Engineering \\
+-- Shen Lab, supervision by Prof. [Yang Shen](https://shen-lab.github.io/)
 
-**Bachelor of Engineering** in Information Engineering at Xi'an Jiaotong University, Xi'an, Aug 2015 - Jun 2019 
+**Xian Jiaotong University, Xi'An**, Aug 2015 - Jun 2019 \\
+-- Bachelor of Engineering in Information Engineering
 
 Professional Experimence
 =====
