@@ -16,7 +16,7 @@ News
 
 **Jul - Aug 2018.** Join [Optical+Biomedical Engineering Laboratory (OBEL)](http://obel.ee.uwa.edu.au/) in the School of Electrical, Electronic & Computer Engineering at the University of Western Australia, Perth, Australia, as a voluntary research assistant supervision by Dr. [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao) & Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao).
 
-**Dec 2016.** Receive 1<sup>st<\sup> Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling from China Society for Industrial and Applied Mathematics.
+**Dec 2016.** Receive 1<sup>st</sup> Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling from China Society for Industrial and Applied Mathematics.
 
 **Aug 2015 - Jun 2019.** Attend Xi'an Jiaotong University, Xi'an, China, for the Bachelor's Degree in Information Engineering.
 
