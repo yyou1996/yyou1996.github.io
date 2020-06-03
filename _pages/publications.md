@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Publication"
 permalink: /publications/
 author_profile: true
 ---
 
-Publication
-=====
 **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "When does Self-Supervision Help Graph Convolutional Networks?", *International Conference on Machine Learning* (**ICML**), 2020.
 [[arXiv]]() [[code]]() [[supplement]]() \\
 **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks", *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2020.
