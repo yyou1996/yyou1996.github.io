@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "When Does Self-Supervision Help Graph Convolutional Networks?", *International Conference on Machine Learning* (**ICML**), 2020.
-[[arXiv]]() [[code]](https://github.com/Shen-Lab/SS-GCNs) [[supplement]](https://yyou1996.github.io/files/icml2020_ssgcn_supplement.pdf)
+[[arXiv]](https://arxiv.org/abs/2006.09136) [[code]](https://github.com/Shen-Lab/SS-GCNs) [[supplement]](https://yyou1996.github.io/files/icml2020_ssgcn_supplement.pdf)
 
 **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks", *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2020.
 [[arXiv]](https://arxiv.org/abs/2003.13606) [[code]](https://github.com/TAMU-VITA/L2-GCN) [[supplement]](https://yyou1996.github.io/files/cvpr2020_l2gcn_supplement.pdf)
