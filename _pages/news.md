@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-**Jun.** Publish "[When Does Self-Supervision Help Graph Convolutional Networks?]()" (self-supervision in GCNs) @ ICML 2020. \\
+**Jun.** Publish "[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)" (self-supervision in GCNs) @ ICML 2020. \\
 **Feb 2020.** Publish "[L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" (efficient GCN training) @ CVPR 2020.
 
 **Aug - Present.** Attend Texas A&M University, College Station, United States, for the Ph.D.'s Degree in Electrical Engineering, and join Shen Lab supervision by Prof. [Yang Shen](https://shen-lab.github.io/). \\
