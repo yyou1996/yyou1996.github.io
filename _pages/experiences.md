@@ -10,8 +10,7 @@ author_profile: true
 -- Shen Lab, supervision by Prof. [Yang Shen](https://shen-lab.github.io/)
 
 **Xian Jiaotong University, Xi'an**, Aug 2015 - Jun 2019 \\
--- Bachelor of Engineering in Information Engineering
-
+-- Bachelor of Engineering in Information Engineering \\
 <br />
 
 Professional Experience
