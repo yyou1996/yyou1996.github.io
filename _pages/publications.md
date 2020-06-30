@@ -11,8 +11,7 @@ author_profile: true
 **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks", *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2020.
 [[arXiv]](https://arxiv.org/abs/2003.13606) [[code]](https://github.com/TAMU-VITA/L2-GCN) [[supplement]](https://yyou1996.github.io/files/cvpr2020_l2gcn_supplement.pdf)
 
-G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", *IEEE International Conference on Image Processing, Applications and Systems* (**IPAS**), pp. 226-231, 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870)
-
+G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", *IEEE International Conference on Image Processing, Applications and Systems* (**IPAS**), pp. 226-231, 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870) \\
 <br />
 
 Preprint Draft
