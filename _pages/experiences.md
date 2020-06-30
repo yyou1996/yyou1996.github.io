@@ -12,6 +12,8 @@ author_profile: true
 **Xian Jiaotong University, Xi'an**, Aug 2015 - Jun 2019 \\
 -- Bachelor of Engineering in Information Engineering
 
+<br />
+
 Professional Experience
 =====
 **Voluntary Research Assistant**, May 2019 - Aug 2019 \\
