@@ -13,6 +13,8 @@ author_profile: true
 
 G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", *IEEE International Conference on Image Processing, Applications and Systems* (**IPAS**), pp. 226-231, 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870)
 
+<br />
+
 Preprint Draft
 =====
 **Y. You** and G. Lv, "Sphere Bounding Scheme for Probabilistic Robust Constructive Interference Precoding in MISO Downlink Transmission", 2019. [[arXiv]](https://arxiv.org/abs/1903.04740)
