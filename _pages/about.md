@@ -12,6 +12,8 @@ I am a first-year Ph.D. student in Shen Lab of Department of Electrical and Comp
 
 My research interests include but are not limited to graph machine learning and self-supervised learning. I am excited about any research that can provide insights.
 
+<br />
+
 Recent News
 =====
 **Jun.** Publish "[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)" (self-supervision in GCNs) @ ICML 2020. \\
