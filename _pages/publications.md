@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, "Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations", *Conference on Neural Information Processing Systems* (**NeurIPS**), 2020.
+[[arXiv]]() [[code]](https://github.com/Shen-Lab/GraphCL) [[supplement]]() [[slides]]()
+
 **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "When Does Self-Supervision Help Graph Convolutional Networks?", *International Conference on Machine Learning* (**ICML**), 2020.
 [[arXiv]](https://arxiv.org/abs/2006.09136) [[code]](https://github.com/Shen-Lab/SS-GCNs) [[supplement]](https://yyou1996.github.io/files/icml2020_ssgcn_supplement.pdf) [[slides]](https://yyou1996.github.io/files/icml2020_ssgcn_slides.pdf)
 
