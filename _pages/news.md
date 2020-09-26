@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+**Sep.** Publish "[Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations]()" (contrastive learning in GNN pre-training) @ NeurIPS 2020. \\
 **Jun.** Publish "[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)" (self-supervision in GCNs) @ ICML 2020. \\
 **Feb 2020.** Publish "[L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" (efficient GCN training) @ CVPR 2020.
 
