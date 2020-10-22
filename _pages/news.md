@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-**Sep.** Publish "[Graph Contrastive Learning with Augmentations]()" (contrastive learning in GNN pre-training) @ NeurIPS 2020 (to be released before Oct. 22nd). \\
+**Sep.** Publish "[Graph Contrastive Learning with Augmentations]()" (contrastive learning in GNN pre-training) @ NeurIPS 2020. \\
 **Sep - Present.** Employed by Department of Electrical and Computer Engineering at Texas A&M University, College Station, United States, as a graduate research assistant supervision by Prof. [Yang Shen](https://shen-lab.github.io/). \\
 **Jun.** Publish "[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)" (self-supervision in GCNs) @ ICML 2020. \\
 **Feb 2020.** Publish "[L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" (efficient GCN training) @ CVPR 2020.
