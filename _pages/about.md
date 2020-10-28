@@ -15,5 +15,5 @@ My research interests include but are not limited to graph machine learning and 
 
 Recent News
 =====
-**Sep.** Publish "[Graph Contrastive Learning with Augmentations]()" (contrastive learning in GNN pre-training) @ NeurIPS 2020 (uploaded to arXiv on Oct. 22nd). \\
+**Sep.** Publish "[Graph Contrastive Learning with Augmentations](https://arxiv.org/abs/2010.13902)" (contrastive learning in GNN pre-training) @ NeurIPS 2020. \\
 **Sep 2020 - Present.** Employed by Department of Electrical and Computer Engineering at Texas A&M University, College Station, as a graduate research assistant supervision by Prof. [Yang Shen](https://shen-lab.github.io/).
