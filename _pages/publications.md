@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+**NeurIPS'20**: "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*, 2020.
+[[arXiv]](https://arxiv.org/abs/2010.13902) [[code]](https://github.com/Shen-Lab/GraphCL) [[supplement]](https://yyou1996.github.io/files/neurips2020_graphcl_supplement.pdf) [[slides]](https://yyou1996.github.io/files/neurips2020_graphcl_slides.pdf)
+
 **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, "Graph Contrastive Learning with Augmentations", *Conference on Neural Information Processing Systems* (**NeurIPS**), 2020.
 [[arXiv]](https://arxiv.org/abs/2010.13902) [[code]](https://github.com/Shen-Lab/GraphCL) [[supplement]](https://yyou1996.github.io/files/neurips2020_graphcl_supplement.pdf) [[slides]](https://yyou1996.github.io/files/neurips2020_graphcl_slides.pdf)
 
