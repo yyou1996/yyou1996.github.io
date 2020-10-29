@@ -5,16 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-**NeurIPS'20**: "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*, 2020.
+**NeurIPS'20.** "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*, 2020.
 [[arXiv]](https://arxiv.org/abs/2010.13902) [[code]](https://github.com/Shen-Lab/GraphCL) [[supplement]](https://yyou1996.github.io/files/neurips2020_graphcl_supplement.pdf) [[slides]](https://yyou1996.github.io/files/neurips2020_graphcl_slides.pdf)
 
-**Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, "Graph Contrastive Learning with Augmentations", *Conference on Neural Information Processing Systems* (**NeurIPS**), 2020.
-[[arXiv]](https://arxiv.org/abs/2010.13902) [[code]](https://github.com/Shen-Lab/GraphCL) [[supplement]](https://yyou1996.github.io/files/neurips2020_graphcl_supplement.pdf) [[slides]](https://yyou1996.github.io/files/neurips2020_graphcl_slides.pdf)
-
-**Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "When Does Self-Supervision Help Graph Convolutional Networks?", *International Conference on Machine Learning* (**ICML**), 2020.
+**ICML'20.** "When Does Self-Supervision Help Graph Convolutional Networks?", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, *International Conference on Machine Learning*, 2020.
 [[arXiv]](https://arxiv.org/abs/2006.09136) [[code]](https://github.com/Shen-Lab/SS-GCNs) [[supplement]](https://yyou1996.github.io/files/icml2020_ssgcn_supplement.pdf) [[slides]](https://yyou1996.github.io/files/icml2020_ssgcn_slides.pdf)
 
-**Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, "L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks", *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2020.
+**CVPR'20.** "L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2020.
 [[arXiv]](https://arxiv.org/abs/2003.13606) [[code]](https://github.com/TAMU-VITA/L2-GCN) [[supplement]](https://yyou1996.github.io/files/cvpr2020_l2gcn_supplement.pdf) [[slides]](https://yyou1996.github.io/files/cvpr2020_l2gcn_slides.pdf)
 
 G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", *IEEE International Conference on Image Processing, Applications and Systems* (**IPAS**), pp. 226-231, 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870) \\
