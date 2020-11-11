@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **NeurIPS'20.** "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*, 2020.
-[[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf) [[arXiv]](https://arxiv.org/abs/2010.13902) [[code]](https://github.com/Shen-Lab/GraphCL)
+[[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf) [[arXiv]](https://arxiv.org/abs/2010.13902) [[code]](https://github.com/Shen-Lab/GraphCL) [[supplement]](https://yyou1996.github.io/files/neurips2020_graphcl_supplement.pdf)
 
 **ICML'20.** "When Does Self-Supervision Help Graph Convolutional Networks?", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, *International Conference on Machine Learning*, 2020.
 [[arXiv]](https://arxiv.org/abs/2006.09136) [[code]](https://github.com/Shen-Lab/SS-GCNs) [[supplement]](https://yyou1996.github.io/files/icml2020_ssgcn_supplement.pdf)
