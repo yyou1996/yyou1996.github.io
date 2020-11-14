@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**MLSB'20.** "Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Machine Learning for Structural Biology Workshop (Conference on Neural Information Processing Systems)*, 2020.
+**MLSB'20.** "Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*, 2020.
 [[poster]]() [[arXiv]]()
 
 **NeurIPS'20.** "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*, 2020.
