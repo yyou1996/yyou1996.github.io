@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-**Sep.** Publish "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction]()" (cross-modality learning in CPAC) @ Machine Learning for Structural Biology Workshop on NeurIPS'20 [[poster]](). \\
+**Sep.** Publish "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction]()" (cross-modality learning in CPAC) @ Machine Learning for Structural Biology Workshop, NeurIPS'20 [[poster]](). \\
 **Sep.** Publish "[Graph Contrastive Learning with Augmentations](https://arxiv.org/abs/2010.13902)" (contrastive learning in GNN pre-training) @ NeurIPS'20 [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf). \\
 **Sep - Present.** Employed by Department of Electrical and Computer Engineering at Texas A&M University, College Station, as a graduate research assistant supervision by Prof. [Yang Shen](https://shen-lab.github.io/). \\
 **Jun.** Publish "[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)" (self-supervision in GCNs) @ ICML'20. \\
