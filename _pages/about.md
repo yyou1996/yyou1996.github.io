@@ -21,6 +21,6 @@ Recent News
 
 Selected Papers
 =====
-**ICML'20.** "When Does Self-Supervision Help Graph Convolutional Networks?". [[arXiv]](https://arxiv.org/abs/2006.09136) \\
 **NeurIPS'20.** "Graph Contrastive Learning with Augmentations". [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf) [[arXiv]](https://arxiv.org/abs/2010.13902) \\
+**ICML'20.** "When Does Self-Supervision Help Graph Convolutional Networks?". [[arXiv]](https://arxiv.org/abs/2006.09136) \\
 **MLSB'20.** "Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction". [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)
