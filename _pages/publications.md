@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **KDF'21.** "AR-Stock: Deep Augmented Relational Stock Prediction", T. Wei, **Y. You**, T. Chen, *Knowledge Discovery from Unstructured Data in Financial Services Workshop, Association for the Advancement of Artificial Intelligence Conference*, 2021.
-[[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1) \\
+[[paper]]() \\
 **MLSB'20.** "Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*, 2020.
 [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1) \\
 **NeurIPS'20.** "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*, 2020.
