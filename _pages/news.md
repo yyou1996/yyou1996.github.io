@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-**Feb 2021.** Pass PhD qualifying exam.
+**Feb 2021.** Pass Ph.D. qualifying exam.
 
 **Dec.** Publish "[AR-Stock: Deep Augmented Relational Stock Prediction](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)" (GCN in stock prediction) @ Knowledge Discovery from Unstructured Data in Financial Services Workshop, AAAI'21. \\
 **Sep.** Publish "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)" (cross-modality learning in CPAC) @ Machine Learning for Structural Biology Workshop, NeurIPS'20 [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf). \\
