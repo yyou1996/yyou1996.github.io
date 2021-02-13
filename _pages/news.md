@@ -7,8 +7,8 @@ author_profile: true
 
 **Feb 2021.** Pass Ph.D. qualifying exam.
 
-**Dec.** Publish "[AR-Stock: Deep Augmented Relational Stock Prediction](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)" (GCNs in stock prediction) @ Knowledge Discovery from Unstructured Data in Financial Services Workshop, AAAI'21. \\
-**Sep.** Publish "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)" (cross-modality learning in CPAC) @ Machine Learning for Structural Biology Workshop, NeurIPS'20 [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf). \\
+**Dec.** Publish "[AR-Stock: Deep Augmented Relational Stock Prediction](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)" (GCNs in stock prediction) @ KDF Workshop, AAAI'21. \\
+**Sep.** Publish "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)" (cross-modality learning in CPAC) @ MLSB Workshop, NeurIPS'20 [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf). \\
 **Sep.** Publish "[Graph Contrastive Learning with Augmentations](https://arxiv.org/abs/2010.13902)" (contrastive learning in GNN pre-training) @ NeurIPS'20 [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf). \\
 **Sep - Present.** Employed by Department of Electrical and Computer Engineering at Texas A&M University, College Station, as a graduate research assistant supervision by Prof. [Yang Shen](https://shen-lab.github.io/). \\
 **Jun.** Publish "[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)" (self-supervision in GCNs) @ ICML'20. \\
