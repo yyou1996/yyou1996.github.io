@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+**Feb.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). \\
 **Feb 2021.** Pass Ph.D. qualifying exam.
 
 **Dec.** Publish "[AR-Stock: Deep Augmented Relational Stock Prediction](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)" (GCNs in stock prediction) @ KDF Workshop, AAAI'21. \\
