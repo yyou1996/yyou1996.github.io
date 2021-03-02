@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-**Mar.** Publish "[Probabilistic Constructive Interference Precoding for Imperfect CSIT]()" (robust precoding in wireless communication, my undergraduate thesis work) @ IEEE TVT'21. \\
+**Mar.** Publish "[Probabilistic Constructive Interference Precoding for Imperfect CSIT]()" (robust precoding in wireless communication, my undergraduate thesis work) @ TVT'21. \\
 **Feb.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). \\
 **Feb 2021.** Pass Ph.D. qualifying exam.
 
