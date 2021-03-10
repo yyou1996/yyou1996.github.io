@@ -7,7 +7,7 @@ author_profile: true
 
 **TVT'21.** "Probabilistic Constructive Interference Precoding for Imperfect CSIT", *IEEE Transactions on Vehicular Technology*, 2021.
 [[paper]]() \\
-**KDF'21.** "AR-Stock: Deep Augmented Relational Stock Prediction", T. Wei, **Y. You**, T. Chen, *Knowledge Discovery from Unstructured Data in Financial Services Workshop, Association for the Advancement of Artificial Intelligence Conference*, 2021.
+**KDF'21 Oral.** "AR-Stock: Deep Augmented Relational Stock Prediction", T. Wei, **Y. You**, T. Chen, *Knowledge Discovery from Unstructured Data in Financial Services Workshop, Association for the Advancement of Artificial Intelligence Conference*, 2021.
 [[paper]](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)
 
 **MLSB'20.** "Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*, 2020.
