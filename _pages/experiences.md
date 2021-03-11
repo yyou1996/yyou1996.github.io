@@ -26,7 +26,7 @@ Professional Experience
 **Voluntary Research Assistant**, Sep 2018 - Apr 2019 \\
 -- [State Key Laboratory for Strength and Vibration of Mechanical Structures](http://mssv.xjtu.edu.cn/) at Xi'an Jiaotong University, Xi'an \\
 -- Supervisor: Dr. [Gangming Lyu](http://gr.xjtu.edu.cn/web/gmlv/1), Prof. [Guiyan Rong](http://gr.xjtu.edu.cn/web/yanguirong/1) \\
--- Research topics: Sphere bounding scheme for probabilistic robust constructive interference precoding in MISO downlink transmission \\
+-- Research topics: Robust constructive interference precoding in MISO downlink transmission \\
 **Voluntary Research Assistant**, Jul 2018 - Aug 2018 \\
 -- [Optical+Biomedical Engineering Laboratory (OBEL)](http://obel.ee.uwa.edu.au) at The University of Western Australia, Perth \\
 -- Supervisors: Dr. [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao), Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao) \\
