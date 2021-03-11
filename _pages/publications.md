@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**TVT'21.** "Probabilistic Constructive Interference Precoding for Imperfect CSIT", G. Lyu, **Y. You**, A. Li, X. Liao, C. Masouros *IEEE Transactions on Vehicular Technology*, 2021.
+**TVT'21.** "Probabilistic Constructive Interference Precoding for Imperfect CSIT", G. Lyu, **Y. You**, A. Li, X. Liao, C. Masouros, *IEEE Transactions on Vehicular Technology*, 2021.
 [[paper]](https://ieeexplore.ieee.org/document/9374108) \\
 **KDF'21 Oral.** "AR-Stock: Deep Augmented Relational Stock Prediction", T. Wei, **Y. You**, T. Chen, *Knowledge Discovery from Unstructured Data in Financial Services Workshop, Association for the Advancement of Artificial Intelligence Conference*, 2021.
 [[paper]](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)
