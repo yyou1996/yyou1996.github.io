@@ -21,7 +21,7 @@ author_profile: true
 
 **arXiv'19.** "Sphere Bounding Scheme for Probabilistic Robust Constructive Interference Precoding in MISO Downlink Transmission", **Y. You** and G. Lyu, 2019. [[arXiv]](https://arxiv.org/abs/1903.04740)
 
-**IPAS'18.** "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, *IEEE International Conference on Image Processing, Applications and Systems*, pp. 226-231. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870)
+**IPAS'18.** "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, *IEEE International Conference on Image Processing, Applications and Systems*, pp. 226-231. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870) \\
 <br />
 
 
