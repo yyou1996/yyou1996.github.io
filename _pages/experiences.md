@@ -16,8 +16,8 @@ author_profile: true
 
 Professional Experience
 =====
-**Graduate Research Assistant**, Sep 2020 - Present \\
--- Department of Electrical and Computer Engineering at Texas A&M University, College Station \\
+**Graduate Research Assistant @ TAMU**, Sep 2020 - Present \\
+-- Department of Electrical and Computer Engineering in Texas A&M University, College Station \\
 -- Supervisor: Prof. [Yang Shen](https://shen-lab.github.io) \\
 -- Research topics:  Bioinformatics (to be determined)
 
