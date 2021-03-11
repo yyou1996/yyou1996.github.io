@@ -28,7 +28,7 @@ Professional Experience
 
 **@ XJTU**, Voluntary Research Assistant, Sep 2018 - Apr 2019 \\
 -- [State Key Laboratory for Strength and Vibration of Mechanical Structures](http://mssv.xjtu.edu.cn/) in Xi'an Jiaotong University, Xi'an \\
--- Supervisor: Dr. [Gangming Lyu](http://gr.xjtu.edu.cn/web/gmlv/1), Prof. [Guiyan Rong](http://gr.xjtu.edu.cn/web/yanguirong/1) \\
+-- Supervisors: Dr. [Gangming Lyu](http://gr.xjtu.edu.cn/web/gmlv/1), Prof. [Guiyan Rong](http://gr.xjtu.edu.cn/web/yanguirong/1) \\
 -- Research topics: Robust constructive interference precoding in MISO downlink transmission
 
 **@ UWA**, Voluntary Research Assistant, Jul 2018 - Aug 2018 \\
