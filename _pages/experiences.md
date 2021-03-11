@@ -9,7 +9,7 @@ author_profile: true
 -- Ph.D. Student in Electrical Engineering \\
 -- Supervisor: Prof. [Yang Shen](https://shen-lab.github.io)
 
-**Xian Jiaotong University, Xi'an**, Aug 2015 - Jun 2019 \\
+**Xi'an Jiaotong University, Xi'an**, Aug 2015 - Jun 2019 \\
 -- Bachelor of Engineering in Information Engineering \\
 -- Undergraduate thesis supervisor: Dr. [Gangming Lyu](http://gr.xjtu.edu.cn/web/gmlv/1) \\
 <br />
