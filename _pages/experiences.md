@@ -10,7 +10,6 @@ author_profile: true
 -- Supervisor: Prof. [Yang Shen](https://shen-lab.github.io) \\
 **Xi'an Jiaotong University, Xi'an**, Aug 2015 - Jun 2019 \\
 -- Bachelor of Engineering in Information Engineering \\
--- Undergraduate thesis supervisor: Dr. [Gangming Lyu](http://gr.xjtu.edu.cn/web/gmlv/1) \\
 <br />
 
 Professional Experience
