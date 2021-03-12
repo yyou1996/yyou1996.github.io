@@ -15,9 +15,9 @@ author_profile: true
 Professional Experience
 =====
 **Graduate Research Assistant**, Sep 2020 - Present \\
--- Department of Electrical and Computer Engineering in Texas A&M University, College Station \\
--- Supervisor: Prof. [Yang Shen](https://shen-lab.github.io) \\
--- Research topics:  Bioinformatics (to be determined)
+Department of Electrical and Computer Engineering in Texas A&M University, College Station \\
+Supervisor: Prof. [Yang Shen](https://shen-lab.github.io) \\
+Research topics:  Bioinformatics (to be determined)
 
 **Voluntary Research Assistant**, May 2019 - Aug 2019 \\
 -- [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn) in Sun Yat-Sen University, Guangzhou \\
