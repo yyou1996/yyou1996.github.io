@@ -19,8 +19,6 @@ author_profile: true
 **CVPR'20.** "L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2020.
 [[arXiv]](https://arxiv.org/abs/2003.13606) [[code]](https://github.com/TAMU-VITA/L2-GCN) [[appendix]](https://yyou1996.github.io/files/cvpr2020_l2gcn_supplement.pdf)
 
-**arXiv'19.** "Sphere Bounding Scheme for Probabilistic Robust Constructive Interference Precoding in MISO Downlink Transmission", **Y. You** and G. Lyu, 2019. [[arXiv]](https://arxiv.org/abs/1903.04740)
-
 **IPAS'18.** "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, *IEEE International Conference on Image Processing, Applications and Systems*, pp. 226-231. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870) \\
 <br />
 
