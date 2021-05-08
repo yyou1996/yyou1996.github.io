@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+**May.** One paper is accepted as long talk @ ICML'21. \\
 **Mar.** Publish "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (my undergraduate thesis work, robust CI precoding) @ TVT'21. \\
 **Feb.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). \\
 **Feb 2021.** Pass Ph.D. qualifying exam.
