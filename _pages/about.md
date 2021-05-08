@@ -15,7 +15,7 @@ My research interests include but are not limited to graph machine learning and 
 
 Academic News
 =====
-**May 2021.** One paper is accepted (long presentation, 3.01%) @ ICML'21. \\
+**May 2021.** One paper is accepted as long presentation @ ICML'21. \\
 **Sep 2020.** Publish "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)" (cross-modality learning in CPAC) @ MLSB Workshop, NeurIPS'20 [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf). \\
 <br />
 
