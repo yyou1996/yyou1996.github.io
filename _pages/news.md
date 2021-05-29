@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Jun - Present.** Join Amazon Product Graph Group in Amazon.com Services, Inc. remotely, as an applied scientist intern supervision by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
-**May.** Publish "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction" (cross-modality and self-supervised CPAC) @ 3DSIG Workshop, ISMB/ECCB’21. \\
+**May.** Publish "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction" (talk, cross-modality & self-supervised CPAC) @ 3DSIG Workshop, ISMB/ECCB’21. \\
 **May.** One paper is accepted as long presentation @ ICML'21. \\
 **Mar.** Publish "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (my undergraduate thesis work, robust CI precoding) @ TVT'21. \\
 **Feb.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). \\
