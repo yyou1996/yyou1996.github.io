@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-**Jun.** Join Amazon Product Graph Group in Amazon.com Services, Inc. remotely, as an applied scientist intern supervision by Dr [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
+**Jun.** Join Amazon Product Graph Group in Amazon.com Services, Inc. remotely, as an applied scientist intern supervision by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
 **May.** Publish "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction" @ 3DSIG Workshop, ISMB/ECCB’21. \\
 **May.** One paper is accepted as long presentation @ ICML'21. \\
 **Mar.** Publish "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (my undergraduate thesis work, robust CI precoding) @ TVT'21. \\
@@ -23,7 +23,7 @@ author_profile: true
 **May - Aug.** Join [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) in the School of Data and Computer Science at Sun Yet-Sen University, Guangzhou, as a voluntary research assistant supervision by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/). \\
 **Feb 2019.** Receive the Electrical and Computer Engineering PhD Merit Fellowship from Texas A&M University.
 
-**Jul - Aug 2018.** Join [Optical+Biomedical Engineering Laboratory (OBEL)](http://obel.ee.uwa.edu.au/) in the School of Electrical, Electronic & Computer Engineering at the University of Western Australia, Perth, as a voluntary research assistant supervision by Dr [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao) & Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao).
+**Jul - Aug 2018.** Join [Optical+Biomedical Engineering Laboratory (OBEL)](http://obel.ee.uwa.edu.au/) in the School of Electrical, Electronic & Computer Engineering at the University of Western Australia, Perth, as a voluntary research assistant supervision by Dr. [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao) & Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao).
 
 **Dec 2016.** Receive 1<sup>st</sup> Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling from China Society for Industrial and Applied Mathematics.
 
