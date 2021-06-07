@@ -17,7 +17,7 @@ Academic News
 =====
 **Jun - Present.** Join Amazon Product Graph Group in Amazon.com Services, Inc. remotely, as an applied scientist intern supervision by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
 **May.** Publish "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction" (talk, cross-modality & self-supervised CPAC) @ 3DSIG Workshop, ISMB/ECCB’21. \\
-**May 2021.** Publish "Graph Contrastive Learning Automated" (long presentation, automatically select augmentations in GraphCL) @ ICML’21. \\
+**May 2021.** Publish "Graph Contrastive Learning Automated" (long presentation, automatic augmentation selection in GraphCL) @ ICML’21. \\
 <br />
 
 Selected Papers
