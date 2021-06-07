@@ -15,7 +15,7 @@ Bachelor of Engineering in Information Engineering \\
 Professional Experience
 =====
 **Applied Scientist Intern**, Jun 2021 - Present \\
-Amazon Product Graph Group, Amazon.com Services, Inc., Remote \\
+Product Semantics Team, Amazon.com Services, Inc., Remote \\
 Supervisor: Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao) \\
 Research topics: Knowledge graph (to be determined) \\
 **Graduate Research Assistant**, Sep 2020 - Present \\
