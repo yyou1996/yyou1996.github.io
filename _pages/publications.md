@@ -7,7 +7,7 @@ author_profile: true
 
 **3DSIG'21 Talk.** "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Structural Bioinformatics and Computational Biophysics Workshop, Conference on Intelligent Systems for Molecular Biology / European Conference on Computational Biology*, 2021.
 [[video]]() [[poster]]() \\
-**ICML'21.** "Graph Contrastive Learning Automated", **Y. You**, T. Chen, Y. Shen, Z. Wang, *International Conference on Machine Learning*, 2021. [[talk]]() [[poster]]()
+**ICML'21 Long Presentation.** "Graph Contrastive Learning Automated", **Y. You**, T. Chen, Y. Shen, Z. Wang, *International Conference on Machine Learning*, 2021. [[talk]]() [[poster]]()
 [[arXiv]]() [[code]]() [[appendix]]() \\
 **TVT'21.** "Probabilistic Constructive Interference Precoding for Imperfect CSIT", G. Lyu, **Y. You**, A. Li, X. Liao, C. Masouros, *IEEE Transactions on Vehicular Technology*, 2021.
 [[paper]](https://ieeexplore.ieee.org/document/9374108) \\
