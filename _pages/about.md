@@ -10,7 +10,7 @@ redirect_from:
 
 **Bio.** I am a second-year Ph.D. student in Department of Electrical and Computer Engineering at Texas A&M University supervised by Prof. [Yang Shen](https://shen-lab.github.io), and unofficially co-supervised by Prof. [Zhangyang Wang](https://www.atlaswang.com), and I received my bachelor's degree from Xi'an Jiaotong University. More details are available at [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 Besides, our lab is recruiting [postdocs](https://shen-lab.github.io/positions-201712.pdf) and [excellent Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf). \\
-**Interests.** My research interests include but are not limited to graph machine learning and self-supervised learning. A repo on graph self-supervision literature can be found [here](https://github.com/ChandlerBang/awesome-self-supervised-gnn). 
+**Interests.** My research interests include but are not limited to graph machine learning and self-supervised learning. A repo on graph self-supervision literature can be found [here](https://github.com/ChandlerBang/awesome-self-supervised-gnn). \\
 <br />
 
 
@@ -18,7 +18,7 @@ Selected Papers
 =====
 **NeurIPS'20.** Graph Contrastive Learning with Augmentations. [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf) [[arXiv]](https://arxiv.org/abs/2010.13902) \\
 **ICML'20.** When Does Self-Supervision Help Graph Convolutional Networks? [[arXiv]](https://arxiv.org/abs/2006.09136) \\
-**MLSB'20.** Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction. [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)
+**MLSB'20.** Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction. [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1) \\
 <br />
 
 
