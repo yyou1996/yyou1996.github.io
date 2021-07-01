@@ -7,7 +7,7 @@ author_profile: true
 **3DSIG'21 Talk.** "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Structural Bioinformatics and Computational Biophysics Workshop, Conference on Intelligent Systems for Molecular Biology / European Conference on Computational Biology*, 2021.
 [[video]]() [[poster]]() \\
 **ICML'21 Long Presentation.** "Graph Contrastive Learning Automated", **Y. You**, T. Chen, Y. Shen, Z. Wang, *International Conference on Machine Learning*, 2021.
-[[video]](https://github.com/Shen-Lab/GraphCL_Automated/blob/master) [[poster]](https://github.com/Shen-Lab/GraphCL_Automated/blob/master) [[arXiv]](https://arxiv.org/abs/2106.07594) [[code]](https://github.com/Shen-Lab/GraphCL_Automated) [[appendix]](https://yyou1996.github.io/files/icml2021_graphcl_automated_supplement.pdf) \\
+[[video]](https://recorder-v3.slideslive.com/?share=39319&s=4366fe70-48a4-4f2c-952b-2a7ca56d48bf) [[poster]](https://yyou1996.github.io/files/icml2021_graphcl_automated_poster.pdf) [[arXiv]](https://arxiv.org/abs/2106.07594) [[code]](https://github.com/Shen-Lab/GraphCL_Automated) [[appendix]](https://yyou1996.github.io/files/icml2021_graphcl_automated_supplement.pdf) \\
 **TVT'21.** "Probabilistic Constructive Interference Precoding for Imperfect CSIT", G. Lyu, **Y. You**, A. Li, X. Liao, C. Masouros, *IEEE Transactions on Vehicular Technology*, 2021.
 [[paper]](https://ieeexplore.ieee.org/document/9374108) \\
 **KDF'21 Oral.** "AR-Stock: Deep Augmented Relational Stock Prediction", T. Wei, **Y. You**, T. Chen, *Knowledge Discovery from Unstructured Data in Financial Services Workshop, Association for the Advancement of Artificial Intelligence Conference*, 2021.
@@ -24,11 +24,4 @@ author_profile: true
 
 **arXiv'19.** "Sphere Bounding Scheme for Probabilistic Robust Constructive Interference Precoding in MISO Downlink Transmission", **Y. You**, G. Lyu. [[paper]](https://arxiv.org/abs/1903.04740)
 
-**IPAS'18.** "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, *IEEE International Conference on Image Processing, Applications and Systems*. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870) \\
-<br />
-
-
-Honors and Awards
-=====
-**Feb 2019.** Electrical and Computer Engineering PhD Merit Fellowship, Texas A&M University. \\
-**Dec 2016.** 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics.
+**IPAS'18.** "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, *IEEE International Conference on Image Processing, Applications and Systems*. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870)
