@@ -11,5 +11,5 @@ author_profile: true
 
 Honors
 =====
-**Feb 2019.** Electrical and Computer Engineering PhD Merit Fellowship, Texas A&M University. \\
-**Dec 2016.** 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics.
+**Feb 2019.** [Texas A&M University](https://www.tamu.edu/), Electrical and Computer Engineering PhD Merit Fellowship. \\
+**Dec 2016.** [China Society for Industrial and Applied Mathematics](https://www.csiam.org.cn/), 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling.
