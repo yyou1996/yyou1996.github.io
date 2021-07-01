@@ -4,8 +4,8 @@ title: "Talks"
 permalink: /talks_and_honors/
 author_profile: true
 ---
-**Jul.** ISMB/ECCB, [3DSIG COSI: Structural Bioinformatics and Computational Biophysics](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig), online. [[video]]() [[slides]]() \\
-**Jul 2021.** ICML, TBD, online. [[video]](https://recorder-v3.slideslive.com/?share=39319&s=4366fe70-48a4-4f2c-952b-2a7ca56d48bf) [[slides]](https://yyou1996.github.io/files/icml2021_graphcl_automated_slides.pdf) \\
+**Jul.** [ISMB/ECCB](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig), 3DSIG COSI: Structural Bioinformatics and Computational Biophysics, online. [[video]]() [[slides]]() \\
+**Jul 2021.** [ICML](https://icml.cc/Conferences/2021), TBD, online. [[video]](https://recorder-v3.slideslive.com/?share=39319&s=4366fe70-48a4-4f2c-952b-2a7ca56d48bf) [[slides]](https://yyou1996.github.io/files/icml2021_graphcl_automated_slides.pdf) \\
 <br />
 
 
