@@ -1,17 +1,9 @@
 ---
 layout: archive
-title: "Honors and Awards"
+title: "Publication"
 permalink: /publications/
 author_profile: true
 ---
-**Feb 2019.** Electrical and Computer Engineering PhD Merit Fellowship, Texas A&M University. \\
-**Dec 2016.** 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics. \\
-<br />
-
-
-
-Publication
-=====
 **3DSIG'21 Talk.** "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Structural Bioinformatics and Computational Biophysics Workshop, Conference on Intelligent Systems for Molecular Biology / European Conference on Computational Biology*, 2021.
 [[video]]() [[poster]]() \\
 **ICML'21 Long Presentation.** "Graph Contrastive Learning Automated", **Y. You**, T. Chen, Y. Shen, Z. Wang, *International Conference on Machine Learning*, 2021.
@@ -32,4 +24,11 @@ Publication
 
 **arXiv'19.** "Sphere Bounding Scheme for Probabilistic Robust Constructive Interference Precoding in MISO Downlink Transmission", **Y. You**, G. Lyu. [[paper]](https://arxiv.org/abs/1903.04740)
 
-**IPAS'18.** "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, *IEEE International Conference on Image Processing, Applications and Systems*. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870)
+**IPAS'18.** "An Optimization Approach of Compressive Sensing Recovery Using Split Quadratic Bregman Iteration with Smoothed l<sub>0</sub> Norm", G. Yang, **Y. You**, Z. Lu, J. Yang, Y. Wang, *IEEE International Conference on Image Processing, Applications and Systems*. [[paper]](https://ieeexplore.ieee.org/abstract/document/8708870) \\
+<br />
+
+
+Honors and Awards
+=====
+**Feb 2019.** Electrical and Computer Engineering PhD Merit Fellowship, Texas A&M University. \\
+**Dec 2016.** 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics.
