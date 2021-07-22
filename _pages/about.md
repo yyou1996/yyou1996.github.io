@@ -19,6 +19,7 @@ A repo on graph self-supervision literature can be found [here](https://github.c
 
 News
 =====
+**Jul.** \\ Serve as the session chair of Semisupervised and Unsupervised Learning @ ICML'21. \\
 **Jun - Present.** Join Product Semantics Team in Amazon.com Services, Inc. remotely, as an applied scientist intern supervision by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
 <!-- **May.** Publish "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction" (talk, cross-modality & self-supervised CPAC) @ 3DSIG Workshop, ISMB/ECCB’21. \\ -->
 **May.** Publish "[Graph Contrastive Learning Automated](https://arxiv.org/abs/2106.07594)" ([long presentation](https://recorder-v3.slideslive.com/?share=39319&s=4366fe70-48a4-4f2c-952b-2a7ca56d48bf), automatic augmentation selection in GraphCL) @ ICML’21. \\
