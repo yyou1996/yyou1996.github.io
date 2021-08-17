@@ -21,8 +21,8 @@ A repo on graph self-supervision literature can be found [here](https://github.c
 
 News
 =====
-**2021/08.** Talk on [the Learning on Graphs and Geometry Reading Group (LoGaG)](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich.
-**2021/07.** Talk on [COSI: Structural Bioinformatics and Computational Biophysics (3DSIG)](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21.
+**2021/08.** Talk on [the Learning on Graphs and Geometry Reading Group (LoGaG)](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich. \\
+**2021/07.** Talk on [COSI: Structural Bioinformatics and Computational Biophysics (3DSIG)](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21. \\
 **2021/07.** Serve as the session chair of [Semisupervised and Unsupervised Learning](https://icml.cc/Conferences/2021/Schedule?showParentSession=12101) @ ICML'21 and talk. \\
 **2021/06 --.** Join Product Semantics Team in Amazon.com Services, Inc. remotely, as an applied scientist intern supervision by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
 <!-- **May.** Publish "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction" (talk, cross-modality & self-supervised CPAC) @ 3DSIG Workshop, ISMB/ECCB’21. \\ -->
