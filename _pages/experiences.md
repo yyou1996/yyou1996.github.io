@@ -30,7 +30,8 @@ Research topics: Graph convolutional network, skeleton-based action recognition 
 **Voluntary Research Assistant**, 2018/07 - 2018/08 \\
 [Optical+Biomedical Engineering Laboratory (OBEL)](http://obel.ee.uwa.edu.au) at The University of Western Australia, Perth \\
 Supervisors: Dr. [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao), Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao) \\
-Research topic: Optical coherence tomography
+Research topic: Optical coherence tomography \\
+<br />
 
 
 Services
