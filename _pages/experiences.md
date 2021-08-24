@@ -35,6 +35,5 @@ Research topic: Optical coherence tomography
 
 Services
 =====
-Session chair of semisupervised and unsupervised learning at ICML’21.
-
+Session chair of semisupervised and unsupervised learning at ICML’21. \\
 Reviewer of ISMB/ECCB’21, ACM BCB’21, ICML’21, NeurIPS’21; NeurIPS’20 SSL workshop, WWW’21 SSL workshop, ICML’21 SSL workshop.
