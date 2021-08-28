@@ -14,7 +14,7 @@ Bachelor of Engineering in Information Engineering \\
 
 Professional Experience
 =====
-**Applied Scientist Intern**, 2021/06 -- \\
+**Applied Scientist Intern**, 2021/06 -- 2021/08 \\
 Product Semantics Team, Amazon.com Services, Inc., Remote \\
 Supervisor: Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao) \\
 Research topics: Fine-grained product network embedding \\
