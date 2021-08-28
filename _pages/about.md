@@ -24,7 +24,7 @@ News
 **2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich. \\
 **2021/07.** Talk on [3DSIG COSI](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21. \\
 **2021/07.** Serve as the session chair of [Semisupervised and Unsupervised Learning](https://icml.cc/Conferences/2021/Schedule?showParentSession=12101) @ ICML'21 and talk. \\
-**2021/06 --.** Join Product Semantics Team in Amazon.com Services, Inc. remotely, as an applied scientist intern supervision by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
+**2021/06 -- 2021/08.** Join Product Semantics Team in Amazon.com Services, Inc. remotely, as an applied scientist intern supervision by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
 <!-- **May.** Publish "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction" (talk, cross-modality & self-supervised CPAC) @ 3DSIG Workshop, ISMB/ECCB’21. \\ -->
 **2021/05.** Publish "[Graph Contrastive Learning Automated](https://arxiv.org/abs/2106.07594)" ([long presentation](https://recorder-v3.slideslive.com/?share=39319&s=4366fe70-48a4-4f2c-952b-2a7ca56d48bf), automatic augmentation selection in GraphCL) @ ICML’21. \\
 **2021/03.** Publish "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (my undergraduate thesis work, robust CI precoding) @ TVT'21. \\
