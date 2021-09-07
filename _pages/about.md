@@ -21,6 +21,7 @@ A repo on graph self-supervision literature can be found [here](https://github.c
 
 News
 =====
+**2021/09.** Receive Chevron Scholarship from Department of Electrical and Computer Engineering @ Texas A&M University.
 **2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich. \\
 **2021/07.** Talk on [3DSIG COSI](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21. \\
 **2021/07.** Serve as the session chair of [Semisupervised and Unsupervised Learning](https://icml.cc/Conferences/2021/Schedule?showParentSession=12101) @ ICML'21 and talk. \\
@@ -40,7 +41,7 @@ News
 
 **2019/08 --.** Attend Texas A&M University, College Station, for the Ph.D.'s Degree in Electrical Engineering, supervision by Prof. [Yang Shen](https://shen-lab.github.io/). \\
 **2019/05 - 2019/08.** Join [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) in the School of Data and Computer Science at Sun Yet-Sen University, Guangzhou, as a voluntary research assistant supervision by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/). \\
-**2019/02.** Receive the Electrical and Computer Engineering PhD Merit Fellowship from Texas A&M University.
+**2019/02.** Receive the Electrical and Computer Engineering PhD Merit Fellowship from Department of Electrical and Computer Engineering @ Texas A&M University.
 
 **2018/07 - 2018/08.** Join [Optical+Biomedical Engineering Laboratory (OBEL)](http://obel.ee.uwa.edu.au/) in the School of Electrical, Electronic & Computer Engineering at the University of Western Australia, Perth, as a voluntary research assistant supervision by Dr. [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao) & Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao).
 
