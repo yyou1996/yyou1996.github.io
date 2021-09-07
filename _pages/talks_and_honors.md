@@ -12,9 +12,9 @@ author_profile: true
 
 Honors & Awards
 =====
-**2021/09.** Texas A&M University, Department of Electrical and Computer Engineering, Chevron Scholarship. \\
-**2019/02.** Texas A&M University, Department of Electrical and Computer Engineering, Electrical and Computer Engineering PhD Merit Fellowship. \\
-**2016/12.** [China Society for Industrial and Applied Mathematics](https://www.csiam.org.cn/), 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling. \\
+**2021/09.** Chevron Scholarship, Texas A&M University, Department of Electrical and Computer Engineering. \\
+**2019/02.** Electrical and Computer Engineering PhD Merit Fellowship, Texas A&M University, Department of Electrical and Computer Engineering. \\
+**2016/12.** 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics. \\
 <br />
 
 
