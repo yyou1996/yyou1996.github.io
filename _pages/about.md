@@ -21,7 +21,7 @@ A repo on graph self-supervision literature can be found [here](https://github.c
 
 News
 =====
-**2021/09.** Receive Chevron Scholarship from Department of Electrical and Computer Engineering @ Texas A&M University.
+**2021/09.** Receive Chevron Scholarship from Department of Electrical and Computer Engineering @ Texas A&M University. \\
 **2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich. \\
 **2021/07.** Talk on [3DSIG COSI](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21. \\
 **2021/07.** Serve as the session chair of [Semisupervised and Unsupervised Learning](https://icml.cc/Conferences/2021/Schedule?showParentSession=12101) @ ICML'21 and talk. \\
