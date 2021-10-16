@@ -14,14 +14,15 @@ Bachelor of Engineering in Information Engineering \\
 
 Professional Experience
 =====
-**Applied Scientist Intern**, 2021/06 -- 2021/08 \\
-Product Semantics Team, Amazon.com Services, Inc., Remote \\
-Supervisor: Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao) \\
-Research topics: Fine-grained product network embedding \\
 **Graduate Research Assistant**, 2020/09 -- \\
 Department of Electrical and Computer Engineering at Texas A&M University, College Station \\
 Supervisor: Prof. [Yang Shen](https://shen-lab.github.io) \\
-Research topics:  Graph machine learning, drug discovery
+Research topics:  Graph self-supervised learning, drug discovery \\
+**Applied Scientist Intern**, 2021/06 -- 2021/08 \\
+Product Semantics Team, Amazon.com Services, Inc., Remote \\
+Supervisor: Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao) \\
+Research topics: Fine-grained product network embedding
+
 
 **Voluntary Research Assistant**, 2019/05 - 2019/08 \\
 [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn) at Sun Yat-Sen University, Guangzhou \\
