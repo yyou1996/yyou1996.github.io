@@ -12,7 +12,7 @@ redirect_from:
 Besides, our lab is recruiting [postdocs](https://shen-lab.github.io/positions-201712.pdf) and [excellent Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf).
 
 **Interests.** My research interests include but are not limited to graph machine learning and self-supervised learning.
-E.g. (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902)) with its automated version ([JOAO](https://arxiv.org/abs/2106.07594)),
+E.g. (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902)) with its automated version ([JOAO](https://arxiv.org/abs/2106.07594) and [generative augmentations]()),
 (ii) heuristic self-supervision on graphs ([SS-GCN](https://arxiv.org/abs/2006.09136)),
 and (iii) an application in drug discovery ([CPAC](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)).
 A repo on graph self-supervision literature can be found [here](https://github.com/ChandlerBang/awesome-self-supervised-gnn). \\
