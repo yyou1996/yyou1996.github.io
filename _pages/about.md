@@ -21,7 +21,7 @@ A repo on graph self-supervision literature can be found [here](https://github.c
 
 News
 =====
-**2021/10.** Talk on Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html)’s @ UT Austin. \\
+**2021/10.** Talk on Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html)’s group @ UT Austin. \\
 **2021/10.** Publish "Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations" (generative augmentations in GraphCL) @ WSDM'22. \\
 **2021/09.** Receive Chevron Scholarship from ECEN @ Texas A&M University. \\
 **2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich. \\
