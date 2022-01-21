@@ -21,8 +21,11 @@ A repo on graph self-supervision literature can be found [here](https://github.c
 
 News
 =====
+**2022/01** Publish "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How" (Bayesian learning to optimize) @ ICLR'22.
+
+**2021/12.** Receive NSF Student Travel Awards from WSDM'22. \\
 **2021/10.** Talk on Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html)’s group @ UT Austin. \\
-**2021/10.** Publish "Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations" (generative augmentations in GraphCL) @ WSDM'22. \\
+**2021/10.** Publish "[Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations](https://arxiv.org/abs/2201.01702)" (generative augmentations in GraphCL) @ WSDM'22. \\
 **2021/09.** Receive Chevron Scholarship from ECEN @ Texas A&M University. \\
 **2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich. \\
 **2021/07.** Talk on [3DSIG COSI](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21. [[video]](https://www.youtube.com/watch?v=lX1jSvi44uE) \\
