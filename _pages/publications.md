@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**ICLR'22.** "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How", **Y. You**, Y. Cao, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*.
+**ICLR'22.** "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How", **Y. You**, Y. Cao, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (32.29% acceptance rate)
 
 **WSDM'22.** "Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations", **Y. You**, T. Chen, Z. Wang, Y. Shen, *ACM International Conference on Web Search and Data Mining*. (20.22% acceptance rate) [[arXiv]](https://arxiv.org/abs/2201.01702) [[code]](https://github.com/Shen-Lab/GraphCL_Automated) \\
 **ICML'21 Long Presentation.** "Graph Contrastive Learning Automated", **Y. You**, T. Chen, Y. Shen, Z. Wang, *International Conference on Machine Learning*. (3.01% acceptance rate)
