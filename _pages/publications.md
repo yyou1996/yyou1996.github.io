@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**WSDM'22.** "[Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations]", **Y. You**, T. Chen, Z. Wang, Y. Shen, *ACM International Conference on Web Search and Data Mining*. (20.22% acceptance rate) [[arXiv]](https://arxiv.org/abs/2201.01702) [[code]](https://github.com/Shen-Lab/GraphCL_Automated) \\
+**ICLR'22.** "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How", **Y. You**, Y. Cao, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*.
+
+**WSDM'22.** "Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations", **Y. You**, T. Chen, Z. Wang, Y. Shen, *ACM International Conference on Web Search and Data Mining*. (20.22% acceptance rate) [[arXiv]](https://arxiv.org/abs/2201.01702) [[code]](https://github.com/Shen-Lab/GraphCL_Automated) \\
 **ICML'21 Long Presentation.** "Graph Contrastive Learning Automated", **Y. You**, T. Chen, Y. Shen, Z. Wang, *International Conference on Machine Learning*. (3.01% acceptance rate)
 [[video]](https://recorder-v3.slideslive.com/?share=39319&s=4366fe70-48a4-4f2c-952b-2a7ca56d48bf) [[poster]](https://yyou1996.github.io/files/icml2021_graphcl_automated_poster.pdf) [[arXiv]](https://arxiv.org/abs/2106.07594) [[code]](https://github.com/Shen-Lab/GraphCL_Automated) [[appendix]](https://yyou1996.github.io/files/icml2021_graphcl_automated_supplement.pdf) \\
 **TVT'21.** "Probabilistic Constructive Interference Precoding for Imperfect CSIT", G. Lyu, **Y. You**, A. Li, X. Liao, C. Masouros, *IEEE Transactions on Vehicular Technology*. (impact factor 5.97)
