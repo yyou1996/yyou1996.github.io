@@ -5,8 +5,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-<img align="left" width="15" height="15" src="https://yyou1996.github.io/images/tamu.png">
-&nbsp &nbsp **Texas A&M University, College Station**, 2019/08 -- \\
+**Texas A&M University, College Station**, 2019/08 -- \\
 Ph.D. Student in Electrical Engineering \\
 Supervisor: Prof. [Yang Shen](https://shen-lab.github.io) \\
 **Xi'an Jiaotong University, Xi'an**, 2015/08 - 2019/06 \\
