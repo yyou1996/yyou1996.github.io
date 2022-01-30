@@ -21,7 +21,7 @@ A repo on graph self-supervision literature can be found [here](https://github.c
 
 News
 =====
-**2022/01.** Publish "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How" (Bayesian learning to optimize) @ ICLR'22.
+:tiger: **2022/01.** Publish "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How" (Bayesian learning to optimize) @ ICLR'22.
 
 **2021/12.** Receive NSF Student Travel Awards from WSDM'22. \\
 **2021/10.** Talk on Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html)’s group @ UT Austin. \\
