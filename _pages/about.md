@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-**Bio.** I am a third-year Ph.D. student in the Department of Electrical and Computer Engineering at Texas A&M University supervised by Prof. [Yang Shen](https://shen-lab.github.io), and unofficially co-supervised by Prof. [Zhangyang Wang](https://www.atlaswang.com), and I received my bachelor's degree from Xi'an Jiaotong University. More details are available at [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
+👨‍🎓**Bio.** I am a third-year Ph.D. student in the Department of Electrical and Computer Engineering at Texas A&M University supervised by Prof. [Yang Shen](https://shen-lab.github.io), and unofficially co-supervised by Prof. [Zhangyang Wang](https://www.atlaswang.com), and I received my bachelor's degree from Xi'an Jiaotong University. More details are available at [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 Besides, our lab is recruiting excellent [postdocs](https://shen-lab.github.io/positions-201712.pdf) and [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf).
 
-**Interests.** My research interests include but are not limited to graph machine learning and self-supervised learning.
+🕮**Interests.** My research interests include but are not limited to graph self-supervised learning and drug discovery.
 E.g. (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902)) with its automated version ([JOAO](https://arxiv.org/abs/2106.07594) and [generative augmentations]()),
 (ii) heuristic self-supervision on graphs ([SS-GCN](https://arxiv.org/abs/2006.09136)),
 and (iii) an application in protein-ligand interection prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)).
-A repo on graph self-supervision literature can be found [here](https://github.com/ChandlerBang/awesome-self-supervised-gnn). \\
+A repo on literature of self-supervision on graphs can be found [here](https://github.com/ChandlerBang/awesome-self-supervised-gnn). \\
 <br />
 
 
