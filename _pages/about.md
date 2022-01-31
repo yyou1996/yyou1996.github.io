@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👨‍🎓**Bio.** I am a third-year Ph.D. student in the Department of Electrical and Computer Engineering at Texas A&M University, supervised by Prof. [Yang Shen](https://shen-lab.github.io), and unofficially co-supervised by Prof. [Zhangyang Wang](https://www.atlaswang.com). I received my bachelor's degree from Xi'an Jiaotong University. More details are available at [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
+👨‍🎓**Bio.** I am a third-year Ph.D. student in the Department of Electrical and Computer Engineering at Texas A&M University, supervised by Prof. [Yang Shen](https://shen-lab.github.io) and unofficially co-supervised by Prof. [Zhangyang Wang](https://www.atlaswang.com). I received my bachelor's degree from Xi'an Jiaotong University. More details are available at [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 Besides, our lab is recruiting excellent [postdocs](https://shen-lab.github.io/positions-201712.pdf) and [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf).
 
 🕮**Interests.** My research interests include but are not limited to graph self-supervised learning and drug discovery.
