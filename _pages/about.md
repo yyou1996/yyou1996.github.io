@@ -25,14 +25,14 @@ News
 
 🐂**2021/12.** Receive NSF Student Travel Awards from WSDM'22. \\
 🐂**2021/10.** Talk on Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html)’s group @ UT Austin. \\
-🐂**2021/10.** Publish "[Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations](https://arxiv.org/abs/2201.01702)" (generative augmentations in GraphCL) @ WSDM'22. \\
+🐂**2021/10.** Publish "[Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations](https://arxiv.org/abs/2201.01702)" (generative augmentations in GraphCL) @ WSDM'22. [[poster]](https://yyou1996.github.io/files/wsdm2022_graphcl_lp_poster.pdf) \\
 🐂**2021/09.** Receive Chevron Scholarship from ECEN @ Texas A&M University. \\
 🐂**2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich. \\
 🐂**2021/07.** Talk on [3DSIG COSI](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21. [[video]](https://www.youtube.com/watch?v=lX1jSvi44uE) \\
 🐂**2021/07.** Serve as the session chair of [Semisupervised and Unsupervised Learning](https://icml.cc/Conferences/2021/Schedule?showParentSession=12101) @ ICML'21 and talk. \\
 🐂**2021/06 -- 2021/08.** Join Product Semantics Team in Amazon.com Services, Inc. remotely, as an applied scientist intern supervision by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
-🐂**2021/05.** Publish "[Graph Contrastive Learning Automated](https://arxiv.org/abs/2106.07594)" (long presentation, automatic augmentation selection in GraphCL) @ ICML’21. [[video]](https://slideslive.com/38958634/graph-contrastive-learning-automated) 🌟 \\
-🐂**2021/03.** Publish "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (my undergraduate thesis work, robust CI precoding) @ TVT'21. \\
+🐂**2021/05.** Publish "[Graph Contrastive Learning Automated](https://arxiv.org/abs/2106.07594)" (long presentation, automatic augmentation selection in GraphCL) @ ICML’21. [[video]](https://slideslive.com/38958634/graph-contrastive-learning-automated) 😊 \\
+🐂**2021/03.** Publish "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (my undergraduate thesis work, robust CI precoding) @ TVT'21. 😊 \\
 🐂**2021/02.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). \\
 🐂**2021/02.** Pass Ph.D. qualifying exam.
 
