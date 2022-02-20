@@ -14,7 +14,7 @@ Besides, our lab is recruiting excellent [postdocs](https://shen-lab.github.io/p
 🕮**Interests.** My research interests include but are not limited to graph self-supervised learning and drug discovery.
 E.g. (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902)) with its automated versions ([JOAO](https://arxiv.org/abs/2106.07594) and [GraphCL-LP](https://arxiv.org/abs/2201.01702)),
 (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)),
-and (iii) an application in protein-ligand interection prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)).
+and (iii) an [application](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1) in protein-ligand interection prediction.
 A repo on literature of self-supervision on graphs can be found [here](https://github.com/ChandlerBang/awesome-self-supervised-gnn). \\
 <br />
 
