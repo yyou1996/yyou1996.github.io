@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 **ICLR'22.** "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How", **Y. You**, Y. Cao, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (32.29% acceptance rate)
+[[paper]](https://openreview.net/forum?id=EVVadRFRgL7)
+[[code]](https://github.com/Shen-Lab/Bayesian-L2O)
 
 **WSDM'22.** "Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations", **Y. You**, T. Chen, Z. Wang, Y. Shen, *ACM International Conference on Web Search and Data Mining*. (20.22% acceptance rate)
 [[poster]](https://yyou1996.github.io/files/wsdm2022_graphcl_lp_poster.pdf)
