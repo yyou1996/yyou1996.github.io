@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks_and_honors/
 author_profile: true
 ---
-**2022/03.** AstraZeneca, the Respiratory and Immunology team, online. \\
+**2022/03.** AstraZeneca, AI&A Journal Club, online. \\
 **2021/10.** The University of Texas at Austin, Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html)'s group, online. \\
 **2021/08.** Technical University of Munich, [the Learning on Graphs and Geometry Reading Group (LoGaG)](https://hannes-stark.com/logag-reading-group), online. \\
 **2021/07.** ISMB/ECCB'21, [COSI: Structural Bioinformatics and Computational Biophysics (3DSIG)](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig), online. [[video]](https://www.youtube.com/watch?v=lX1jSvi44uE) \\
