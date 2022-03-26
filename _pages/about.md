@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 👨‍🎓**Bio.** I am a third-year Ph.D. student in the Department of Electrical and Computer Engineering at Texas A&M University, supervised by Prof. [Yang Shen](https://shen-lab.github.io) and unofficially co-supervised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. More details are available at [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
-Besides, our lab is recruiting excellent [postdocs](https://shen-lab.github.io/positions-201712.pdf) and [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf).
+Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf) and [postdocs](https://shen-lab.github.io/positions-201712.pdf).
 
 🕮**Interests.** My research interests are mainly located in graph self-supervised learning and its application on drug discovery.
 E.g. (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902)) with its automated versions ([JOAO](https://arxiv.org/abs/2106.07594) and [GraphCL-LP](https://arxiv.org/abs/2201.01702)),
