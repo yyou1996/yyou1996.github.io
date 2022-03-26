@@ -24,6 +24,6 @@ Honors & Awards
 Services
 =====
 Session chair of semisupervised and unsupervised learning at ICML’21. \\
-Reviewer in conferences of ISMB/ECCB’21, ACM BCB’21, ICML’21, NeurIPS’21, ICLR’22, WWW’22;
+Reviewer in conferences of ISMB/ECCB’21, ACM BCB’21, ICML’21-22, NeurIPS’21, ICLR’22, WWW’22;
 workshops of NeurIPS’20 SSL, WWW’21 SSL, ICML’21 SSL, WWW’22 MLoG;
-journals of TPAMI’21, INS’21, TNNLS’21, PeerJ’21, NEPL’21
+journals of TPAMI’21, INS’21, TNNLS’21-22, PeerJ’21, NEPL’21, JCST’22, SIPN’22.
