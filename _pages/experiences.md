@@ -7,13 +7,17 @@ author_profile: true
 
 **Texas A&M University, College Station**, 2019/08 -- \\
 Ph.D. Student in Electrical Engineering \\
-Supervisor: Prof. [Yang Shen](https://shen-lab.github.io) \\
+Supervisor: Prof. [Yang Shen](https://shen-lab.github.io) (Unofficial Co-Supervisor: Prof. [Zhangyang Wang](https://vita-group.github.io/)) \\
 **Xi'an Jiaotong University, Xi'an**, 2015/08 -- 2019/06 \\
 Bachelor of Engineering in Information Engineering \\
 <br />
 
 Professional Experience
 =====
+**ML Small Molecules Intern**, 2022/05 -- \\
+Department of Data Science and Machine Learning, Insitro, Inc., South San Francisco \\
+Supervisor: Dr. [Bowen Liu](https://scholar.google.com/citations?hl=en&user=l_IWUOAAAAAJ) \\
+Research topics:  TBD \\
 **Graduate Research Assistant**, 2020/09 -- \\
 Department of Electrical and Computer Engineering at Texas A&M University, College Station \\
 Supervisor: Prof. [Yang Shen](https://shen-lab.github.io) \\
