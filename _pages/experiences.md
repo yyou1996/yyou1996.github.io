@@ -21,7 +21,7 @@ Research topics:  TBD \\
 **Graduate Research Assistant**, 2020/09 -- \\
 Department of Electrical and Computer Engineering at Texas A&M University, College Station \\
 Supervisor: Prof. [Yang Shen](https://shen-lab.github.io) \\
-Research topics:  Graph self-supervised learning, drug discovery \\
+Research topics:  Graph self-supervised learning, computational drug discovery \\
 **Applied Scientist Intern**, 2021/06 -- 2021/08 \\
 Product Semantics Team, Amazon.com Services, Inc., Remote \\
 Supervisor: Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao) \\
