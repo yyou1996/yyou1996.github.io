@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **ICLR'22.** "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How", **Y. You**, Y. Cao, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (32.29% acceptance rate)
+[[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 [[paper]](https://openreview.net/forum?id=EVVadRFRgL7)
 [[code]](https://github.com/Shen-Lab/Bayesian-L2O)
 
