@@ -22,7 +22,7 @@ A repo on the literature of self-supervision on graphs can be found [here](https
 News
 =====
 🐯**2022/03.** Talk on AI&A Journal Club @ AstraZeneca. \\
-🐯**2022/01.** Publish "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) @ ICLR'22.
+🐯**2022/01.** Publish "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) @ ICLR'22. [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 
 🐂**2021/12.** Receive NSF Student Travel Awards from WSDM'22. \\
 🐂**2021/10.** Talk on Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html)’s group @ UT Austin. \\
