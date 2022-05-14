@@ -15,7 +15,7 @@ Bachelor of Engineering in Information Engineering \\
 Professional Experience
 =====
 **ML Small Molecules Intern**, 2022/05 -- \\
-Department of Data Science and Machine Learning, Insitro, Inc., South San Francisco \\
+Department of Data Science and Machine Learning, insitro, Inc., South San Francisco \\
 Supervisor: Dr. [Bowen Liu](https://scholar.google.com/citations?hl=en&user=l_IWUOAAAAAJ) \\
 Research topics:  TBD \\
 **Graduate Research Assistant**, 2020/09 -- \\
