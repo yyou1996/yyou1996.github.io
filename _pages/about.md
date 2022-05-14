@@ -21,7 +21,7 @@ A repo on the literature of self-supervision on graphs can be found [here](https
 
 News
 =====
-🐯**2022/05 --.** Join insitro, Inc., South San Francisco, as an ML small molecules intern supervision by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao). \\
+🐯**2022/05 --.** Join the Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules intern supervision by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao). \\
 🐯**2022/03.** Talk on AI&A Journal Club @ AstraZeneca. \\
 🐯**2022/01.** Publish "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) @ ICLR'22. [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 
