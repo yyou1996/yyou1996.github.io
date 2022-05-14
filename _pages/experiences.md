@@ -32,6 +32,10 @@ Research topics: Fine-grained product network embedding
 [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn) at Sun Yat-Sen University, Guangzhou \\
 Supervisor: Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi) \\
 Research topics: Graph convolutional network, skeleton-based action recognition \\
+**Voluntary Research Assistant**, 2018/09 -- 2019/04 \\
+State Key Laboratory for Strength and Vibration of Mechanical Structures at Xi'an Jiaotong University, Xi'an \\
+Supervisors: Dr. [Gangming Lv](http://gr.xjtu.edu.cn/web/gmlv/1), Prof. [Guiyan Rong](http://gr.xjtu.edu.cn/web/yanguirong/1) \\
+Research topic: Robust constructive interference precoding in MISO downlink transmission
 **Voluntary Research Assistant**, 2018/07 -- 2018/08 \\
 [Optical+Biomedical Engineering Laboratory (OBEL)](http://obel.ee.uwa.edu.au) at The University of Western Australia, Perth \\
 Supervisors: Dr. [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao), Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao) \\
