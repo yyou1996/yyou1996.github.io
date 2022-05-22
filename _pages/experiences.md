@@ -16,7 +16,7 @@ Professional Experience
 =====
 **ML Small Molecules Intern**, 2022/05 -- \\
 Department of Data Science and Machine Learning, insitro, Inc., South San Francisco \\
-Supervisor: Dr. [Bowen Liu](https://scholar.google.com/citations?hl=en&user=l_IWUOAAAAAJ) \\
+Supervisor: Dr. [Bowen Liu](https://scholar.google.com/citations?hl=en&user=l_IWUOAAAAAJ), Ralph Ma \\
 Research topics:  TBD \\
 **Graduate Research Assistant**, 2020/09 -- \\
 Department of Electrical and Computer Engineering, Texas A&M University, College Station \\
