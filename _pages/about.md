@@ -35,7 +35,7 @@ News
 🐂**2021/06 -- 2021/08.** Join Product Semantics Team in Amazon.com Services, Inc. remotely, as an applied scientist intern supervision by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
 🐂**2021/05.** Publish "[Graph Contrastive Learning Automated](https://arxiv.org/abs/2106.07594)" (long presentation, automatic augmentation selection in GraphCL) @ ICML’21. [[video]](https://slideslive.com/38958634/graph-contrastive-learning-automated) 😊 \\
 🐂**2021/03.** Publish "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (my undergraduate thesis work, robust CI precoding) @ TVT'21. 😊 \\
-🐂**2021/02.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). \\
+🐂**2021/02.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). 🥶 \\
 🐂**2021/02.** Pass Ph.D. qualifying exam.
 
 🐭**2020/12.** Publish "[AR-Stock: Deep Augmented Relational Stock Prediction](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)" (oral, GCNs in stock prediction) @ KDF Workshop, AAAI'21. \\
