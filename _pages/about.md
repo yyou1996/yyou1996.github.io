@@ -52,6 +52,6 @@ News
 🐶**2018/09 -- 2019/04.** Join State Key Laboratory for Strength and Vibration of Mechanical Structures in the School of Aerospace Engineering at Xi'an Jiaotong University, Xi'an, as a voluntary research assistant supervision by Dr. [Gangming Lv](http://gr.xjtu.edu.cn/web/gmlv/1) & Prof. [Guiyan Rong](http://gr.xjtu.edu.cn/web/yanguirong/1). \\
 🐶**2018/07 -- 2018/08.** Join [Optical+Biomedical Engineering Laboratory (OBEL)](http://obel.ee.uwa.edu.au/) in the School of Electrical, Electronic & Computer Engineering at the University of Western Australia, Perth, as a voluntary research assistant supervision by Dr. [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao) & Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao). ✈️
 
-🐵**2016/12.** Receive 1<sup>st</sup> Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling from China Society for Industrial and Applied Mathematics.
+🐵**2016/12.** Receive 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling from China Society for Industrial and Applied Mathematics.
 
 🐏**2015/08 -- 2019/06.** Attend Xi'an Jiaotong University, Xi'an, China, for the Bachelor's Degree in Information Engineering. ✈️
