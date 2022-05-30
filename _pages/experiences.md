@@ -16,7 +16,7 @@ Professional Experience
 =====
 **ML Small Molecules Intern**, 2022/05 -- \\
 Department of Data Science and Machine Learning, insitro, Inc., South San Francisco \\
-Supervisor: Dr. [Bowen Liu](https://scholar.google.com/citations?hl=en&user=l_IWUOAAAAAJ), Ralph Ma \\
+Supervisor: Dr. [Bowen Liu](https://scholar.google.com/citations?hl=en&user=l_IWUOAAAAAJ) & [Ralph Ma](https://www.linkedin.com/in/ralphma/) \\
 Research topics:  TBD \\
 **Graduate Research Assistant**, 2020/09 -- \\
 Department of Electrical and Computer Engineering, Texas A&M University, College Station \\
@@ -34,9 +34,9 @@ Supervisor: Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi) \\
 Research topics: Graph convolutional network, skeleton-based action recognition \\
 **Voluntary Research Assistant**, 2018/09 -- 2019/04 \\
 State Key Laboratory for Strength and Vibration of Mechanical Structures, School of Aerospace Engineering, Xi'an Jiaotong University, Xi'an \\
-Supervisors: Dr. [Gangming Lv](http://gr.xjtu.edu.cn/web/gmlv/1), Prof. [Guiyan Rong](http://gr.xjtu.edu.cn/web/yanguirong/1) \\
+Supervisors: Dr. [Gangming Lv](http://gr.xjtu.edu.cn/web/gmlv/1) & Prof. [Guiyan Rong](http://gr.xjtu.edu.cn/web/yanguirong/1) \\
 Research topic: Robust constructive interference precoding in MISO downlink transmission \\
 **Voluntary Research Assistant**, 2018/07 -- 2018/08 \\
 [Optical+Biomedical Engineering Laboratory (OBEL)](http://obel.ee.uwa.edu.au), School of Electrical, Electronic & Computer Engineering, University of Western Australia, Perth \\
-Supervisors: Dr. [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao), Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao) \\
+Supervisors: Dr. [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao) & Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao) \\
 Research topic: Optical coherence tomography
