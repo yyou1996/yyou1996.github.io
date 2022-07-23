@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Bioinformatics'22.** "Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Bioinformatics*. (impact factor 6.93, ECCB'22) \\
+**Bioinformatics'22.** "Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Bioinformatics*. (impact factor 6.93, ECCB'22) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1) \\
 **ICLR'22.** "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How", **Y. You**, Y. Cao, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (32.29% acceptance rate)
 [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 [[paper]](https://openreview.net/forum?id=EVVadRFRgL7)
