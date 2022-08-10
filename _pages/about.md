@@ -14,7 +14,7 @@ Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.githu
 📖**Interests.** My research interests are mainly located in graph self-supervised learning and computational drug discovery.
 E.g. (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902)) with its automated versions ([JOAO](https://arxiv.org/abs/2106.07594) and [GraphCL-LP](https://arxiv.org/abs/2201.01702)),
 <!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
-and (ii) multi-modality protein-ligand interaction prediction ([paper](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)).
+and (ii) an application to protein-ligand interaction prediction ([paper](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
 A repo on the literature of self-supervision on graphs can be found [here](https://github.com/ChandlerBang/awesome-self-supervised-gnn). \\
 <br />
 
@@ -23,7 +23,7 @@ News
 =====
 🐯**2022/07.** Happy 4th anniversary to insitro, Inc.! 🎂 \\
 🐯**2022/06.** Publish "[Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" @ Bioinformatics'22 (@ ECCB'22). \\
-🐯**2022/05 --.** Join the Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules intern supervision by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). ✈️ \\
+🐯**2022/05 -- 2022/08.** Join the Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules intern supervision by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). ✈️ \\
 🐯**2022/03.** Talk on AI&A Journal Club @ AstraZeneca, online. \\
 🐯**2022/01.** Publish "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) @ ICLR'22. [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 
