@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓**Bio.** I am a third-year Ph.D. student in the Department of Electrical and Computer Engineering at Texas A&M University, supervised by Prof. [Yang Shen](https://shen-lab.github.io) and unofficially co-supervised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. More details are available at [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
+🧑‍🎓**Bio.** I am a fourth-year Ph.D. student in the Department of Electrical and Computer Engineering at Texas A&M University, supervised by Prof. [Yang Shen](https://shen-lab.github.io) and unofficially co-supervised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. More details are available at [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf) and [postdocs](https://shen-lab.github.io/positions-201712.pdf).
 
 📖**Interests.** My research interests are mainly located in graph representation learning and computational drug discovery.
@@ -22,7 +22,7 @@ A repo on the literature of self-supervision on graphs can be found [here](https
 News
 =====
 🐯**2022/07.** Happy 4th anniversary to insitro, Inc.! 🎂 \\
-🐯**2022/06.** Publish "[Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" @ Bioinformatics'22 (@ ECCB'22). \\
+🐯**2022/06.** Publish "[Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" @ Bioinf'22 (@ ECCB'22). \\
 🐯**2022/05 -- 2022/08.** Join the Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules intern supervision by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). ✈️ \\
 🐯**2022/03.** Talk on AI&A Journal Club @ AstraZeneca, online. \\
 🐯**2022/01.** Publish "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) @ ICLR'22. [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
