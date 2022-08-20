@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓**Bio.** I am a fourth-year Ph.D. student (2019 -- expected 2024) in the Department of Electrical and Computer Engineering at Texas A&M University, supervised by Prof. [Yang Shen](https://shen-lab.github.io) and unofficially co-supervised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. More details are available at [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
+🧑‍🎓**Bio.** I am a fourth-year Ph.D. student (2019 -- expected 2024) in the Department of Electrical and Computer Engineering at Texas A&M University, advised by Prof. [Yang Shen](https://shen-lab.github.io) and unofficially co-advised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. More details are available at [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf) and [postdocs](https://shen-lab.github.io/positions-201712.pdf).
 
 📖**Interests.** My research interests are mainly in graph representation learning and computational drug discovery.
