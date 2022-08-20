@@ -22,7 +22,7 @@ A repo on the literature of self-supervision on graphs can be found [here](https
 News
 =====
 🐯**2022/07.** Happy [4th anniversary](https://www.linkedin.com/posts/insitro_the-past-four-years-would-not-have-been-possible-activity-6963918926535700480-eM2X?utm_source=linkedin_share&utm_medium=member_desktop_web) to insitro, Inc.! 🎂 \\
-🐯**2022/06.** Publish "[Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" @ Bioinf'22 (@ ECCB'22). \\
+🐯**2022/06.** Publish "[Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" (multi-modal self-supervision in CPAC) @ Bioinf'22 (@ ECCB'22). \\
 🐯**2022/05 -- 2022/08.** Join the Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules [intern](https://www.linkedin.com/posts/insitro_machinelearning-activity-6954871600278097920-kEH-?utm_source=linkedin_share&utm_medium=member_desktop_web) supervision by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). ✈️ \\
 🐯**2022/03.** Talk on AI&A Journal Club @ AstraZeneca, online. \\
 🐯**2022/01.** Publish "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) @ ICLR'22. [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
