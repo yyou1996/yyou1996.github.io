@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Bioinf'22.** "Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Bioinformatics*. (impact factor 6.93, ECCB'22, MLSB'20@NeurIPS)
+**Bioinf'22.** "Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Bioinformatics*. (impact factor 6.93, ECCB'22, MLSB@NeurIPS'20)
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)
 [[code]](https://github.com/Shen-Lab/CPAC)
 [[appendix]](https://yyou1996.github.io/files/bioinf2022_cpac_supplement.pdf) \\
@@ -26,7 +26,7 @@ author_profile: true
 **TVT'21.** "Probabilistic Constructive Interference Precoding for Imperfect CSIT", G. Lyu, **Y. You**, A. Li, X. Liao, C. Masouros, *IEEE Transactions on Vehicular Technology*. (impact factor 5.97)
 [[paper]](https://ieeexplore.ieee.org/document/9374108)
 
-**KDF'21 Oral.** "AR-Stock: Deep Augmented Relational Stock Prediction", T. Wei, **Y. You**, T. Chen, *Knowledge Discovery from Unstructured Data in Financial Services Workshop, Association for the Advancement of Artificial Intelligence Conference*.
+**KDF@AAAI'21 Oral.** "AR-Stock: Deep Augmented Relational Stock Prediction", T. Wei, **Y. You**, T. Chen, *Knowledge Discovery from Unstructured Data in Financial Services Workshop, Association for the Advancement of Artificial Intelligence Conference*.
 [[paper]](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf) \\
 <!-- **MLSB'20.** "Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*. -->
 <!-- [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1) \\ -->
