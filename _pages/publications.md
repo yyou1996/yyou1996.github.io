@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**NeurIPS'22.** "Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative", T. Wei<sup>\*</sup>, **Y. You**<sup>\*</sup>, T. Chen, Y. Shen, J. He, Z. Wang, *Conference on Neural Information Processing Systems*. (<sup>\*</sup>equal contribution, 25.60% acceptance rate) \\
 **Bioinf'22.** "Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Bioinformatics*. (impact factor 6.93, ECCB'22, MLSB@NeurIPS'20)
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)
 [[code]](https://github.com/Shen-Lab/CPAC)
