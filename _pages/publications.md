@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Bioinf'22.** "Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Bioinformatics*. (impact factor 6.93, ECCB'22, MLSB'20)
+**Bioinf'22.** "Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Bioinformatics*. (impact factor 6.93, ECCB'22, MLSB'20@NeurIPS)
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)
 [[code]](https://github.com/Shen-Lab/CPAC)
 [[appendix]](https://yyou1996.github.io/files/bioinf2022_cpac_supplement.pdf) \\
