@@ -29,7 +29,7 @@ author_profile: true
 **KDF'21 Oral.** "AR-Stock: Deep Augmented Relational Stock Prediction", T. Wei, **Y. You**, T. Chen, *Knowledge Discovery from Unstructured Data in Financial Services Workshop, Association for the Advancement of Artificial Intelligence Conference*.
 [[paper]](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf) \\
 <!-- **MLSB'20.** "Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*. -->
-[[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1) \\
+<!-- [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1) \\ -->
 **NeurIPS'20.** "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*. (<sup>\*</sup>equal contribution, 20.09% acceptance rate)
 [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf) [[arXiv]](https://arxiv.org/abs/2010.13902) [[code]](https://github.com/Shen-Lab/GraphCL) [[appendix]](https://yyou1996.github.io/files/neurips2020_graphcl_supplement.pdf) \\
 **ICML'20.** "When Does Self-Supervision Help Graph Convolutional Networks?", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Z. Wang, Y. Shen, *International Conference on Machine Learning*. (<sup>\*</sup>equal contribution, 21.80% acceptance rate)
