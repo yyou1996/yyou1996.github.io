@@ -21,7 +21,7 @@ A repo on the literature of self-supervision on graphs can be found [here](https
 
 News
 =====
-🐯**2022/09.** [Poster](https://yyou1996.github.io/files/moml2022_cpac_poster.pdf) of "[Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" accepted @ [MoML](https://www.moml22.mit.edu/)'22. \\
+🐯**2022/09.** [Poster](https://yyou1996.github.io/files/moml2022_cpac_poster.pdf) of Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction is accepted @ [MoML](https://www.moml22.mit.edu/)'22. \\
 🐯**2022/09.** Publish "Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative" (contrastive learning on hypergraphs) @ NeurIPS'22. \\
 🐯**2022/07.** Happy [4th anniversary](https://www.linkedin.com/posts/insitro_the-past-four-years-would-not-have-been-possible-activity-6963918926535700480-eM2X?utm_source=linkedin_share&utm_medium=member_desktop_web) to insitro, Inc.! 🎂 \\
 🐯**2022/06.** Publish "[Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" (multi-modal self-supervision in CPAC) @ Bioinf'22 (@ ECCB'22). \\
