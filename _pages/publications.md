@@ -7,6 +7,7 @@ author_profile: true
 **NeurIPS'22.** "Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative", T. Wei<sup>\*</sup>, **Y. You**<sup>\*</sup>, T. Chen, Y. Shen, J. He, Z. Wang, *Conference on Neural Information Processing Systems*. (<sup>\*</sup>equal contribution, 25.60% acceptance rate)
 [[arXiv]](https://arxiv.org/abs/2210.03801) \\
 [[code]](https://github.com/weitianxin/HyperGCL) \\
+[[appendix]](https://yyou1996.github.io/files/neurips2022_hypergcl_supplement.pdf) \\
 **Bioinformatics'22.** "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Bioinformatics*. (impact factor 6.93, MoML'22, ECCB'22 with 17.40% acceptance rate, 3DSIG COSI@ISMB/ECCB'21, MLSB@NeurIPS'20)
 [[poster]](https://yyou1996.github.io/files/moml2022_cpac_poster.pdf)
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)
