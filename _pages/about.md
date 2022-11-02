@@ -12,7 +12,7 @@ redirect_from:
 
 Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf), [postdocs](https://shen-lab.github.io/positions-201712.pdf), and student workers if you are TAMU students.
 
-📖**Research.** My research focuses on graph self-supervised learning and computational drug discovery.
+📖**Research.** My research focuses on graph machine learning, hypergraphs and computational drug discovery.
 E.g. (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902)) with its automated versions ([JOAO](https://arxiv.org/abs/2106.07594), [GraphCL-LP](https://arxiv.org/abs/2201.01702)),
 <!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
 (ii) its extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)),
@@ -27,7 +27,7 @@ News
 🐯**2022/09.** "[Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative](https://arxiv.org/abs/2210.03801)" (contrastive learning on hypergraphs) accepted @ NeurIPS'22. \\
 🐯**2022/07.** Happy [4th anniversary](https://www.linkedin.com/posts/insitro_the-past-four-years-would-not-have-been-possible-activity-6963918926535700480-eM2X?utm_source=linkedin_share&utm_medium=member_desktop_web) to insitro, Inc.! 🎂 \\
 🐯**2022/06.** "[Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" (multi-modal self-supervision in CPAC) accepted @ Bioinformatics'22 (MoML'22, ECCB'22). [[poster]](https://yyou1996.github.io/files/moml2022_cpac_poster.pdf) \\
-🐯**2022/05 -- 2022/08.** Join the Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules [intern](https://www.linkedin.com/posts/insitro_machinelearning-activity-6954871600278097920-kEH-?utm_source=linkedin_share&utm_medium=member_desktop_web) supervision by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). ✈️ \\
+🐯**2022/05 -- 2022/08.** Join the Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules [intern](https://www.linkedin.com/posts/insitro_machinelearning-activity-6954871600278097920-kEH-?utm_source=linkedin_share&utm_medium=member_desktop_web) supervision by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). 😊✈️ \\
 🐯**2022/03.** Talk on AI&A Journal Club @ AstraZeneca, online. \\
 🐯**2022/01.** "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) accepted @ ICLR'22. [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 
