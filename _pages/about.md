@@ -17,7 +17,7 @@ Representative works include (i) graph contrastive learning ([GraphCL](https://a
 <!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
 (ii) its extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)),
 and (iii) its application to protein-ligand interaction prediction ([paper](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
-A repo on graph self-supervised learning literatures can be found [here](https://github.com/ChandlerBang/awesome-self-supervised-gnn). \\
+A GitHub repo maintained by me and some friends about graph self-supervised learning literatures can be found [here](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (+900⭐). \\
 <br />
 
 
