@@ -13,10 +13,10 @@ redirect_from:
 Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf), [postdocs](https://shen-lab.github.io/positions-201712.pdf), and student workers if you are TAMU students.
 
 📖**Research.** My research interests focus on **modeling of non-Euclidean data with limited labels and/or distribution shifts, with theoretical understanding and real-world applications to biomolecules**.
-Representative works include (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902)) with its automated versions ([JOAO](https://arxiv.org/abs/2106.07594), [GraphCL-LP](https://arxiv.org/abs/2201.01702)),
+Representative works include (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902), 500+✍️) with its automated versions ([JOAO](https://arxiv.org/abs/2106.07594), [GraphCL-LP](https://arxiv.org/abs/2201.01702)),
 <!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
 (ii) its extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)),
-and (iii) its application to protein-ligand interaction prediction ([paper](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
+and (iii) an application to protein-ligand interaction prediction ([paper](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
 A GitHub repo maintained by me and some friends on graph self-supervised learning literatures can be found [here](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (900+⭐). \\
 <br />
 
