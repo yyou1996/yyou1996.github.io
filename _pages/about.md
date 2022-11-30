@@ -23,7 +23,7 @@ For a glance of research in the field, please refer to the GitHub [repo](https:/
 
 News
 =====
-🐯**2022/10.** "[Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?]()" (multi-modal/task protein interface prediction) accepted @ MLSB Workshop, NeurIPS'22. \\
+🐯**2022/10.** "[Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?]()" (multi-modal/task protein interface prediction) accepted @ MLSB Workshop, NeurIPS'22. [[poster]](https://yyou1996.github.io/files/mlsb2022_protein_poster.pdf) \\
 🐯**2022/09.** "[Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative](https://arxiv.org/abs/2210.03801)" (contrastive learning on hypergraphs) accepted @ NeurIPS'22. [[poster]](https://yyou1996.github.io/files/neurips2022_hypergcl_poster.pdf) \\
 🐯**2022/07.** Happy [4th anniversary](https://www.linkedin.com/posts/insitro_the-past-four-years-would-not-have-been-possible-activity-6963918926535700480-eM2X?utm_source=linkedin_share&utm_medium=member_desktop_web) to insitro, Inc.! 🎂 \\
 🐯**2022/06.** "[Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" (multi-modal self-supervision in CPAC) accepted @ Bioinformatics'22 (MoML'22, ECCB'22). [[poster]](https://yyou1996.github.io/files/moml2022_cpac_poster.pdf) \\
