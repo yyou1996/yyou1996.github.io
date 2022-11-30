@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**MLSB@NeurIPS'22.** "Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?", A. Talukder, R. Yin, Y. Shen, **Y. You**, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*. \\
+**MLSB@NeurIPS'22.** "Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?", A. Talukder, R. Yin, Y. Sun, Y. Shen, **Y. You**, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*. \\
 **NeurIPS'22.** "Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative", T. Wei<sup>\*</sup>, **Y. You**<sup>\*</sup>, T. Chen, Y. Shen, J. He, Z. Wang, *Conference on Neural Information Processing Systems*. (<sup>\*</sup>equal contribution, 25.60% acceptance rate)
 [[poster]](https://yyou1996.github.io/files/neurips2022_hypergcl_poster.pdf)
 [[arXiv]](https://arxiv.org/abs/2210.03801)
