@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**ICLR'23.** "Graph Domain Adaptation via Theory-Grounded Spectral Regularization", **Y. You**, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*.
+[[OpenReview]](https://openreview.net/forum?id=OysfLgrk8mk)
+
 **MLSB@NeurIPS'22.** "Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?", A. Talukder, R. Yin, Y. Sun, Y. Shen, **Y. You**, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*.
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.11.29.518454v1)
 [[poster]](https://yyou1996.github.io/files/mlsb2022_protein_poster.pdf) \\
