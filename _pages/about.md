@@ -13,16 +13,16 @@ redirect_from:
 Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf), [postdocs](https://shen-lab.github.io/positions-201712.pdf), and student workers if you are TAMU students.
 
 🕮**Research.** My research interests focus on **representation learning on non-Euclidean data (e.g. graphs) with limited labels and/or distribution shifts, with fundamental theoretical understanding and challenging real-world applications to biomolecules**.
-Representative works include (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902), 500+✍️) with its automated versions ([JOAO](https://arxiv.org/abs/2106.07594), [GraphCL-LP](https://arxiv.org/abs/2201.01702)),
-<!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
-and its extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)),
-(ii) a model-based transfer bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk)),
-and (iii) an application of graph self-supervised learning to protein-ligand interaction prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
+Representative works include:
+- Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 500+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and its extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801));
+- A model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk));
+- An application of graph self-supervised learning to protein-ligand interaction prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
 
 Moreover, for a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐). \\
-- 111
-- 222
 <br />
+
+<!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
+<!-- , [GraphCL-LP](https://arxiv.org/abs/2201.01702) -->
 
 
 News
