@@ -16,8 +16,8 @@ Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.githu
 Representative works include (i) graph contrastive learning ([GraphCL](https://arxiv.org/abs/2010.13902), 500+✍️) with its automated versions ([JOAO](https://arxiv.org/abs/2106.07594), [GraphCL-LP](https://arxiv.org/abs/2201.01702)),
 <!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
 and its extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)),
-(ii) a model-based theoretical analysis of graph domain adaptation ([paper](https://openreview.net/forum?id=OysfLgrk8mk)),
-and (iii) an application to protein-ligand interaction prediction ([paper](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
+(ii) a model-based theoretical analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk)),
+and (iii) an application to protein-ligand interaction prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
 
 Moreover, for a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐). \\
 <br />
