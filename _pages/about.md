@@ -20,6 +20,8 @@ and its extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)),
 and (iii) an application of graph self-supervised learning to protein-ligand interaction prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
 
 Moreover, for a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐). \\
+- 111
+- 222
 <br />
 
 
