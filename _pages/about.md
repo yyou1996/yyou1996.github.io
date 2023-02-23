@@ -19,7 +19,7 @@ and its extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)),
 (ii) a model-based theoretical analysis of graph domain adaptation ([paper](https://openreview.net/forum?id=OysfLgrk8mk)),
 and (iii) an application to protein-ligand interaction prediction ([paper](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
 
-For a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐). \\
+Moreover, for a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐). \\
 <br />
 
 
