@@ -17,7 +17,7 @@ Representative works include (i) graph contrastive learning ([GraphCL](https://a
 <!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
 and its extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)),
 (ii) a model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk)),
-and (iii) an application to protein-ligand interaction prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
+and (iii) an application of graph self-supervised learning to protein-ligand interaction prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
 
 Moreover, for a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐). \\
 <br />
