@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **ICLR'23.** "Graph Domain Adaptation via Theory-Grounded Spectral Regularization", **Y. You**, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (31.80% acceptance rate)
-[[OpenReview]](https://openreview.net/forum?id=OysfLgrk8mk)
+[[openReview]](https://openreview.net/forum?id=OysfLgrk8mk)
 [[code]](https://github.com/Shen-Lab/GDA-SpecReg)
 
 **MLSB@NeurIPS'22.** "Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?", A. Talukder, R. Yin, Y. Sun, Y. Shen, **Y. You**, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*.
@@ -23,7 +23,7 @@ author_profile: true
 [[appendix]](https://yyou1996.github.io/files/bioinf2022_cpac_supplement.pdf) \\
 **ICLR'22.** "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How", **Y. You**, Y. Cao, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (32.29% acceptance rate)
 [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
-[[OpenReview]](https://openreview.net/forum?id=EVVadRFRgL7)
+[[openReview]](https://openreview.net/forum?id=EVVadRFRgL7)
 [[code]](https://github.com/Shen-Lab/Bayesian-L2O)
 
 **WSDM'22.** "Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations", **Y. You**, T. Chen, Z. Wang, Y. Shen, *ACM International Conference on Web Search and Data Mining*. (20.22% acceptance rate)
