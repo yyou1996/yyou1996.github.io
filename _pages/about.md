@@ -53,11 +53,11 @@ News
 🐭**2020/12.** "[AR-Stock: Deep Augmented Relational Stock Prediction](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)" (oral, GCNs in stock prediction) accepted @ KDF Workshop, AAAI'21. \\
 🐭**2020/09.** "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)" (cross-modality learning in CPAC) accepted @ MLSB Workshop, NeurIPS'20. [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) \\
 🐭**2020/09.** "[Graph Contrastive Learning with Augmentations](https://arxiv.org/abs/2010.13902)" (contrastive learning in GNN pre-training) accepted @ NeurIPS'20. [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf) \\
-🐭**2020/09 --.** Employed by Department of Electrical and Computer Engineering at Texas A&M University, College Station, as a graduate research assistant supervision by Prof. [Yang Shen](https://shen-lab.github.io/). \\
+🐭**2020/09 -- Present.** Employed by Department of Electrical and Computer Engineering at Texas A&M University, College Station, as a graduate research assistant supervision by Prof. [Yang Shen](https://shen-lab.github.io/). \\
 🐭**2020/06.** "[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)" (self-supervision in GCNs) accepted @ ICML'20. \\
 🐭**2020/02.** "[L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" (efficient GCN training) accepted @ CVPR'20.
 
-🐖**2019/08 --.** Attend Texas A&M University, College Station, for the Ph.D.'s Degree in Electrical Engineering, supervision by Prof. [Yang Shen](https://shen-lab.github.io/). \\
+🐖**2019/08 -- Present.** Attend Texas A&M University, College Station, for the Ph.D.'s Degree in Electrical Engineering, supervision by Prof. [Yang Shen](https://shen-lab.github.io/). \\
 🐖**2019/05 -- 2019/08.** Join [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) in the School of Data and Computer Science at Sun Yet-Sen University, Guangzhou, as a voluntary research assistant supervision by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/). \\
 🐖**2019/02.** Receive the Electrical and Computer Engineering PhD Merit Fellowship from ECEN @ Texas A&M University.
 
