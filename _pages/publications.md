@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **ICLR'23.** "Graph Domain Adaptation via Theory-Grounded Spectral Regularization", **Y. You**, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (31.80% acceptance rate)
+[[poster]](https://yyou1996.github.io/files/iclr2023_gda_poster.pdf)
 [[paper]](https://openreview.net/forum?id=OysfLgrk8mk)
 [[code]](https://github.com/Shen-Lab/GDA-SpecReg)
 
