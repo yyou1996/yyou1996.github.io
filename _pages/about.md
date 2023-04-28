@@ -27,6 +27,7 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 
 News
 =====
+🐰**2023/04.** Receive Quality Graduate Student Award from ECEN @ Texas A&M University. \\
 🐰**2023/01.** "[Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)" (model-based risk bound analysis of GDA) accepted @ ICLR'23. [[poster]](https://yyou1996.github.io/files/iclr2023_gda_poster.pdf) 😊
 
 🐯**2022/10.** "[Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?](https://www.biorxiv.org/content/10.1101/2022.11.29.518454v1)" (multi-modal/task protein-protein interface prediction) accepted @ MLSB Workshop, NeurIPS'22. [[poster]](https://yyou1996.github.io/files/mlsb2022_protein_poster.pdf) \\
