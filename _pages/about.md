@@ -30,7 +30,7 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 News
 =====
 
-🐰**2023/05 -- Present.** Join Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an early clinical development/AIML intern mentored by Dr. [Changlin Wan](http://changlinwan.com/). ✈️ \\
+🐰**2023/05 -- Present.** Join Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an AIML intern mentored by Dr. [Changlin Wan](http://changlinwan.com/). ✈️ \\
 🐰**2023/04.** Receive Quality Graduate Student Award from ECEN @ Texas A&M University. \\
 🐰**2023/01.** "[Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)" (model-based risk bound analysis of GDA) is accepted @ ICLR'23. [[poster]](https://yyou1996.github.io/files/iclr2023_gda_poster.pdf) 😊
 
