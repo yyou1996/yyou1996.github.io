@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<span style="color:red">**I am on the 2023-2024 job market.**</span>
 
 🧑‍🎓**Bio.** I am a fifth-year Ph.D. student (2019 -- expected 2024) in the Department of Electrical and Computer Engineering at Texas A&M University, advised by Prof. [Yang Shen](https://shen-lab.github.io) and unofficially co-advised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. For more details please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 
@@ -28,7 +29,6 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 
 News
 =====
-<span style="color:red">**I am on the 2023-2024 job market.**</span>
 
 🐰**2023/05 -- Present.** Join Genentech Research and Early Development (gRED), Genentech, Inc., South San Francisco, as an early clinical development/AIML intern mentored by Dr. [Changlin Wan](http://changlinwan.com/). ✈️ \\
 🐰**2023/04.** Receive Quality Graduate Student Award from ECEN @ Texas A&M University. \\
