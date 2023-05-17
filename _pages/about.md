@@ -30,7 +30,7 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 News
 =====
 
-🐰**2023/05 -- Present.** Join Genentech Research and Early Development (gRED), Genentech, Inc., South San Francisco, as an early clinical development/AIML intern mentored by Dr. [Changlin Wan](http://changlinwan.com/). ✈️ \\
+🐰**2023/05 -- Present.** Join Research and Early Development at Genentech, Inc. (gRED), South San Francisco, as an early clinical development/AIML intern mentored by Dr. [Changlin Wan](http://changlinwan.com/). ✈️ \\
 🐰**2023/04.** Receive Quality Graduate Student Award from ECEN @ Texas A&M University. \\
 🐰**2023/01.** "[Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)" (model-based risk bound analysis of GDA) is accepted @ ICLR'23. [[poster]](https://yyou1996.github.io/files/iclr2023_gda_poster.pdf) 😊
 
@@ -49,7 +49,7 @@ News
 🐂**2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich, online. \\
 🐂**2021/07.** Talk on [3DSIG COSI](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21, online. [[video]](https://www.youtube.com/watch?v=lX1jSvi44uE) \\
 🐂**2021/07.** Serve as the session chair of [Semisupervised and Unsupervised Learning](https://icml.cc/Conferences/2021/Schedule?showParentSession=12101) @ ICML'21 and talk. \\
-🐂**2021/06 -- 2021/08.** Join Product Semantics Team in Amazon.com Services, Inc. remotely, as an applied scientist intern mentored by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
+🐂**2021/06 -- 2021/08.** Join Product Semantics Team at Amazon.com Services, Inc. remotely, as an applied scientist intern mentored by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
 🐂**2021/05.** "[Graph Contrastive Learning Automated](https://arxiv.org/abs/2106.07594)" (long presentation, automatic augmentation selection in GraphCL) is accepted @ ICML’21. [[video]](https://slideslive.com/38958634/graph-contrastive-learning-automated) 😊 \\
 🐂**2021/03.** "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (my undergraduate thesis work, robust CI precoding) is accepted @ TVT'21. 😊 \\
 🐂**2021/02.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). 🥶 \\
