@@ -30,7 +30,7 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 News
 =====
 
-🐰**2023/05 -- Present.** Join Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an AIML intern mentored by Dr. [Changlin Wan](http://changlinwan.com/). ✈️ \\
+🐰**2023/05 -- Present.** Join Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/). ✈️ \\
 🐰**2023/04.** Receive Quality Graduate Student Award from ECEN @ Texas A&M University. \\
 🐰**2023/01.** "[Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)" (model-based risk bound analysis of GDA) is accepted @ ICLR'23. [[poster]](https://yyou1996.github.io/files/iclr2023_gda_poster.pdf) 😊
 
@@ -38,7 +38,7 @@ News
 🐯**2022/09.** "[Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative](https://arxiv.org/abs/2210.03801)" (contrastive learning on hypergraphs) is accepted @ NeurIPS'22. [[poster]](https://yyou1996.github.io/files/neurips2022_hypergcl_poster.pdf) \\
 🐯**2022/07.** Happy [4th anniversary](https://www.linkedin.com/posts/insitro_the-past-four-years-would-not-have-been-possible-activity-6963918926535700480-eM2X?utm_source=linkedin_share&utm_medium=member_desktop_web) to insitro, Inc.! 🎂 \\
 🐯**2022/06.** "[Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" (multi-modal self-supervision in CPAC) is accepted @ Bioinformatics'22 (MoML'22, ECCB'22). [[poster]](https://yyou1996.github.io/files/moml2022_cpac_poster.pdf) \\
-🐯**2022/05 -- 2022/08.** Join Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules [intern](https://www.linkedin.com/posts/insitro_machinelearning-activity-6954871600278097920-kEH-?utm_source=linkedin_share&utm_medium=member_desktop_web) mentored by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). 😊✈️ \\
+🐯**2022/05 -- 2022/08.** Join Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules [intern](https://www.linkedin.com/posts/insitro_machinelearning-activity-6954871600278097920-kEH-?utm_source=linkedin_share&utm_medium=member_desktop_web) advised by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). 😊✈️ \\
 🐯**2022/03.** Talk on AI&A Journal Club @ AstraZeneca, online. \\
 🐯**2022/01.** "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) is accepted @ ICLR'22. [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 
@@ -49,7 +49,7 @@ News
 🐂**2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich, online. \\
 🐂**2021/07.** Talk on [3DSIG COSI](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21, online. [[video]](https://www.youtube.com/watch?v=lX1jSvi44uE) \\
 🐂**2021/07.** Serve as the session chair of [Semisupervised and Unsupervised Learning](https://icml.cc/Conferences/2021/Schedule?showParentSession=12101) @ ICML'21 and talk. \\
-🐂**2021/06 -- 2021/08.** Join Product Semantics Team at Amazon.com Services, Inc. remotely, as an applied scientist intern mentored by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
+🐂**2021/06 -- 2021/08.** Join Product Semantics Team at Amazon.com Services, Inc. remotely, as an applied scientist intern advised by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
 🐂**2021/05.** "[Graph Contrastive Learning Automated](https://arxiv.org/abs/2106.07594)" (long presentation, automatic augmentation selection in GraphCL) is accepted @ ICML’21. [[video]](https://slideslive.com/38958634/graph-contrastive-learning-automated) 😊 \\
 🐂**2021/03.** "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (my undergraduate thesis work, robust CI precoding) is accepted @ TVT'21. 😊 \\
 🐂**2021/02.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). 🥶 \\
