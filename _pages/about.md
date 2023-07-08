@@ -10,11 +10,11 @@ redirect_from:
 
 <span style="color:red">**I am on the 2023-2024 job market.**</span>
 
-🧑‍🎓**Bio.** I am a fifth-year Ph.D. student (2019 -- expected 2024) in the Department of Electrical and Computer Engineering at Texas A&M University, advised by Prof. [Yang Shen](https://shen-lab.github.io) and unofficially co-advised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. For more details please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
+🧑‍🎓**Bio.** I am a fifth-year Ph.D. student (2019 -- expected 2024) in the Department of Electrical and Computer Engineering at Texas A&M University, advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. For more details please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 
 Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf), [postdocs](https://shen-lab.github.io/positions-201712.pdf), and student workers if you are TAMU students.
 
-🕮**Research.** I am interested in **machine learning on non-Euclidean data (e.g. graphs) with limited labels and distribution shifts, with fundamental understanding in theory and challenging real-world applications to biomolecules**.
+🕮**Research.** I am interested in **machine learning on non-Euclidean data (e.g. graphs) with limited labels and distribution shifts, with fundamental understanding in theory and challenging real-world applications to biomedicines**.
 Representative works include:
 - Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 500+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801));
 - A model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk));
