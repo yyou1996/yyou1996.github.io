@@ -56,6 +56,7 @@ News
 🐂**2021/02.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). 🥶 \\
 🐂**2021/02.** Pass Ph.D. qualifying exam.
 
+<!-- 🐭**2020/12.** "[AR-Stock: Deep Augmented Relational Stock Prediction](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)" (oral, GCNs in stock prediction) is accepted @ KDF Workshop, AAAI'21. \\ -->
 🐭**2020/09.** "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)" (cross-modality learning in CPAC) is accepted @ MLSB Workshop, NeurIPS'20. [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) \\
 🐭**2020/09.** "[Graph Contrastive Learning with Augmentations](https://arxiv.org/abs/2010.13902)" (contrastive learning in GNN pre-training) is accepted @ NeurIPS'20. [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf) \\
 🐭**2020/09 -- Present.** Employed by Department of Electrical and Computer Engineering at Texas A&M University, College Station, as a graduate research assistant advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\
