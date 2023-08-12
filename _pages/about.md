@@ -14,7 +14,7 @@ redirect_from:
 
 Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf), [postdocs](https://shen-lab.github.io/positions-201712.pdf), and student workers if you are TAMU students.
 
-🕮**Research.** I am interested in **machine learning on non-Euclidean data (e.g. graphs) with limited labels and distribution shifts, with fundamental understanding in theory and challenging real-world applications to biomedicines**.
+🕮**Research.** I am interested in **machine learning** on non-Euclidean data (e.g. **graphs**) with limited labels and distribution shifts, with fundamental understanding in theory and challenging real-world applications to **biomedicines**.
 Representative works include:
 - Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 500+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801));
 - A model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk));
