@@ -16,7 +16,7 @@ Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.githu
 
 🕮**Research.** I am interested in **machine learning** on non-Euclidean data (e.g. **graphs**) with limited labels and distribution shifts, with fundamental understanding in theory and challenging real-world applications to **biomedicines**.
 Representative works include:
-- Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 1000+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801));
+- Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 1k+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801));
 - A model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk));
 - An application of graph self-supervised learning to compound-protein affinity and contact prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
 
