@@ -16,7 +16,7 @@ Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.githu
 
 🕮**Research.** I am interested in **machine learning** on non-Euclidean data (e.g. **graphs**) with limited labels and distribution shifts, with fundamental understanding in theory and challenging real-world applications to **biomedicines**.
 Representative works include:
-- Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 500+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801));
+- Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 1000+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801));
 - A model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk));
 - An application of graph self-supervised learning to compound-protein affinity and contact prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
 
@@ -31,7 +31,7 @@ News
 =====
 
 🐰**2023/06.** Have a sweet time in [Genentech Gives Back](https://www.gene.com/good/giving/programs-volunteerism/gives-back) week. 💙 \\
-🐰**2023/05 -- Present.** Join Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/) & Dr. [Kai Liu](https://www.linkedin.com/in/kai-liu-5aa28914/). ✈️ \\
+🐰**2023/05 -- 2023/08.** Join Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/) & Dr. [Kai Liu](https://www.linkedin.com/in/kai-liu-5aa28914/). ✈️ \\
 🐰**2023/04.** Receive Quality Graduate Student Award from ECEN @ Texas A&M University. \\
 🐰**2023/01.** "[Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)" (model-based risk bound analysis of GDA) is accepted @ ICLR'23. [[poster]](https://yyou1996.github.io/files/iclr2023_gda_poster.pdf) 😊
 
