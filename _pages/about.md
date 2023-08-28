@@ -30,6 +30,7 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 News
 =====
 
+🐰**2023/08.** Talk on Spatial Omics Journal Club @ Genentech, online. \\
 🐰**2023/06.** Have a sweet time in [Genentech Gives Back](https://www.gene.com/good/giving/programs-volunteerism/gives-back) week. 💙 \\
 🐰**2023/05 -- 2023/08.** Join Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/) & Dr. [Kai Liu](https://www.linkedin.com/in/kai-liu-5aa28914/). ✈️ \\
 🐰**2023/04.** Receive Quality Graduate Student Award from ECEN @ Texas A&M University. \\
