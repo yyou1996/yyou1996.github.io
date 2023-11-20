@@ -66,7 +66,7 @@ News
 🐭**2020/02.** "[L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" (efficient GCN training) is accepted @ CVPR'20.
 
 🐖**2019/08 -- Present.** Attend Texas A&M University, College Station, for the Ph.D.'s Degree in Electrical Engineering, advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\
-🐖**2019/05 -- 2019/08.** Join [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) in the School of Data and Computer Science at Sun Yet-Sen University, Guangzhou, as a voluntary research assistant advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/). \\
+<!-- 🐖**2019/05 -- 2019/08.** Join [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) in the School of Data and Computer Science at Sun Yet-Sen University, Guangzhou, as a voluntary research assistant advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/). \\ -->
 🐖**2019/02.** Receive Electrical and Computer Engineering PhD Merit Fellowship from ECEN @ Texas A&M University.
 
 <!--  🐶**2018/09 -- 2019/04.** Join State Key Laboratory for Strength and Vibration of Mechanical Structures in the School of Aerospace Engineering at Xi'an Jiaotong University, Xi'an, as a voluntary research assistant advised by Dr. [Gangming Lv](http://gr.xjtu.edu.cn/web/gmlv/1) & Prof. [Guiyan Rong](http://gr.xjtu.edu.cn/web/yanguirong/1). \\
