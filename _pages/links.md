@@ -12,6 +12,6 @@ Links to useful medium-sized tutorials/surveys, grounded in engineering mathemat
 A survey on **domain adaptation** theory: learning bounds and theoretical guarantees [[link]](https://arxiv.org/abs/2004.11829) \\
 **Groups** and their Representations [[link]](https://dept.math.lsa.umich.edu/~kesmith/rep.pdf) \\
 **Causal Inference** in Statistics: A Primer [[link]](http://bayes.cs.ucla.edu/PRIMER/) \\
-What are **Diffusion** Models? [[link]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) \\
+What are **Diffusion Models**? [[link]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) \\
 **Differential Equations** for Engineers [[link]](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) \\
 Non-equilibrium physics: **Fokker-Planck equation** [[link]](https://www.physik.uni-bielefeld.de/~borghini/Teaching/Nonequilibrium16/06_15.pdf)
