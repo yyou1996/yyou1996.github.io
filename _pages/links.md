@@ -11,6 +11,7 @@ Links to useful medium-sized tutorials/surveys, grounded in engineering mathemat
 **Graph Neural Networks**: Architectures, **Stability**, and Transferability [[link]](https://ieeexplore.ieee.org/abstract/document/9356126) \\
 A survey on **domain adaptation** theory: learning bounds and theoretical guarantees [[link]](https://arxiv.org/abs/2004.11829) \\
 **Groups** and their Representations [[link]](https://dept.math.lsa.umich.edu/~kesmith/rep.pdf) \\
+Artificial Intelligence for Science in Quantum, **Atomistic**, and Continuum Systems [[link]](https://arxiv.org/abs/2307.08423) \\
 **Causal Inference** in Statistics: A Primer [[link]](http://bayes.cs.ucla.edu/PRIMER/) \\
 What are **Diffusion Models**? [[link]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) \\
 **Differential Equations** for Engineers [[link]](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) \\
