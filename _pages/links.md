@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Links"
+title: "Reading List"
 permalink: /links/
 author_profile: true
 ---
-Links to useful medium-sized tutorials/surveys, grounded in engineering mathematics and closely related to biomedical applications:
+Useful medium-sized tutorials/surveys, grounded in engineering mathematics and closely related to biomedical applications:
 
 **Graph Signal Processing**: Overview, Challenges, and Applications [[link]](https://ieeexplore.ieee.org/abstract/document/8347162?casa_token=7nR8ry0L5usAAAAA:OTpfQIy2B_DWr26gpz0YHj_yyfc0fJpKsjb4moAIKU9tjQVQ8mykDJ6ObhNvjAXTYGV2veE7Yw) \\
 **Graph isomorphism** in quasipolynomial time [[link]](https://dl.acm.org/doi/abs/10.1145/2897518.2897542?casa_token=0rX_JZr1qoYAAAAA:deJxIpoKP9RwEEoll-LSjfRn-77k40Ng9ROQddoIl6lJ2lNlSa4Kvm8f9hxbe5rzZXzSR5wN7fmk2g) \\
