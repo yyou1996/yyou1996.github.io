@@ -17,6 +17,6 @@ A survey on **domain adaptation** theory: learning bounds and theoretical guaran
 Artificial Intelligence for Science in Quantum, **Atomistic**, and Continuum Systems [[link]](https://arxiv.org/abs/2307.08423) \\
 **Causal Inference** in Statistics: A Primer [[link]](http://bayes.cs.ucla.edu/PRIMER/) \\
 What are **Diffusion Models**? [[link]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) \\
-Introduction to **Quantum Mechanics** [[link]](https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/7224/INTRODUC.PDF?sequence=1&isAllowed=y) \\
 **Differential Equations** for Engineers [[link]](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) \\
+Introduction to **Quantum Mechanics** [[link]](https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/7224/INTRODUC.PDF?sequence=1&isAllowed=y) \\
 Non-equilibrium physics: **Fokker-Planck equation** [[link]](https://www.physik.uni-bielefeld.de/~borghini/Teaching/Nonequilibrium16/06_15.pdf)
