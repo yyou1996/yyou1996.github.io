@@ -10,7 +10,7 @@ Useful medium-sized tutorials/surveys, grounded in engineering mathematics and c
 **Graph isomorphism** in quasipolynomial time [[link]](https://dl.acm.org/doi/abs/10.1145/2897518.2897542?casa_token=0rX_JZr1qoYAAAAA:deJxIpoKP9RwEEoll-LSjfRn-77k40Ng9ROQddoIl6lJ2lNlSa4Kvm8f9hxbe5rzZXzSR5wN7fmk2g) \\
 **Graph Neural Networks**: Architectures, **Stability**, and Transferability [[link]](https://ieeexplore.ieee.org/abstract/document/9356126) \\
 **Convex Optimization** [[link]](https://web.stanford.edu/~boyd/cvxbook/) \\
-**Probabilistic Graphical Models**: Principles and Techniques [[link]](https://d1wqtxts1xzle7.cloudfront.net/52550594/Probabilistic_Graphical_Models_Principles_and_Techniques.pdf?1491691978=&response-content-disposition=inline%3B+filename%3DProbabilistic_Graphical_Models_Principle.pdf&Expires=1702068753&Signature=dRU1vCQ7C7dJ4JfR357V~whsygq-dSMXFS3buVKWvrbVrhYsjxAfITj3T9y~qKKlwlrjM-Q63F2oVhxOH-U8SMNzu7TAIl811RRXlakZ8WT2Wg5qYlDDwspuUf1vez8iujQ-zpDHsTXRta8vxTZDpGyQBap6z31dA7s20oP-iHCb7q6W5hNabDp0L~vBDasJpV2TKmHLvL9FWqqOvHupd34MryKRJMyCLlMbXaSV-URuB-wjaH~qM6dWu8T8bo8VpE69Obgz9V8k3X6bYzXPKVACnRR7LaCqfDy95c32rv8rChWUonQ3ejiN1D-K-32UVuGEou~f0rVM6qicrAfJOw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) \\
+**Probabilistic Graphical Models** [[link]](https://thodrek.github.io/CS839_fall18/) \\
 **Bayesian Learning** for Neural Networks [[link]](https://glizen.com/radfordneal/ftp/thesis.pdf) \\
 A survey on **domain adaptation** theory: learning bounds and theoretical guarantees [[link]](https://arxiv.org/abs/2004.11829) \\
 **Groups** and their Representations [[link]](https://dept.math.lsa.umich.edu/~kesmith/rep.pdf) \\
