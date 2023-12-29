@@ -12,7 +12,8 @@ redirect_from:
 
 🧑‍🎓**Bio.** I am a fifth-year Ph.D. candidate (2019 -- expected 2024) in the Department of Electrical and Computer Engineering at Texas A&M University, advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. For more details please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 
-Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf), [postdocs](https://shen-lab.github.io/positions-201712.pdf), and student workers if you are TAMU students.
+Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf), [postdocs](https://shen-lab.github.io/positions-201712.pdf), and student workers if you are TAMU students. \\
+<\br>
 
 ⚗️**Research.** I am interested in **machine learning** on **non-Euclidean** data (e.g. graphs or hypergraphs), with fundamental understanding in theory and challenging real-world applications to **biomedicine**.
 Representative works include:
@@ -20,7 +21,8 @@ Representative works include:
 - A model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk));
 - An application of graph self-supervised learning to compound-protein affinity and contact prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
 
-Moreover, for a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐).
+Moreover, for a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐). \\
+<\br>
 
 <!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
 <!-- , [GraphCL-LP](https://arxiv.org/abs/2201.01702) -->
