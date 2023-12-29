@@ -10,13 +10,13 @@ redirect_from:
 
 <span style="color:red">**I am on the 2023-2024 job market.**</span>
 
-🧑‍🎓<span style="color:orange">**Bio.**</span> I am a fifth-year Ph.D. candidate (2019 -- expected 2024) in the Department of Electrical and Computer Engineering at Texas A&M University, advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. For more details please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
+🧑‍🎓<span style="color:blue">**Bio.**</span> I am a fifth-year Ph.D. candidate (2019 -- expected 2024) in the Department of Electrical and Computer Engineering at Texas A&M University, advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. For more details please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 
 Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf), [postdocs](https://shen-lab.github.io/positions-201712.pdf), and student workers if you are TAMU students.
 <!-- \\
 <br /> -->
 
-⚗️<span style="color:orange">**Research.**</span> I am interested in **machine learning** on **non-Euclidean** data (e.g. graphs or hypergraphs), with fundamental understanding in theory and challenging real-world applications to **biomedicine**.
+⚗️<span style="color:blue">**Research.**</span> I am interested in **machine learning** on **non-Euclidean** data (e.g. graphs or hypergraphs), with fundamental understanding in theory and challenging real-world applications to **biomedicine**.
 Representative works include:
 - Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 1k+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801));
 - A model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk));
@@ -28,7 +28,7 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 <!-- , [GraphCL-LP](https://arxiv.org/abs/2201.01702) -->
 
 
-📰<span style="color:orange">**News.**</span> \\
+📰<span style="color:blue">**News.**</span> \\
 **2023/10.** Talk on Prof. [James Cai](https://cailab-tamu.github.io/)’s group @ TAMU, online. \\
 **2023/08.** Talk on Spatial Omics Journal Club @ Genentech, online. \\
 <!-- 🐰**2023/06.** Have a sweet time in [Genentech Gives Back](https://www.gene.com/good/giving/programs-volunteerism/gives-back) week. 💙 \\ -->
