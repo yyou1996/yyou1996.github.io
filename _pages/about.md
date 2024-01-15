@@ -37,7 +37,7 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 **2023/01.** "[Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)" (model-based risk bound analysis of GDA) is accepted @ ICLR'23. [[poster]](https://yyou1996.github.io/files/iclr2023_gda_poster.pdf) 🎉
 
 <details>
-<summary><b>More News.</b></summary>
+<summary><b>More News.</b></summary><p>
 
 **2022/10.** "[Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?](https://www.biorxiv.org/content/10.1101/2022.11.29.518454v1)" (multi-modal/task protein-protein interface prediction) is accepted @ MLSB Workshop, NeurIPS'22. [[poster]](https://yyou1996.github.io/files/mlsb2022_protein_poster.pdf) \\
 **2022/09.** "[Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative](https://arxiv.org/abs/2210.03801)" (contrastive learning on hypergraphs) is accepted @ NeurIPS'22. [[poster]](https://yyou1996.github.io/files/neurips2022_hypergcl_poster.pdf) \\
@@ -78,4 +78,4 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 
 <!-- 🐏**2015/08 -- 2019/06.** Attend Xi'an Jiaotong University, Xi'an, China, for the Bachelor's Degree in Information Engineering. ✈️ -->
 
-</details>
+</p></details>
