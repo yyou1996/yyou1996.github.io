@@ -29,7 +29,7 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 
 
 📰<span style="color:blue">**News.**</span> \\
-**2024/01.** "[Latent 3D Graph Diffusion](https://openreview.net/forum?id=cXbnGtO0NZ)" (latent diffusion for 3D graphs) is accepted @ ICLR'24.
+**2024/01.** "[Latent 3D Graph Diffusion](https://openreview.net/forum?id=cXbnGtO0NZ)" (latent diffusion models for 3D graphs) is accepted @ ICLR'24.
 
 **2023/10.** Talk on Prof. [James Cai](https://cailab-tamu.github.io/)’s group @ TAMU, online. \\
 **2023/08.** Talk on Spatial Omics Journal Club @ Genentech, online. \\
