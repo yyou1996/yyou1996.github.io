@@ -19,5 +19,6 @@ Artificial Intelligence for Science in Quantum, **Atomistic**, and Continuum Sys
 What are **Diffusion Models**? [[link]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) \\
 **Differential Equations** for Engineers [[link]](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) \\
 Introduction to **Quantum Mechanics** [[link]](https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/7224/INTRODUC.PDF?sequence=1&isAllowed=y) \\
+Essentials of **Stochastic Processes** [[link]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=36fdf724e0aec01e3e1f372d887a4ab3bea9856a) \\
 Generative modeling via **Schrödinger bridge** [[link]](https://vdeborto.github.io/project/generative_modeling/session_5.pdf) \\
 Non-equilibrium physics: **Fokker-Planck equation** [[link]](https://www.physik.uni-bielefeld.de/~borghini/Teaching/Nonequilibrium16/06_15.pdf)
