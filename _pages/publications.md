@@ -28,7 +28,7 @@ author_profile: true
 [[appendix]](https://weitianxin.github.io/files/neurips22_hypergcl_appendix.pdf)
 [[code]](https://github.com/weitianxin/HyperGCL) \\
 **Bioinformatics'22.** "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen.
-(impact factor 6.93, MoML'22, ECCB'22 with 17.40% Acceptance Rate, 3DSIG COSI@ISMB/ECCB'21, MLSB@NeurIPS'20)
+(Impact Factor 6.93, MoML'22, ECCB'22 with 17.40% Acceptance Rate, 3DSIG COSI@ISMB/ECCB'21, MLSB@NeurIPS'20)
 [[poster]](https://yyou1996.github.io/files/moml2022_cpac_poster.pdf)
 [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)
 [[appendix]](https://yyou1996.github.io/files/bioinf2022_cpac_supplement.pdf)
@@ -48,7 +48,7 @@ author_profile: true
 [[paper]](https://arxiv.org/abs/2106.07594)
 [[appendix]](https://yyou1996.github.io/files/icml2021_graphcl_automated_supplement.pdf)
 [[code]](https://github.com/Shen-Lab/GraphCL_Automated) \\
-**TVT'21.** "Probabilistic Constructive Interference Precoding for Imperfect CSIT", G. Lyu, **Y. You**, A. Li, X. Liao, C. Masouros, *IEEE Transactions on Vehicular Technology*. (impact factor 5.97)
+**TVT'21.** "Probabilistic Constructive Interference Precoding for Imperfect CSIT", G. Lyu, **Y. You**, A. Li, X. Liao, C. Masouros, *IEEE Transactions on Vehicular Technology*. (Impact Factor 5.97)
 [[paper]](https://ieeexplore.ieee.org/document/9374108)
 
 **KDF@AAAI'21 Oral.** "AR-Stock: Deep Augmented Relational Stock Prediction", T. Wei, **Y. You**, T. Chen, *Knowledge Discovery from Unstructured Data in Financial Services Workshop, Association for the Advancement of Artificial Intelligence Conference*.
