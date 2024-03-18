@@ -4,6 +4,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+**MLGenX@ICLR'24.** "Multi-Modal Contrastive Learning for Proteins by Combining Domain- Informed Views", H. Xu, **Y. You**, Y. Shen, *Machine Learning for Genomics Explorations Workshop, International Conference on Learning Representations*.
+[[paper]](https://openreview.net/forum?id=xDcTugulVV) \\
 **ICLR’24.** "Latent 3D Graph Diffusion", **Y. You**, R. Zhou, J. Park, H. Xu, C. Tian, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (Acceptance Rate 31.00%)
 [[paper]](https://openreview.net/forum?id=cXbnGtO0NZ)
 
