@@ -4,6 +4,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+**HUGO’24.** "Critical Assessment of Variant Prioritization Methods for Rare Disease Diagnosis within the Rare Genomes Project", ..., **Y. You**, ..., *Human Genomics*. (Impact Factor 4.50, Outcome of [CAGI6 RGP](https://genomeinterpretation.org/cagi6-rgp.html))
+[[paper]](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212v1) \\
 **MLGenX@ICLR'24.** "Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views", H. Xu, **Y. You**, Y. Shen, *Machine Learning for Genomics Explorations Workshop, International Conference on Learning Representations*.
 [[paper]](https://openreview.net/forum?id=xDcTugulVV) \\
 **ICLR’24.** "Latent 3D Graph Diffusion", **Y. You**, R. Zhou, J. Park, H. Xu, C. Tian, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (Acceptance Rate 31.00%)
@@ -12,8 +14,6 @@ author_profile: true
 **NeurIPS’23.** "Graph Mixture of Experts: Learning on Large-Scale Graphs with Explicit Diversity Modeling", H. Wang, Z. Jiang, **Y. You**, Y. Han, G. Liu, J. Srinivasa, R. Kompella, Z. Wang, *Conference on Neural Information Processing Systems*. (Acceptance Rate 26.10%)
 [[paper]](https://arxiv.org/abs/2304.02806)
 [[code]](https://github.com/VITA-Group/Graph-Mixture-of-Experts) \\
-**Preprint’23.** "Critical Assessment of Variant Prioritization Methods for Rare Disease Diagnosis within the Rare Genomes Project", ..., **Y. You**, ..., *medRxiv*.
-[[paper]](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212v1) \\
 **IEEE Data Engineering Bulletin’23.** "Graph Contrastive Learning: An Odyssey towards Generalizable, Scalable and Principled Representation Learning on Graphs", Y. Han, **Y. You**, W. Zheng, S. Hoang, T. Wei, M. Hassan, T. Chen, Y. Ding, Y. Shen, Z. Wang. (Invited Article)
 [[paper]](http://sites.computer.org/debull/A23june/A23JUNE-CD.pdf#page=80) \\
 **ICLR'23.** "Graph Domain Adaptation via Theory-Grounded Spectral Regularization", **Y. You**, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (Acceptance Rate 31.80%)
