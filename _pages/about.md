@@ -29,7 +29,7 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 
 
 📰<span style="color:blue">**News.**</span> \\
-**2024/04.** Participate in the community effort of [CAGI6 RGP](https://genomeinterpretation.org/cagi6-rgp.html) with the [outcome](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212v1) accepted @ Human Genomics'24. \\
+**2024/04.** Participate in the community effort of [CAGI6 Rare Genomes Project](https://genomeinterpretation.org/cagi6-rgp.html) with the [outcome](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212v1) accepted @ Human Genomics'24. \\
 **2024/03.** "[Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views](https://openreview.net/forum?id=xDcTugulVV)" (multi-modal protein representation learning) is accepted @ MLGenX Workshop, ICLR'24. \\
 **2024/01.** "[Latent 3D Graph Diffusion](https://openreview.net/forum?id=cXbnGtO0NZ)" (latent diffusion models for 3D graphs) is accepted @ ICLR'24.
 
