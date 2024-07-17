@@ -33,8 +33,10 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 **2024/07 - Present.** Join [Thomson Lab](https://thomsonlab.caltech.edu) at California Institute of Technology, Pasadena, as a postdoctoral scholar advised by Prof. [Matt Thomson](https://www.bbe.caltech.edu/people/matt-thomson). \\
 **2024/06.** Pass the Ph.D. final defense titled [Generalizable Graph AI for Biomedicine: Data-Driven Self-Supervision and Principled Regularization](), and become a Ph.D. 🎓🎉 \\
 **2024/04.** Participate in the community effort of [CAGI6 Rare Genomes Project](https://genomeinterpretation.org/cagi6-rgp.html) with the [outcome](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212v1) accepted @ Human Genomics'24. \\
-**2024/03.** "[Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views](https://openreview.net/forum?id=xDcTugulVV)" (multi-modal protein representation learning) is accepted @ MLGenX Workshop, ICLR'24. \\
+**2024/03.** "[Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views](https://openreview.net/forum?id=xDcTugulVV)" (multi-modal protein representation learning) is accepted @ MLGenX Workshop, ICLR'24.
+[[poster]](https://yyou1996.github.io/files/mlgenx2024_protein_poster.pdf) \\
 **2024/01.** "[Latent 3D Graph Diffusion](https://openreview.net/forum?id=cXbnGtO0NZ)" (latent diffusion models for 3D graphs) is accepted @ ICLR'24.
+[[poster]](https://yyou1996.github.io/files/iclr2024_ldm3dg_poster.pdf)
 
 **2023/10.** Talk on Prof. [Cai Lab](https://cailab-tamu.github.io/)’s group @ TAMU, online. \\
 **2023/08.** Talk on the Spatial Omics Journal Club @ Genentech, online. \\
