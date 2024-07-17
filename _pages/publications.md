@@ -7,9 +7,12 @@ author_profile: true
 **HUGO’24.** "Critical Assessment of Variant Prioritization Methods for Rare Disease Diagnosis within the Rare Genomes Project", ..., **Y. You**, ..., *Human Genomics*. (Impact Factor 4.50, Outcome of [CAGI6 RGP](https://genomeinterpretation.org/cagi6-rgp.html))
 [[paper]](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212v1) \\
 **MLGenX@ICLR'24.** "Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views", H. Xu, **Y. You**, Y. Shen, *Machine Learning for Genomics Explorations Workshop, International Conference on Learning Representations*.
+[[poster]](https://yyou1996.github.io/files/mlgenx2024_protein_poster.pdf)
 [[paper]](https://openreview.net/forum?id=xDcTugulVV) \\
 **ICLR’24.** "Latent 3D Graph Diffusion", **Y. You**, R. Zhou, J. Park, H. Xu, C. Tian, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (Acceptance Rate 31.00%)
+[[poster]](https://yyou1996.github.io/files/iclr2024_ldm3dg_poster.pdf)
 [[paper]](https://openreview.net/forum?id=cXbnGtO0NZ)
+[[code]](https://github.com/Shen-Lab/LDM-3DG)
 
 **NeurIPS’23.** "Graph Mixture of Experts: Learning on Large-Scale Graphs with Explicit Diversity Modeling", H. Wang, Z. Jiang, **Y. You**, Y. Han, G. Liu, J. Srinivasa, R. Kompella, Z. Wang, *Conference on Neural Information Processing Systems*. (Acceptance Rate 26.10%)
 [[paper]](https://arxiv.org/abs/2304.02806)
