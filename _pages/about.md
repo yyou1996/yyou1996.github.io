@@ -8,32 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red">**I am on the 2023-2024 job market.**</span>
 
-🧑‍🎓<span style="color:blue">**Bio.**</span> I am a fifth-year Ph.D. candidate (2019 -- expected 2024) in the Department of Electrical and Computer Engineering at Texas A&M University, advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang Wang](https://vita-group.github.io/). I received my bachelor's degree from Xi'an Jiaotong University. For more details please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
+🧑‍🔬<span style="color:blue">**Bio.**</span> I am a postdoctoral scholar in the Division of Biology and Biological Engineering at California Institute of Technology, advised by Prof. [Matt Thomson](https://www.bbe.caltech.edu/people/matt-thomson).
+Before that, I received my Ph.D. degree from Texas A&M University, advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/), and B.Eng. degree from Xi'an Jiaotong University. For more details please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 
-Besides, our lab is recruiting excellent [Ph.D. students](https://shen-lab.github.io/Positions-TAMU-ECE-Shen.pdf), [postdocs](https://shen-lab.github.io/positions-201712.pdf), and student workers if you are TAMU students.
 <!-- \\
 <br /> -->
 
-🧫<span style="color:blue">**Research.**</span> I am interested in **machine learning** on **non-Euclidean** data (e.g. graphs or hypergraphs), with fundamental understanding in theory and challenging real-world applications to **biomedicine**.
-Representative works include:
-- Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 1k+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801));
-- A model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk));
-- An application of graph self-supervised learning to compound-protein affinity and contact prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)).
+🧫<span style="color:blue">**Research.**</span> My research focuses on **machine learning** on non-Euclidean data (e.g. **graphs** or hypergraphs), with fundamental understanding in theory and applications to real-world problems in **life science** (molecular/cellular systems).
+Please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=Pv-V2igAAAAJ) for a complete list of my works.
 
-Moreover, for a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐).
+<!-- Representative works include: -->
+<!-- - Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 1k+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)); -->
+<!-- - A model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk)); -->
+<!-- - An application of graph self-supervised learning to compound-protein affinity and contact prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)). -->
 
+<!-- Moreover, for a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐).  -->
 <!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
 <!-- , [GraphCL-LP](https://arxiv.org/abs/2201.01702) -->
 
 
 📰<span style="color:blue">**News.**</span> \\
+**2024/07 - Present.** Join [Thomson Lab](https://thomsonlab.caltech.edu) at California Institute of Technology, Pasadena, as a postdoctoral scholar advised by Prof. [Matt Thomson](https://www.bbe.caltech.edu/people/matt-thomson). \\
+**2024/06.** Pass the Ph.D. final defense titled [Generalizable Graph AI for Biomedicine: Data-Driven Self-Supervision and Principled Regularization](), and become a Ph.D. 🎓🎉 \\
 **2024/04.** Participate in the community effort of [CAGI6 Rare Genomes Project](https://genomeinterpretation.org/cagi6-rgp.html) with the [outcome](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212v1) accepted @ Human Genomics'24. \\
 **2024/03.** "[Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views](https://openreview.net/forum?id=xDcTugulVV)" (multi-modal protein representation learning) is accepted @ MLGenX Workshop, ICLR'24. \\
 **2024/01.** "[Latent 3D Graph Diffusion](https://openreview.net/forum?id=cXbnGtO0NZ)" (latent diffusion models for 3D graphs) is accepted @ ICLR'24.
 
-**2023/10.** Talk on Prof. [James Cai](https://cailab-tamu.github.io/)’s group @ TAMU, online. \\
+**2023/10.** Talk on Prof. [Cai Lab](https://cailab-tamu.github.io/)’s group @ TAMU, online. \\
 **2023/08.** Talk on the Spatial Omics Journal Club @ Genentech, online. \\
 <!-- 🐰**2023/06.** Have a sweet time in [Genentech Gives Back](https://www.gene.com/good/giving/programs-volunteerism/gives-back) week. 💙 \\ -->
 **2023/05 -- 2023/08.** Join the Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/) & Dr. [Kai Liu](https://www.linkedin.com/in/kai-liu-5aa28914/). ✈️ \\
@@ -64,11 +66,11 @@ Moreover, for a glance of research in the field of graph self-supervised learnin
 <!-- 🐭**2020/12.** "[AR-Stock: Deep Augmented Relational Stock Prediction](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)" (oral, GCNs in stock prediction) is accepted @ KDF Workshop, AAAI'21. \\ -->
 **2020/09.** "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)" (cross-modality learning in CPAC) is accepted @ MLSB Workshop, NeurIPS'20. [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) \\
 **2020/09.** "[Graph Contrastive Learning with Augmentations](https://arxiv.org/abs/2010.13902)" (contrastive learning in GNN pre-training) is accepted @ NeurIPS'20. [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf) \\
-**2020/09 -- Present.** Employed by the Department of Electrical and Computer Engineering at Texas A&M University, College Station, as a graduate research assistant advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\
+**2020/09 -- 2024/05.** Employed by the Department of Electrical and Computer Engineering at Texas A&M University, College Station, as a graduate research assistant advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\
 **2020/06.** "[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)" (self-supervision in GCNs) is accepted @ ICML'20. \\
 **2020/02.** "[L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" (efficient GCN training) is accepted @ CVPR'20.
 
-**2019/08 -- Present.** Attend Texas A&M University, College Station, for the Ph.D.'s Degree in Electrical Engineering, advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\
+**2019/08 -- 2024/08.** Attend Texas A&M University, College Station, for the Ph.D.'s Degree in Electrical Engineering, advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\
 <!-- 🐖**2019/05 -- 2019/08.** Join [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) in the School of Data and Computer Science at Sun Yet-Sen University, Guangzhou, as a voluntary research assistant advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/). \\ -->
 **2019/02.** Receive the Electrical and Computer Engineering PhD Merit Fellowship from ECEN @ Texas A&M University.
 
