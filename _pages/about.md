@@ -51,7 +51,7 @@ Please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user
 **2022/01.** "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) is accepted @ ICLR'22. [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 
 **2021/12.** Receive the NSF Student Travel Awards from WSDM'22. \\
-**2021/10.** Talk on Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html)’s group @ UT Austin, online. \\
+**2021/10.** Talk on [Prof. Mingyuan Zhou’s group](https://mingyuanzhou.github.io/index.html) @ UT Austin, online. \\
 **2021/10.** "[Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations](https://arxiv.org/abs/2201.01702)" (generative augmentations in GraphCL) is accepted @ WSDM'22. [[poster]](https://yyou1996.github.io/files/wsdm2022_graphcl_lp_poster.pdf) \\
 **2021/09.** Receive the Chevron Scholarship from ECEN @ Texas A&M University. \\
 **2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich, online. \\
