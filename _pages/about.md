@@ -39,7 +39,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 **2023/10.** Talk on Prof. [Cai Lab](https://cailab-tamu.github.io/)’s group @ TAMU, online. \\
 **2023/08.** Talk on the Spatial Omics Journal Club @ Genentech, online. \\
 <!-- 🐰**2023/06.** Have a sweet time in [Genentech Gives Back](https://www.gene.com/good/giving/programs-volunteerism/gives-back) week. 💙 \\ -->
-**2023/05 -- 2023/08.** Join the Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/) & Dr. [Kai Liu](https://www.linkedin.com/in/kai-liu-5aa28914/). ✈️ \\
+**2023/05 -- 2023/08.** Join the Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/) & Dr. [Kai Liu](https://www.linkedin.com/in/kai-liu-5aa28914/). \\
 **2023/04.** Receive the Quality Graduate Student Award from ECEN @ Texas A&M University. \\
 **2023/01.** "[Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)" (model-based risk bound analysis of GDA) is accepted @ ICLR'23. [[poster]](https://yyou1996.github.io/files/iclr2023_gda_poster.pdf) 🎉
 
@@ -47,7 +47,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 **2022/09.** "[Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative](https://arxiv.org/abs/2210.03801)" (contrastive learning on hypergraphs) is accepted @ NeurIPS'22. [[poster]](https://yyou1996.github.io/files/neurips2022_hypergcl_poster.pdf) \\
 <!-- 🐯**2022/07.** Happy [4th anniversary](https://www.linkedin.com/posts/insitro_the-past-four-years-would-not-have-been-possible-activity-6963918926535700480-eM2X?utm_source=linkedin_share&utm_medium=member_desktop_web) to insitro, Inc.! 🎂 \\ -->
 **2022/06.** "[Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)" (multi-modal self-supervision in CPAC) is accepted @ Bioinformatics'22 (MoML'22, ECCB'22). [[poster]](https://yyou1996.github.io/files/moml2022_cpac_poster.pdf) \\
-**2022/05 -- 2022/08.** Join the Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules [intern](https://www.linkedin.com/posts/insitro_machinelearning-activity-6954871600278097920-kEH-?utm_source=linkedin_share&utm_medium=member_desktop_web) advised by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). 🎉✈️ \\
+**2022/05 -- 2022/08.** Join the Department of Data Science and Machine Learning at insitro, Inc., South San Francisco, as an ML small molecules [intern](https://www.linkedin.com/posts/insitro_machinelearning-activity-6954871600278097920-kEH-?utm_source=linkedin_share&utm_medium=member_desktop_web) advised by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). 🎉 \\
 **2022/03.** Talk on the AI&A Journal Club @ AstraZeneca, online. \\
 **2022/01.** "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) is accepted @ ICLR'22. [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 
