@@ -38,7 +38,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 **2024/01.** "[Latent 3D Graph Diffusion](https://openreview.net/forum?id=cXbnGtO0NZ)" (latent diffusion models for 3D graphs) is accepted @ ICLR'24.
 [[poster]](https://yyou1996.github.io/files/iclr2024_ldm3dg_poster.pdf)
 
-**2023/10.** Talk on Prof. [Cai Lab](https://cailab-tamu.github.io/)’s group @ TAMU, online. \\
+**2023/10.** Talk on [Cai Lab](https://cailab-tamu.github.io/) @ TAMU, online. \\
 **2023/08.** Talk on the Spatial Omics Journal Club @ Genentech, online. \\
 <!-- 🐰**2023/06.** Have a sweet time in [Genentech Gives Back](https://www.gene.com/good/giving/programs-volunteerism/gives-back) week. 💙 \\ -->
 **2023/05 -- 2023/08.** Join the Research and Early Development organization at Genentech, Inc. (gRED), South San Francisco, as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/) & Dr. [Kai Liu](https://www.linkedin.com/in/kai-liu-5aa28914/). \\
