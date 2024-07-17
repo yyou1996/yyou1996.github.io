@@ -17,7 +17,7 @@ Before that, I received my Ph.D. degree from Texas A&M University, advised by Pr
 
 <!-- 🧫<span style="color:blue">**Research.**</span> -->
 My research focuses on **machine learning** on non-Euclidean data (e.g. **graphs** or hypergraphs), with fundamental understanding in theory and applications to real-world problems in **life science** (molecular/cellular systems).
-Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Pv-V2igAAAAJ) for a complete list of works.
+Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Pv-V2igAAAAJ) for a complete list of the established works.
 
 <!-- Representative works include: -->
 <!-- - Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 1k+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)); -->
