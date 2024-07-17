@@ -9,14 +9,15 @@ redirect_from:
 ---
 
 
-🧑‍🔬<span style="color:blue">**Bio.**</span> I am a postdoctoral scholar in the Division of Biology and Biological Engineering at California Institute of Technology, advised by Prof. [Matt Thomson](https://www.bbe.caltech.edu/people/matt-thomson).
+<span style="color:blue">**Bio.**</span> I am a postdoctoral scholar in the Division of Biology and Biological Engineering at California Institute of Technology, advised by Prof. [Matt Thomson](https://www.bbe.caltech.edu/people/matt-thomson).
 Before that, I received my Ph.D. degree from Texas A&M University, advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/), and B.Eng. degree from Xi'an Jiaotong University. For more details please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf).
 
 <!-- \\
 <br /> -->
 
-🧫<span style="color:blue">**Research.**</span> My research focuses on **machine learning** on non-Euclidean data (e.g. **graphs** or hypergraphs), with fundamental understanding in theory and applications to real-world problems in **life science** (molecular/cellular systems).
-Please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=Pv-V2igAAAAJ) for a complete list of my works.
+<!-- 🧫<span style="color:blue">**Research.**</span> -->
+My research focuses on **machine learning** on non-Euclidean data (e.g. **graphs** or hypergraphs), with fundamental understanding in theory and applications to real-world problems in **life science** (molecular/cellular systems).
+Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Pv-V2igAAAAJ) for a complete list of my works.
 
 <!-- Representative works include: -->
 <!-- - Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 1k+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)); -->
@@ -28,7 +29,7 @@ Please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user
 <!-- , [GraphCL-LP](https://arxiv.org/abs/2201.01702) -->
 
 
-📰<span style="color:blue">**News.**</span> \\
+<span style="color:blue">**News.**</span> \\
 **2024/07 - Present.** Join [Thomson Lab](https://thomsonlab.caltech.edu) at California Institute of Technology, Pasadena, as a postdoctoral scholar advised by Prof. [Matt Thomson](https://www.bbe.caltech.edu/people/matt-thomson). \\
 **2024/06.** Pass the Ph.D. final defense titled [Generalizable Graph AI for Biomedicine: Data-Driven Self-Supervision and Principled Regularization](), and become a Ph.D. 🎓🎉 \\
 **2024/04.** Participate in the community effort of [CAGI6 Rare Genomes Project](https://genomeinterpretation.org/cagi6-rgp.html) with the [outcome](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212v1) accepted @ Human Genomics'24. \\
