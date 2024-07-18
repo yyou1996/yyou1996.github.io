@@ -10,7 +10,7 @@ redirect_from:
 
 
 <span style="color:blue">**Bio.**</span> I am a postdoctoral scholar in the Division of Biology and Biological Engineering at California Institute of Technology (Caltech), advised by Prof. [Matt Thomson](https://thomsonlab.caltech.edu).
-Before that, I received my Ph.D. degree from Texas A&M University (TAMU), advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/), and B.Eng. degree from Xi'an Jiaotong University (XJTU). Please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf) for more information.
+Before that, I received the Ph.D. degree from Texas A&M University (TAMU), advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/), and the B.Eng. degree from Xi'an Jiaotong University (XJTU). Please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf) for more information.
 
 <!-- \\
 <br /> -->
