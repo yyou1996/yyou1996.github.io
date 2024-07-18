@@ -72,7 +72,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 **2020/06.** "[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)" (self-supervision in GCNs) is accepted @ ICML'20. \\
 **2020/02.** "[L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" (efficient GCN training) is accepted @ CVPR'20.
 
-**2019/08 -- 2024/08.** Attend Texas A&M University, College Station, for the Ph.D.'s Degree in Electrical Engineering, advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\
+**2019/08 -- 2024/08.** Attend Texas A&M University, College Station, for the Ph.D. Degree in Electrical Engineering, advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\
 <!-- 🐖**2019/05 -- 2019/08.** Join [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) in the School of Data and Computer Science at Sun Yet-Sen University, Guangzhou, as a voluntary research assistant advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/). \\ -->
 **2019/02.** Receive the Electrical and Computer Engineering PhD Merit Fellowship from ECEN @ Texas A&M University.
 
