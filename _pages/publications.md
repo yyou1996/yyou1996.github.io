@@ -41,12 +41,12 @@ author_profile: true
 **ICLR'22.** "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How", **Y. You**, Y. Cao, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*. (Acceptance Rate 32.29%)
 [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 [[paper]](https://openreview.net/forum?id=EVVadRFRgL7)
-[[code]](https://github.com/Shen-Lab/Bayesian-L2O)
-
+[[code]](https://github.com/Shen-Lab/Bayesian-L2O) \\
 **WSDM'22.** "Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations", **Y. You**, T. Chen, Z. Wang, Y. Shen, *ACM International Conference on Web Search and Data Mining*. (Acceptance Rate 20.22%)
 [[poster]](https://yyou1996.github.io/files/wsdm2022_graphcl_lp_poster.pdf)
 [[paper]](https://arxiv.org/abs/2201.01702)
-[[code]](https://github.com/Shen-Lab/GraphCL_Automated) \\
+[[code]](https://github.com/Shen-Lab/GraphCL_Automated)
+
 **ICML'21 Long Presentation.** "Graph Contrastive Learning Automated", **Y. You**, T. Chen, Y. Shen, Z. Wang, *International Conference on Machine Learning*. (Acceptance Rate 3.01%)
 [[video]](https://slideslive.com/38958634/graph-contrastive-learning-automated)
 [[poster]](https://yyou1996.github.io/files/icml2021_graphcl_automated_poster.pdf)
@@ -54,10 +54,10 @@ author_profile: true
 [[appendix]](https://yyou1996.github.io/files/icml2021_graphcl_automated_supplement.pdf)
 [[code]](https://github.com/Shen-Lab/GraphCL_Automated) \\
 **TVT'21.** "Probabilistic Constructive Interference Precoding for Imperfect CSIT", G. Lyu, **Y. You**, A. Li, X. Liao, C. Masouros, *IEEE Transactions on Vehicular Technology*. (Impact Factor 5.97)
-[[paper]](https://ieeexplore.ieee.org/document/9374108)
-
+[[paper]](https://ieeexplore.ieee.org/document/9374108) \\
 **KDF@AAAI'21 Oral.** "AR-Stock: Deep Augmented Relational Stock Prediction", T. Wei, **Y. You**, T. Chen, *Knowledge Discovery from Unstructured Data in Financial Services Workshop, Association for the Advancement of Artificial Intelligence Conference*.
-[[paper]](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf) \\
+[[paper]](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)
+
 <!-- **MLSB'20.** "Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*. -->
 <!-- [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1) \\ -->
 **NeurIPS'20.** "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*. (<sup>\*</sup>Equal Contribution, Acceptance Rate 20.09%)
