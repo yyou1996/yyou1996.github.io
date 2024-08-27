@@ -25,8 +25,8 @@ author_profile: true
 [[code]](https://github.com/Shen-Lab/GDA-SpecReg)
 
 **MLSB@NeurIPS'22.** "Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?", A. Talukder, R. Yin, Y. Sun, Y. Shen, **Y. You**, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*.
-[[paper]](https://www.biorxiv.org/content/10.1101/2022.11.29.518454v1)
-[[poster]](https://yyou1996.github.io/files/mlsb2022_protein_poster.pdf) \\
+[[poster]](https://yyou1996.github.io/files/mlsb2022_protein_poster.pdf)
+[[paper]](https://www.biorxiv.org/content/10.1101/2022.11.29.518454v1) \\
 **NeurIPS'22.** "Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative", T. Wei<sup>\*</sup>, **Y. You**<sup>\*</sup>, T. Chen, Y. Shen, J. He, Z. Wang, *Conference on Neural Information Processing Systems*. (<sup>\*</sup>Equal Contribution, Acceptance Rate 25.60%)
 [[poster]](https://yyou1996.github.io/files/neurips2022_hypergcl_poster.pdf)
 [[paper]](https://arxiv.org/abs/2210.03801)
