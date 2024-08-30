@@ -89,7 +89,7 @@ author:
   email            : "ynyou@caltech.edu"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Pv-V2igAAAAJ"
   github           : "yyou1996"
-  linkedin         : "yuningyou/recent-activity/all/"
+  linkedin         : # "yuningyou/recent-activity/all/"
   researchgate     : # "https://www.researchgate.net/profile/Yuning_You4"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "YuningYou632"
+  twitter          : # "YuningYou632"
   vine             :
   weibo            :
   xing             :
