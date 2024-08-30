@@ -82,8 +82,8 @@ analytics:
 author:
   name             : # "Your Sidebar Name"
   avatar           : "yuning.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : 
+  bio              : # "Your biography for the left-hand sidebar"
+  location         :
   employer         :
   pubmed           : #
   email            : "ynyou@caltech.edu"
