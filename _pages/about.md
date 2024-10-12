@@ -16,7 +16,7 @@ Before that, I received the Ph.D. degree from <ins>T</ins>exas <ins>A</ins>&<ins
 <br /> -->
 <!-- 🧫<span style="color:blue">**Research.**</span> -->
 
-My research focuses on **machine learning** on non-Euclidean data (e.g. **graphs** or point clouds), with fundamental understanding in theory and applications to real-world problems in **life sciences** (in particular modeling of molecular and cellular systems).
+My research focuses on **machine learning** on non-Euclidean data (e.g. graphs or point clouds) and in dynamical systems, with fundamental understanding in theory and applications to real-world problems in **life sciences** (in particular modeling of molecular and cellular systems).
 Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Pv-V2igAAAAJ) for a complete list of the established works.
 
 <!-- Representative works include: -->
