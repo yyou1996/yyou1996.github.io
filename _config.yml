@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "游宇宁  (Yuning You)"
+title                    : "Yuning You (游宇宁)"
 title_separator          : "-"
 name                     : &name "Yuning You"
 description              : &description "personal description"
