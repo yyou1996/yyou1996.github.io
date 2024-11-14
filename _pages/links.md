@@ -23,5 +23,5 @@ Introduction to **Quantum Mechanics** [[link]](https://books.google.com/books?id
 Essentials of **Stochastic Processes** [[link]](https://link.springer.com/book/10.1007/978-3-319-45614-0) \\
 Generative modeling via **Schrödinger bridge** [[link]](https://vdeborto.github.io/project/generative_modeling/session_5.pdf) \\
 Non-equilibrium physics: **Fokker-Planck equation** [[link]](https://www.physik.uni-bielefeld.de/~borghini/Teaching/Nonequilibrium16/06_15.pdf) \\
-**Stochastic Interpolants**: A Unifying Framework for Flows and Diffusions [[link]](https://arxiv.org/abs/2303.08797)
+**Stochastic Interpolants**: A Unifying Framework for Flows and Diffusions [[link]](https://arxiv.org/abs/2303.08797) \\
 Engineering Applications of **Noncommutative Harmonic Analysis** [[link]](https://www.taylorfrancis.com/books/mono/10.1201/9781420041767/engineering-applications-noncommutative-harmonic-analysis-gregory-chirikjian-alexander-kyatkin)
