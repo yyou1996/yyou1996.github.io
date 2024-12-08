@@ -29,7 +29,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 
 
 <span style="color:blue">**News.**</span> \\
-**2024/10.** "[Correlational Lagrangian Schrödinger Bridge: Learning Dynamics with Population-Level Regularization](https://arxiv.org/abs/2402.10227)" (biology-inspired diffusion models under correlation conservation) is accepted @ AIDrugX Workshop, NeurIPS'24.
+**2024/10.** "[Correlational Lagrangian Schrödinger Bridge: Learning Dynamics with Population-Level Regularization](https://openreview.net/forum?id=i1hekxcJP1)" (biology-inspired diffusion models under correlation conservation) is accepted @ AIDrugX Workshop, NeurIPS'24.
 [[poster]](https://yyou1996.github.io/files/aidrugx2024_clsb_poster.pdf) 🎉 \\
 **2024/07 - Present.** Join the Division of Biology and Biological Engineering at California Institute of Technology, Pasadena, as a postdoctoral scholar advised by Prof. [Matt Thomson](https://thomsonlab.caltech.edu). \\
 **2024/06.** Pass the Ph.D. final defense titled "[Generalizable Graph AI for Biomedicine: Data-Driven Self-Supervision and Principled Regularization]()", and become a Ph.D. 🎓🎉 \\
