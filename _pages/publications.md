@@ -6,7 +6,7 @@ author_profile: true
 ---
 **AIDrugX@NeurIPS'24.** "Correlational Lagrangian Schrödinger Bridge: Learning Dynamics with Population-Level Regularization", **Y. You**, R. Zhou, Y. Shen, *AI for New Drug Modalities Workshop, Conference on Neural Information Processing Systems*.
 [[poster]](https://yyou1996.github.io/files/aidrugx2024_clsb_poster.pdf)
-[[paper]](https://arxiv.org/abs/2402.10227) \\
+[[paper]](https://openreview.net/forum?id=i1hekxcJP1) \\
 **HUGO’24.** "Critical Assessment of Variant Prioritization Methods for Rare Disease Diagnosis within the Rare Genomes Project", ..., **Y. You**, ..., *Human Genomics*. (Impact Factor 4.50, Outcome of [CAGI6 RGP](https://genomeinterpretation.org/cagi6-rgp.html))
 [[paper]](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212v1) \\
 **MLGenX@ICLR'24.** "Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views", H. Xu, **Y. You**, Y. Shen, *Machine Learning for Genomics Explorations Workshop, International Conference on Learning Representations*.
