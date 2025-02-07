@@ -7,8 +7,8 @@ main:
 #   - title: "Talks & Honors"
 #     url: /talks_and_honors/
 
-#   - title: "YouLab@CUHKSZ"
-#     url: /laboratory/
+  - title: "YouLab@CUHKSZ"
+    url: /laboratory/
     
   - title: "Publications"
     url: /publications/
