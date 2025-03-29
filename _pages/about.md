@@ -29,8 +29,8 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 
 
 <span style="color:blue">**News.**</span> \\
-**2023/03.** Receive the Distinguished Graduate Student Award for Excellence in Research from the Association of Former Students @ Texas A&M University. \\
-**2025/01.** Excited to release the [Cellular Interaction Foundation Model (CIFM)](https://www.biorxiv.org/content/10.1101/2025.01.25.634867v1), an AI foundation model capable of simulating living systems like DeepSeek/ChatGPT -- it inputs cellular microenvironments (like language contexts) and query locations, and outputs gene expressions (like next word tokens) for those locations. (2025/03： Accepted @ MLGenX Workshop, ICLR’25)
+**2023/03.** Receive the Distinguished Graduate Student Award for Excellence in Research from the Association of Former Students @ TAMU. \\
+**2025/01.** Excited to release the [Cellular Interaction Foundation Model (CIFM)](https://www.biorxiv.org/content/10.1101/2025.01.25.634867v1), an AI foundation model capable of simulating living systems like DeepSeek/ChatGPT -- it inputs cellular microenvironments (like language contexts) and query locations, and outputs gene expressions (like next word tokens) for those locations (2025/03: Accepted @ MLGenX Workshop, ICLR’25).
 [[huggingface]](https://huggingface.co/ynyou/CIFM) 🎉
 
 **2024/12.** Co-organize [AI Bootcamp VIII on Graph Machine Learning](https://www.caltech.edu/campus-life-events/calendar/ai-bootcamp-viii-graphs-in-machine-learning) @ Caltech. \\
@@ -48,7 +48,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 **2023/08.** Talk on the Spatial Omics Journal Club @ Genentech. \\
 <!-- 🐰**2023/06.** Have a sweet time in [Genentech Gives Back](https://www.gene.com/good/giving/programs-volunteerism/gives-back) week. 💙 \\ -->
 **2023/05 -- 2023/08.** Join the Research and Early Development organization at Genentech, Inc. (gRED), as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/) & Dr. [Kai Liu](https://www.linkedin.com/in/kai-liu-5aa28914/). \\
-**2023/04.** Receive the Quality Graduate Student Award from ECEN @ Texas A&M University. \\
+**2023/04.** Receive the Quality Graduate Student Award from ECEN @ TAMU. \\
 **2023/01.** "[Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)" (model-based risk bound analysis of GDA) is accepted @ ICLR'23. [[poster]](https://yyou1996.github.io/files/iclr2023_gda_poster.pdf) 🎉
 
 **2022/10.** "[Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?](https://www.biorxiv.org/content/10.1101/2022.11.29.518454v1)" (multi-modal/task protein-protein interface prediction) is accepted @ MLSB Workshop, NeurIPS'22. [[poster]](https://yyou1996.github.io/files/mlsb2022_protein_poster.pdf) \\
@@ -62,8 +62,8 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 **2021/12.** Receive the NSF Student Travel Awards from WSDM'22. \\
 **2021/10.** Talk on Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html)’s group @ UT Austin. \\
 **2021/10.** "[Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations](https://arxiv.org/abs/2201.01702)" (generative augmentations in GraphCL) is accepted @ WSDM'22. [[poster]](https://yyou1996.github.io/files/wsdm2022_graphcl_lp_poster.pdf) \\
-**2021/09.** Receive the Chevron Scholarship from ECEN @ Texas A&M University. \\
-**2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ Technical University of Munich. \\
+**2021/09.** Receive the Chevron Scholarship from ECEN @ TAMU. \\
+**2021/08.** Talk on [LoGaG](https://hannes-stark.com/logag-reading-group) @ TUM. \\
 **2021/07.** Talk on [3DSIG COSI](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21. [[video]](https://www.youtube.com/watch?v=lX1jSvi44uE) \\
 **2021/07.** Serve as the session chair of [Semisupervised and Unsupervised Learning](https://icml.cc/Conferences/2021/Schedule?showParentSession=12101) @ ICML'21 and talk. \\
 **2021/06 -- 2021/08.** Join the Product Semantics Team at Amazon.com Services, Inc., as an applied scientist intern advised by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
@@ -75,13 +75,13 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 <!-- 🐭**2020/12.** "[AR-Stock: Deep Augmented Relational Stock Prediction](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)" (oral, GCNs in stock prediction) is accepted @ KDF Workshop, AAAI'21. \\ -->
 **2020/09.** "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)" (cross-modality learning in CPAC) is accepted @ MLSB Workshop, NeurIPS'20. [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) \\
 **2020/09.** "[Graph Contrastive Learning with Augmentations](https://arxiv.org/abs/2010.13902)" (contrastive learning in GNN pre-training) is accepted @ NeurIPS'20. [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf) \\
-**2020/09 -- 2024/05.** Employed by the Department of Electrical and Computer Engineering at Texas A&M University, as a graduate research assistant advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\
+<!-- **2020/09 -- 2024/05.** Employed by the Department of Electrical and Computer Engineering at Texas A&M University, as a graduate research assistant advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\ -->
 **2020/06.** "[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)" (self-supervision in GCNs) is accepted @ ICML'20. \\
 **2020/02.** "[L<sup>2</sup>-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://arxiv.org/abs/2003.13606)" (efficient GCN training) is accepted @ CVPR'20.
 
 **2019/08 -- 2024/08.** Attend Texas A&M University for the Ph.D. Degree in Electrical Engineering, advised by Prof. [Yang Shen](https://shen-lab.github.io/). \\
 <!-- 🐖**2019/05 -- 2019/08.** Join [Intelligence SciencE and systEm Lab (iSEE)](https://www.isee-ai.cn/) in the School of Data and Computer Science at Sun Yet-Sen University, Guangzhou, as a voluntary research assistant advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/). \\ -->
-**2019/02.** Receive the Electrical and Computer Engineering PhD Merit Fellowship from ECEN @ Texas A&M University.
+**2019/02.** Receive the Electrical and Computer Engineering PhD Merit Fellowship from ECEN @ TAMU.
 
 <!--  🐶**2018/09 -- 2019/04.** Join State Key Laboratory for Strength and Vibration of Mechanical Structures in the School of Aerospace Engineering at Xi'an Jiaotong University, Xi'an, as a voluntary research assistant advised by Dr. [Gangming Lv](http://gr.xjtu.edu.cn/web/gmlv/1) & Prof. [Guiyan Rong](http://gr.xjtu.edu.cn/web/yanguirong/1). \\
 **2018/07 -- 2018/08.** Join [Optical+Biomedical Engineering Laboratory (OBEL)](http://obel.ee.uwa.edu.au/) in the School of Electrical, Electronic & Computer Engineering at the University of Western Australia, Perth, as a voluntary research assistant advised by Dr. [Karol Karnowski](https://scholar.google.com/citations?user=piE2NlMAAAAJ&hl=en&oi=ao) & Prof. [Barry Cense](https://scholar.google.com/citations?user=j88vA6YAAAAJ&hl=en&oi=ao). -->
