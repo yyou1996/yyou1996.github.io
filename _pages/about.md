@@ -29,7 +29,8 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 
 
 <span style="color:blue">**News.**</span> \\
-**2025/01.** Excited to release the [Cellular Interaction Foundation Model (CIFM)](https://www.biorxiv.org/content/10.1101/2025.01.25.634867v1), an AI foundation model capable of simulating living systems like DeepSeek/ChatGPT -- it inputs cellular microenvironments (like language contexts) and query locations, and outputs gene expressions (like next word tokens) for those locations.
+**2023/03.** Receive the Distinguished Graduate Student Award for Excellence in Research from the Association of Former Students of Texas A&M University. \\
+**2025/01.** Excited to release the [Cellular Interaction Foundation Model (CIFM)](https://www.biorxiv.org/content/10.1101/2025.01.25.634867v1), an AI foundation model capable of simulating living systems like DeepSeek/ChatGPT -- it inputs cellular microenvironments (like language contexts) and query locations, and outputs gene expressions (like next word tokens) for those locations. (2025/03. Accepted @ MLGenX Workshop, ICLR’24.)
 [[huggingface]](https://huggingface.co/ynyou/CIFM) 🎉
 
 **2024/12.** Co-organize [AI Bootcamp VIII on Graph Machine Learning](https://www.caltech.edu/campus-life-events/calendar/ai-bootcamp-viii-graphs-in-machine-learning) @ Caltech. \\
