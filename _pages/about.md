@@ -70,7 +70,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 **2021/05.** "[Graph Contrastive Learning Automated](https://arxiv.org/abs/2106.07594)" (long presentation, automatic augmentation selection in GraphCL) is accepted @ ICML’21. [[video]](https://slideslive.com/38958634/graph-contrastive-learning-automated) 🎉 \\
 **2021/03.** "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (robust CI precoding in wireless communication) is accepted @ TVT'21. 🎉 \\
 <!-- 🐂**2021/02.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). 🥶 \\ -->
-**2021/02.** Pass the Ph.D. qualifying exam.
+<!-- **2021/02.** Pass the Ph.D. qualifying exam. -->
 
 <!-- 🐭**2020/12.** "[AR-Stock: Deep Augmented Relational Stock Prediction](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)" (oral, GCNs in stock prediction) is accepted @ KDF Workshop, AAAI'21. \\ -->
 **2020/09.** "[Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1)" (cross-modality learning in CPAC) is accepted @ MLSB Workshop, NeurIPS'20. [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) \\
