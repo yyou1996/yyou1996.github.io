@@ -4,7 +4,7 @@ title: ""
 permalink: /links/
 author_profile: true
 ---
-Recommended medium-sized books/surveys/tutorials, rooted in engineering mathematics and highly applicable to life sciences problems:
+Recommended medium-sized books/surveys/tutorials, rooted in engineering mathematics and highly applicable to problems in the life sciences:
 
 **Graph Signal Processing**: Overview, Challenges, and Applications [[link]](https://ieeexplore.ieee.org/abstract/document/8347162) \\
 **Graph isomorphism** in quasipolynomial time [[link]](https://dl.acm.org/doi/abs/10.1145/2897518.2897542) \\
