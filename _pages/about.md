@@ -19,13 +19,9 @@ Before that, I received the Ph.D. degree from <ins>T</ins>exas <ins>A</ins>&<ins
 My research focuses on **machine learning** on non-Euclidean data (e.g. **graphs** or point clouds) and in **dynamical** systems, with fundamental understanding in theory and applications to real-world problems in **life sciences** (in particular modeling of molecular and cellular systems).
 Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Pv-V2igAAAAJ) for a complete list of the established works.
 
-<!-- Representative works include: -->
-<!-- - Graph contrastive self-supervised learning ([GraphCL](https://arxiv.org/abs/2010.13902), 1k+✍️) with its automated versions (e.g. [JOAO](https://arxiv.org/abs/2106.07594)) and extension on hypergraphs ([HyperGCL](https://arxiv.org/abs/2210.03801)); -->
-<!-- - A model-based risk bound analysis of graph domain adaptation ([GDA](https://openreview.net/forum?id=OysfLgrk8mk)); -->
-<!-- - An application of graph self-supervised learning to compound-protein affinity and contact prediction ([CPAC](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)). -->
-<!-- Moreover, for a glance of research in the field of graph self-supervised learning, please refer to the GitHub [repo](https://github.com/ChandlerBang/awesome-self-supervised-gnn) (1k+⭐).  -->
-<!-- (ii) heuristic self-supervision on graphs ([SS-GCNs](https://arxiv.org/abs/2006.09136)), -->
-<!-- , [GraphCL-LP](https://arxiv.org/abs/2201.01702) -->
+<span style="color:red">**Recruitment.**</span>
+I am starting an AI for Life Sciences lab at [the Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en), in the School of Science and Engineering, and recruiting PhD students and research assistants.
+If you are passionate about leveraging AI techniques to build virtual biological systems (virtual cells, tissues, organs, etc.), please consider to [join us](https://yyou1996.github.io/laboratory/)!
 
 
 <span style="color:blue">**News.**</span> \\
