@@ -21,7 +21,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&u
 
 <span style="color:red">**Recruitment.**</span>
 I am starting an AI for Life Sciences laboratory at [the Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en), in the School of Science and Engineering, and recruiting PhD students and research assistants.
-If you are passionate about leveraging AI techniques to build virtual biological systems (virtual cells, tissues, organs, etc.), please consider to [join us](https://yyou1996.github.io/laboratory/)!
+If you are passionate about leveraging AI techniques to build virtual biological systems (virtual cells, tissues, organisms, etc.), please consider to [join us](https://yyou1996.github.io/laboratory/)!
 
 
 <span style="color:blue">**News.**</span> \\
