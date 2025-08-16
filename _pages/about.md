@@ -16,10 +16,10 @@ Before that, I received the Ph.D. degree from <ins>T</ins>exas <ins>A</ins>&<ins
 <br /> -->
 <!-- 🧫<span style="color:blue">**Research.**</span> -->
 
-My research focuses on developing machine learning algorithms on structural data (e.g.
+I develop machine learning algorithms to analyze structural data (e.g.
 [graphs](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html),
 [point clouds](https://openreview.net/forum?id=cXbnGtO0NZ),
-and [fields](https://arxiv.org/abs/2402.10227)) to build virtual biological systems for simulating complex biological behaviors (e.g.
+and [fields](https://arxiv.org/abs/2402.10227)), and apply them to build  virtual biological systems for simulating complex biological behaviors (e.g.
 [virtual tissues](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)).
 
 <span style="color:red">**Recruitment.**</span>
