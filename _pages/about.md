@@ -45,7 +45,7 @@ If you are passionate about leveraging AI techniques to build virtual biological
 **2024/12.** Co-organize [AI Bootcamp VIII on Graph Machine Learning](https://www.caltech.edu/campus-life-events/calendar/ai-bootcamp-viii-graphs-in-machine-learning) @ Caltech. \\
 **2024/10.** "[Correlational Lagrangian Schrödinger Bridge: Learning Dynamics with Population-Level Regularization](https://openreview.net/forum?id=i1hekxcJP1)" (biology-inspired diffusion models under correlation conservation) is accepted @ AIDrugX Workshop, NeurIPS'24.
 [[poster]](https://yyou1996.github.io/files/aidrugx2024_clsb_poster.pdf) 🎉 \\
-**2024/07 - Present.** Join the Division of Biology and Biological Engineering at California Institute of Technology, as a postdoctoral scholar advised by Prof. [Matt Thomson](https://thomsonlab.caltech.edu). \\
+<!-- **2024/07 - Present.** Join the Division of Biology and Biological Engineering at California Institute of Technology, as a postdoctoral scholar advised by Prof. [Matt Thomson](https://thomsonlab.caltech.edu). \\ -->
 **2024/06.** Pass the Ph.D. final defense titled "[Generalizable Graph AI for Biomedicine: Data-Driven Self-Supervision and Principled Regularization](https://oaktrust.library.tamu.edu/items/51769588-af7f-4ef1-99d6-dc5e05b6074b)", and become a Ph.D. 🎓🎉 \\
 **2024/04.** Participate in the community effort of [CAGI6 Rare Genomes Project](https://genomeinterpretation.org/cagi6-rgp.html) with the [outcome](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212) accepted @ Human Genomics'24. \\
 **2024/03.** "[Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views](https://openreview.net/forum?id=xDcTugulVV)" (multi-modal protein representation learning) is accepted @ MLGenX Workshop, ICLR'24.
@@ -56,7 +56,7 @@ If you are passionate about leveraging AI techniques to build virtual biological
 <!-- **2023/10.** Talk at Prof. [James Cai](https://cailab-tamu.github.io/)'s lab @ TAMU. \\ -->
 <!--  **2023/08.** Talk at the Spatial Omics Journal Club @ Genentech. \\ -->
 <!-- 🐰**2023/06.** Have a sweet time in [Genentech Gives Back](https://www.gene.com/good/giving/programs-volunteerism/gives-back) week. 💙 \\ -->
-**2023/05 -- 2023/08.** Join the Research and Early Development organization at Genentech, Inc. (gRED), as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/) & Dr. [Kai Liu](https://www.linkedin.com/in/kai-liu-5aa28914/). \\
+<!-- **2023/05 -- 2023/08.** Join the Research and Early Development organization at Genentech, Inc. (gRED), as an AIML intern advised by Dr. [Changlin Wan](http://changlinwan.com/) & Dr. [Kai Liu](https://www.linkedin.com/in/kai-liu-5aa28914/). \\ -->
 **2023/04.** Receive the Quality Graduate Student Award from ECEN @ TAMU. \\
 **2023/01.** "[Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)" (model-based risk bound analysis of GDA) is accepted @ ICLR'23. [[poster]](https://yyou1996.github.io/files/iclr2023_gda_poster.pdf) 🎉
 
@@ -64,7 +64,7 @@ If you are passionate about leveraging AI techniques to build virtual biological
 **2022/09.** "[Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative](https://arxiv.org/abs/2210.03801)" (contrastive learning on hypergraphs) is accepted @ NeurIPS'22. [[poster]](https://yyou1996.github.io/files/neurips2022_hypergcl_poster.pdf) \\
 <!-- 🐯**2022/07.** Happy [4th anniversary](https://www.linkedin.com/posts/insitro_the-past-four-years-would-not-have-been-possible-activity-6963918926535700480-eM2X?utm_source=linkedin_share&utm_medium=member_desktop_web) to insitro, Inc.! 🎂 \\ -->
 **2022/06.** "[Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction](https://www.biorxiv.org/content/10.1101/2022.07.18.500559)" (multi-modal self-supervision in CPAC) is accepted @ Bioinformatics'22 (MoML'22, ECCB'22). [[poster]](https://yyou1996.github.io/files/moml2022_cpac_poster.pdf) \\
-**2022/05 -- 2022/08.** Join the Department of Data Science and Machine Learning at insitro, Inc., as an ML small molecules [intern](https://www.linkedin.com/posts/insitro_machinelearning-activity-6954871600278097920-kEH-?utm_source=linkedin_share&utm_medium=member_desktop_web) advised by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). 🎉 \\
+<!-- **2022/05 -- 2022/08.** Join the Department of Data Science and Machine Learning at insitro, Inc., as an ML small molecules [intern](https://www.linkedin.com/posts/insitro_machinelearning-activity-6954871600278097920-kEH-?utm_source=linkedin_share&utm_medium=member_desktop_web) advised by Dr. [Bowen Liu](https://scholar.google.com/citations?user=l_IWUOAAAAAJ&hl=en&oi=ao) & [Ralph Ma](https://www.linkedin.com/in/ralphma/). 🎉 \\ -->
 <!-- **2022/03.** Talk at the AI&A Journal Club @ AstraZeneca. \\ -->
 **2022/01.** "[Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)" (Bayesian learning to optimize) is accepted @ ICLR'22. [[poster]](https://yyou1996.github.io/files/iclr2022_bl2o_poster.pdf)
 
@@ -75,7 +75,7 @@ If you are passionate about leveraging AI techniques to build virtual biological
 <!-- **2021/08.** Talk at [LoGaG](https://hannes-stark.com/logag-reading-group) @ TUM. \\ -->
 <!-- **2021/07.** Talk at [3DSIG COSI](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/3dsig) @ ISMB/ECCB'21. [[video]](https://www.youtube.com/watch?v=lX1jSvi44uE) \\ -->
 **2021/07.** Serve as the session chair of [Semisupervised and Unsupervised Learning](https://icml.cc/Conferences/2021/Schedule?showParentSession=12101) @ ICML'21 and talk. \\
-**2021/06 -- 2021/08.** Join the Product Semantics Team at Amazon.com Services, Inc., as an applied scientist intern advised by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\
+<!-- **2021/06 -- 2021/08.** Join the Product Semantics Team at Amazon.com Services, Inc., as an applied scientist intern advised by Dr. [Tong Zhao](https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=ao). \\ -->
 **2021/05.** "[Graph Contrastive Learning Automated](https://arxiv.org/abs/2106.07594)" (long presentation, automatic augmentation selection in GraphCL) is accepted @ ICML’21. [[video]](https://slideslive.com/38958634/graph-contrastive-learning-automated) 🎉 \\
 **2021/03.** "[Probabilistic Constructive Interference Precoding for Imperfect CSIT](https://ieeexplore.ieee.org/document/9374108)" (robust CI precoding in wireless communication) is accepted @ TVT'21. 🎉 \\
 <!-- 🐂**2021/02.** Survive [Texas winter storm](https://www.foxnews.com/us/texas-winter-storm-power-outage-snow-temperatures). 🥶 \\ -->
