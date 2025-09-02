@@ -9,26 +9,35 @@ redirect_from:
 ---
 
 
-<span style="color:blue">**Bio.**</span> I am a postdoctoral scholar in the Division of Biology and Biological Engineering at <ins>Cal</ins>ifornia Institute of <ins>Tech</ins>nology, advised by Prof. [Matt Thomson](https://thomsonlab.caltech.edu).
+<span style="color:blue">**Bio.**</span>
+I am an assistant professor in the School of Science and Engineering at [the Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en) (CUHK-Shenzhen).
+Before that, I received the Ph.D. degree from Texas A&M University (2019-2024), the B.Eng. degree from Xi'an Jiaotong University (2015-2019), and conducted postdoctoral research at the California Institute of Technology (2024-2025).
+Please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf) for more information.
+
+I am starting the AI for Life Sciences Laboratory to develop machine-learning algorithms for structural data mining (e.g.
+[graphs](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html),
+[point clouds](https://openreview.net/forum?id=cXbnGtO0NZ),
+and [fields](https://arxiv.org/abs/2402.10227)) and to build simulators of living systems at multiple scales (e.g.
+[virtual tissues](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)).
+<span style="color:red">[join us](https://yyou1996.github.io/laboratory/)</span>
+
+
+<!--
+I am a postdoctoral scholar in the Division of Biology and Biological Engineering at <ins>Cal</ins>ifornia Institute of <ins>Tech</ins>nology, advised by Prof. [Matt Thomson](https://thomsonlab.caltech.edu).
 Before that, I received the Ph.D. degree from <ins>T</ins>exas <ins>A</ins>&<ins>M</ins> <ins>U</ins>niversity, advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/), and the B.Eng. degree from <ins>X</ins>i'an <ins>J</ins>iao<ins>t</ins>ong <ins>U</ins>niversity. Please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf) for more information.
-
-<!-- \\
-<br /> -->
-<!-- 🧫<span style="color:blue">**Research.**</span> -->
-
 I develop machine learning algorithms on structural data (e.g.
 [graphs](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html),
 [point clouds](https://openreview.net/forum?id=cXbnGtO0NZ),
 and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build virtual biological systems for simulating complex biological behaviors (e.g.
 [virtual tissues](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)).
-
 <span style="color:red">**Recruitment.**</span>
 I am starting the AI for Life Sciences laboratory at [the Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en), in the School of Science and Engineering, and recruiting PhD students and research assistants.
 If you are passionate about leveraging AI techniques to build virtual biological systems (virtual cells, tissues, organisms, etc.), please consider to [join us](https://yyou1996.github.io/laboratory/)!
+-->
 
 
 <span style="color:blue">**News.**</span> \\
-<!-- **2025/08.** Talk at Prof. [Leonardo Morsut](https://morsutlab.usc.edu/leonardo-morsut/)’s lab @ USC about the [CIFM](https://www.biorxiv.org/content/10.1101/2025.01.25.634867) virtual tissue model.  -->
+<!-- **2025/08.** Talk at Prof. [Leonardo Morsut](https://morsutlab.usc.edu/leonardo-morsut/)’s lab @ USC about the [CIFM](https://www.biorxiv.org/content/10.1101/2025.01.25.634867) virtual tissue model. -->
 **2025/03.** Receive the Distinguished Graduate Student Award for Excellence in Research from the Association of Former Students @ TAMU. [[news]](https://grad.tamu.edu/aggie-life/news/2025-distinguished-graduate-student-awards) \\
 **2025/01.** Excited to release the [Cellular Interaction Foundation Model (CIFM)](https://www.biorxiv.org/content/10.1101/2025.01.25.634867), an AI foundation model capable of simulating living systems like DeepSeek/ChatGPT -- it inputs cellular microenvironments (like language contexts) and query locations, and outputs gene expressions (like next word tokens) for those locations (2025/03: Accepted @ MLGenX Workshop, ICLR’25).
 [[huggingface]](https://huggingface.co/ynyou/CIFM) 🎉
