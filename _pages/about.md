@@ -19,7 +19,7 @@ I am starting the AI for Life Sciences Laboratory to develop machine-learning al
 [point clouds](https://openreview.net/forum?id=cXbnGtO0NZ),
 and [fields](https://arxiv.org/abs/2402.10227)) and to build simulators of living systems at multiple scales (e.g.
 [virtual tissues](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)).
-<span style="color:red">[join us](https://yyou1996.github.io/laboratory/)</span>
+<span style="color:red">[[join us]](https://yyou1996.github.io/laboratory/)</span>
 
 
 <!--
