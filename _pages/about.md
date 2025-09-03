@@ -11,7 +11,8 @@ redirect_from:
 
 <span style="color:blue">**Bio.**</span>
 I am an assistant professor in the School of Science and Engineering at [the Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en) (CUHK-Shenzhen).
-Before that, I received the Ph.D. degree from Texas A&M University (2019-2024), the B.Eng. degree from Xi'an Jiaotong University (2015-2019), and conducted postdoctoral research at the California Institute of Technology (2024-2025).
+Before that, I received the Ph.D. degree from Texas A&M University (2019-2024),
+and conducted postdoctoral research at the California Institute of Technology (2024-2025).
 Please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf) for more information.
 
 I am starting the AI for Life Sciences Laboratory to develop machine-learning algorithms for structural data mining (e.g.
@@ -23,6 +24,7 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leveraging them to build si
 
 
 <!--
+the B.Eng. degree from Xi'an Jiaotong University (2015-2019), 
 I am a postdoctoral scholar in the Division of Biology and Biological Engineering at <ins>Cal</ins>ifornia Institute of <ins>Tech</ins>nology, advised by Prof. [Matt Thomson](https://thomsonlab.caltech.edu).
 Before that, I received the Ph.D. degree from <ins>T</ins>exas <ins>A</ins>&<ins>M</ins> <ins>U</ins>niversity, advised by Prof. [Yang Shen](https://shen-lab.github.io) and co-advised by Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/), and the B.Eng. degree from <ins>X</ins>i'an <ins>J</ins>iao<ins>t</ins>ong <ins>U</ins>niversity. Please refer to my [CV](https://yyou1996.github.io/files/yuning_cv.pdf) for more information.
 I develop machine learning algorithms on structural data (e.g.
