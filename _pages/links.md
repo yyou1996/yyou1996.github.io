@@ -24,4 +24,6 @@ Essentials of **Stochastic Processes** [[link]](https://link.springer.com/book/1
 Generative modeling via **Schrödinger bridge** [[link]](https://vdeborto.github.io/project/generative_modeling/session_5.pdf) \\
 Non-equilibrium physics: **Fokker-Planck equation** [[link]](https://www.physik.uni-bielefeld.de/~borghini/Teaching/Nonequilibrium16/06_15.pdf) \\
 **Stochastic Interpolants**: A Unifying Framework for Flows and Diffusions [[link]](https://arxiv.org/abs/2303.08797) \\
-Engineering Applications of **Noncommutative Harmonic Analysis** [[link]](https://www.taylorfrancis.com/books/mono/10.1201/9781420041767/engineering-applications-noncommutative-harmonic-analysis-gregory-chirikjian-alexander-kyatkin)
+Engineering Applications of **Noncommutative Harmonic Analysis** [[link]](https://www.taylorfrancis.com/books/mono/10.1201/9781420041767/engineering-applications-noncommutative-harmonic-analysis-gregory-chirikjian-alexander-kyatkin) \\
+Molecular mechanisms of **T cell co-stimulation and co-inhibition** [[link]](https://www.nature.com/articles/nri3405) \\
+**Key chemokines** direct migration of immune cells in solid tumors [[link]](https://www.nature.com/articles/s41417-021-00303-x)
