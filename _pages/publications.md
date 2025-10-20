@@ -13,7 +13,7 @@ Representations*, 2025.
 [[poster]](https://yyou1996.github.io/files/aidrugx2024_clsb_poster.pdf)
 [[paper]](https://openreview.net/forum?id=i1hekxcJP1) \\
 **HUGO’24.** "Critical Assessment of Variant Prioritization Methods for Rare Disease Diagnosis within the Rare Genomes Project", ..., **Y. You**, ..., *Human Genomics*, 2024. (Impact Factor 4.50, Outcome of [CAGI6 RGP](https://genomeinterpretation.org/cagi6-rgp.html))
-[[paper]](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212v1) \\
+[[paper]](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212) \\
 **MLGenX@ICLR'24.** "Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views", H. Xu, **Y. You**, Y. Shen, *Machine Learning for Genomics Explorations Workshop, International Conference on Learning Representations*, 2024.
 [[poster]](https://yyou1996.github.io/files/mlgenx2024_protein_poster.pdf)
 [[paper]](https://openreview.net/forum?id=xDcTugulVV) \\
@@ -34,7 +34,7 @@ Representations*, 2025.
 
 **MLSB@NeurIPS'22.** "Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?", A. Talukder, R. Yin, Y. Sun, Y. Shen, **Y. You**, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*, 2022.
 [[poster]](https://yyou1996.github.io/files/mlsb2022_protein_poster.pdf)
-[[paper]](https://www.biorxiv.org/content/10.1101/2022.11.29.518454v1) \\
+[[paper]](https://www.biorxiv.org/content/10.1101/2022.11.29.518454) \\
 **NeurIPS'22.** "Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative", T. Wei<sup>\*</sup>, **Y. You**<sup>\*</sup>, T. Chen, Y. Shen, J. He, Z. Wang, *Conference on Neural Information Processing Systems*, 2022. (<sup>\*</sup>Equal Contribution, Acceptance Rate 25.60%)
 [[poster]](https://yyou1996.github.io/files/neurips2022_hypergcl_poster.pdf)
 [[paper]](https://arxiv.org/abs/2210.03801)
@@ -43,7 +43,7 @@ Representations*, 2025.
 **Bioinformatics'22.** "Cross-Modality and Self-Supervised Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Bioinformatics*, 2022.
 (Impact Factor 6.93, MoML'22, ECCB'22 with Acceptance Rate 17.40%, 3DSIG COSI@ISMB/ECCB'21, MLSB@NeurIPS'20)
 [[poster]](https://yyou1996.github.io/files/moml2022_cpac_poster.pdf)
-[[paper]](https://www.biorxiv.org/content/10.1101/2022.07.18.500559v1)
+[[paper]](https://www.biorxiv.org/content/10.1101/2022.07.18.500559)
 [[appendix]](https://yyou1996.github.io/files/bioinf2022_cpac_supplement.pdf)
 [[code]](https://github.com/Shen-Lab/CPAC) \\
 **ICLR'22.** "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How", **Y. You**, Y. Cao, T. Chen, Z. Wang, Y. Shen, *International Conference on Learning Representations*, 2022. (Acceptance Rate 32.29%)
@@ -67,7 +67,7 @@ Representations*, 2025.
 [[paper]](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_5.pdf)
 
 <!-- **MLSB'20.** "Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*. -->
-<!-- [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162v1) \\ -->
+<!-- [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162) \\ -->
 **NeurIPS'20.** "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*, 2020. (<sup>\*</sup>Equal Contribution, Acceptance Rate 20.09%)
 [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf)
 [[paper]](https://arxiv.org/abs/2010.13902)
