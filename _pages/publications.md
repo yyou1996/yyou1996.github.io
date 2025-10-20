@@ -7,7 +7,7 @@ author_profile: true
 **MLGenX@ICLR’25.** "Building Foundation Models to Characterize Cellular Interactions via Geometric Self-Supervised Learning on Spatial Genomics", **Y. You**, Z. Wang, K. Fleisher, R. Liu, M. Thomson, *Machine Learning for Genomics Explorations Workshop, International Conference on Learning
 Representations*, 2025.
 [[huggingface]](https://huggingface.co/ynyou/CIFM)
-[[paper]](https://www.biorxiv.org/content/10.1101/2025.01.25.634867v1)
+[[paper]](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)
 
 **AIDrugX@NeurIPS'24.** "Correlational Lagrangian Schrödinger Bridge: Learning Dynamics with Population-Level Regularization", **Y. You**, R. Zhou, Y. Shen, *AI for New Drug Modalities Workshop, Conference on Neural Information Processing Systems*, 2024.
 [[poster]](https://yyou1996.github.io/files/aidrugx2024_clsb_poster.pdf)
