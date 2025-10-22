@@ -9,7 +9,7 @@ author_profile: true
 Coming soon.
 
 **Join us.** \\
-Please send me an email with the following materials if you are interested in applying to be a Ph.D. student, postdoctoral fellow or research assistant in our lab:
+Please send me an email with the following materials if you are interested in applying to be a Ph.D. student, postdoctoral fellow, or research assistant in our lab:
 * Curriculum vitae
 * Academic transcripts
 * English proficiency test scores (if English is not your native language)
