@@ -4,8 +4,9 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-**MLGenX@ICLR’25.** "Building Foundation Models to Characterize Cellular Interactions via Geometric Self-Supervised Learning on Spatial Genomics", **Y. You**, Z. Wang, K. Fleisher, R. Liu, M. Thomson, *Machine Learning for Genomics Explorations Workshop, International Conference on Learning
-Representations*, 2025.
+**LoG’25.** "When Structure Doesn’t Help: LLMs Do Not Read Text-Attributed Graphs as Effectively as We Expected", H. Xu, **Y. You**, T. Ma, *Learning on Graphs Conference*, 2025.
+[[paper]](https://openreview.net/forum?id=ijQTdlHJze) \\
+**MLGenX@ICLR’25.** "Building Foundation Models to Characterize Cellular Interactions via Geometric Self-Supervised Learning on Spatial Genomics", **Y. You**, Z. Wang, K. Fleisher, R. Liu, M. Thomson, *Machine Learning for Genomics Explorations Workshop, International Conference on Learning Representations*, 2025.
 [[huggingface]](https://huggingface.co/ynyou/CIFM)
 [[paper]](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)
 
