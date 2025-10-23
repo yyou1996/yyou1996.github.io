@@ -39,7 +39,7 @@ If you are passionate about leveraging AI techniques to build virtual biological
 
 
 <span style="color:blue">**News.**</span> \\
-**2025/10.** Our research accepted @ LoG'25 shows that current state-of-the-art LLMs cannot yet effectively read information from graph structures --
+**2025/10.** Our LoG'25 paper shows that current state-of-the-art LLMs cannot yet effectively read information from graph structures --
 "[When Structure Doesn’t Help: LLMs Do Not Read Text-Attributed Graphs as Effectively as We Expected](https://openreview.net/forum?id=ijQTdlHJze)". \\
 **2025/03.** Receive the Distinguished Graduate Student Award for Excellence in Research from the Association of Former Students @ TAMU. [[news]](https://grad.tamu.edu/aggie-life/news/2025-distinguished-graduate-student-awards) \\
 **2025/01.** Excited to release the [Cellular Interaction Foundation Model (CIFM)](https://www.biorxiv.org/content/10.1101/2025.01.25.634867), an AI foundation model capable of simulating living systems like DeepSeek/ChatGPT -- it inputs cellular microenvironments (like language contexts) and query locations, and outputs gene expressions (like next word tokens) for those locations (2025/03: Accepted @ MLGenX Workshop, ICLR’25).
