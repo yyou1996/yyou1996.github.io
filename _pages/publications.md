@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **LoG’25.** "When Structure Doesn’t Help: LLMs Do Not Read Text-Attributed Graphs as Effectively as We Expected", H. Xu, **Y. You**, T. Ma, *Learning on Graphs Conference*, 2025.
+[[poster]](https://yyou1996.github.io/files/log2025_llm4graph_poster.pdf)
 [[paper]](https://openreview.net/forum?id=ijQTdlHJze) \\
 **MLGenX@ICLR’25.** "Building Foundation Models to Characterize Cellular Interactions via Geometric Self-Supervised Learning on Spatial Genomics", **Y. You**, Z. Wang, K. Fleisher, R. Liu, M. Thomson, *Machine Learning for Genomics Explorations Workshop, International Conference on Learning Representations*, 2025.
 [[huggingface]](https://huggingface.co/ynyou/CIFM)
