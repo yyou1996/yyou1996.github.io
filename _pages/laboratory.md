@@ -11,7 +11,7 @@ Fanxu Meng, 2025/09 -- Present
 
 Research assistant: \\
 Tonghao Bai, 2025/09 -- Present \\
-Jianqiu We, 2025/09 -- Present \\
+Jianqiu Wu, 2025/09 -- Present \\
 Zongting Wei, 2025/09 -- Present
 
 
