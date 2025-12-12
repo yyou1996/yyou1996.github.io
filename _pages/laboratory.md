@@ -6,7 +6,14 @@ author_profile: true
 ---
 
 **Lab members.** \\
-Coming soon.
+MPhil: \\
+Fanxu Meng, 2025/09 -- Present
+
+Research assistant: \\
+Tonghao Bai, 2025/09/10 -- Present \\
+Jianqiu We, 2025/09/10 -- Present \\
+Zongting Wei, 2025/09/09 -- Present
+
 
 **Join us.** \\
 Please send me an email with the following materials if you are interested in applying to be a MPhil, Ph.D. student, postdoctoral fellow, or research assistant in our lab:
