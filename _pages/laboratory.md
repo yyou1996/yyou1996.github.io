@@ -7,7 +7,7 @@ author_profile: true
 
 **Lab members.** \\
 Research assistant: \\
-Fanxu Meng, 2025/09 -- Present
+Fanxu Meng, 2025/09 -- Present \\
 Tonghao Bai, 2025/09 -- Present \\
 Jianqiu Wu, 2025/09 -- Present \\
 Zongting Wei, 2025/09 -- Present
