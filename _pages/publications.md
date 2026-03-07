@@ -14,6 +14,9 @@ author_profile: true
 **AIDrugX@NeurIPS'24.** "Correlational Lagrangian Schrödinger Bridge: Learning Dynamics with Population-Level Regularization", **Y. You**, R. Zhou, Y. Shen, *AI for New Drug Modalities Workshop, Conference on Neural Information Processing Systems*, 2024.
 [[poster]](https://yyou1996.github.io/files/aidrugx2024_clsb_poster.pdf)
 [[paper]](https://openreview.net/forum?id=i1hekxcJP1) \\
+**PhDDissertation@TAMU.** Generalizable Graph AI for Biomedicine: Data-Driven Self-Supervision and Principled Regularization, **Y. You**, *Texas A&M University*, 2024.
+[[paper]](https://oaktrust.library.tamu.edu/items/51769588-af7f-4ef1-99d6-dc5e05b6074b)
+[[slides]](https://yyou1996.github.io/files/dissertation2024_gml4biomed_slides.pdf) \\
 **HUGO’24.** "Critical Assessment of Variant Prioritization Methods for Rare Disease Diagnosis within the Rare Genomes Project", ..., **Y. You**, ..., *Human Genomics*, 2024. (Impact Factor 4.50, Outcome of [CAGI6 RGP](https://genomeinterpretation.org/cagi6-rgp.html))
 [[paper]](https://www.medrxiv.org/content/10.1101/2023.08.02.23293212) \\
 **MLGenX@ICLR'24.** "Multi-Modal Contrastive Learning for Proteins by Combining Domain-Informed Views", H. Xu, **Y. You**, Y. Shen, *Machine Learning for Genomics Explorations Workshop, International Conference on Learning Representations*, 2024.
