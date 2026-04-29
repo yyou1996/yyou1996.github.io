@@ -26,4 +26,5 @@ Non-equilibrium physics: **Fokker-Planck equation** [[link]](https://www.physik.
 **Stochastic Interpolants**: A Unifying Framework for Flows and Diffusions [[link]](https://arxiv.org/abs/2303.08797) \\
 Engineering Applications of **Noncommutative Harmonic Analysis** [[link]](https://www.taylorfrancis.com/books/mono/10.1201/9781420041767/engineering-applications-noncommutative-harmonic-analysis-gregory-chirikjian-alexander-kyatkin) \\
 Molecular mechanisms of **T cell co-stimulation and co-inhibition** [[link]](https://www.nature.com/articles/nri3405) \\
-**Key chemokines** direct migration of immune cells in solid tumors [[link]](https://www.nature.com/articles/s41417-021-00303-x)
+**Key chemokines** direct migration of immune cells in solid tumors [[link]](https://www.nature.com/articles/s41417-021-00303-x) \\
+How to build the **virtual cell** with artificial intelligence: Priorities and opportunities [[link]](https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1)
