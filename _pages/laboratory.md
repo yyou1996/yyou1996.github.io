@@ -11,6 +11,7 @@ Boyan Pan, 2026/08 -- Present \\
 Yuhao Ye, 2026/08 -- Present
 
 Research assistant: \\
+Chenyu Zhang, 2026/01 -- Present \\
 Fanxu Meng, 2025/09 -- Present \\
 Tonghao Bai, 2025/09 -- Present \\
 Jianqiu Wu, 2025/09 -- Present \\
