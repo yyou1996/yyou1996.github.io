@@ -20,7 +20,7 @@ I am leading the AI for Life Sciences Laboratory to develop machine learning alg
 [point clouds](https://openreview.net/forum?id=cXbnGtO0NZ),
 and [fields](https://arxiv.org/abs/2402.10227)), and leveraging them to build biological simulators for living organisms at multiple scales (e.g.
 [virtual tissues](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)). \\
-<span style="color:blue">**I am actively recruiting young talents to join my lab and explore the frontiers of AI and life sciences.**</span>
+<span style="color:red">**I am actively recruiting young talents to join my lab and explore the frontiers of AI and life sciences.**</span>
 [[join us]](https://yyou1996.github.io/laboratory/)
 
 
