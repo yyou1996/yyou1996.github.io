@@ -7,7 +7,7 @@ author_profile: true
 
 **Lab members.** \\
 Ph.D. student: \\
-Boyan Pan, 2026/08 -- Present \\ 
+Boyan Pan, 2026/08 -- Present \\
 Yuhao Ye, 2026/08 -- Present
 
 Research assistant: \\
