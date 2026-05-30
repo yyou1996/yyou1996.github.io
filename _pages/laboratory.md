@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 **Lab members.** \\
-Ph.D. student: \\
+<ins>Ph.D. student</ins>: \\
 Boyan Pan, 2026/09 -- Present \\
 Yuhao Ye, 2026/09 -- Present
 
-Research assistant: \\
+<ins>Research assistant</ins>: \\
 Tonghao Bai, 2025/09 -- Present \\
 Zongting Wei, 2025/09 -- Present
 
