@@ -28,4 +28,4 @@ Please send me an email with the following materials if you are interested in ap
 * 学术成绩单与英语水平测试成绩
 * 一封推荐信（由推荐人从其邮箱发送）
 * （可选）其他能力证明材料（论文与竞赛奖项等）
-* （对于博士申请者）其他要求请参阅[官方网站](https://sse-mphil-phd.cuhk.edu.cn/en/program/CIE)
+* （对于博士申请者）其他要求请参阅[官方网站](https://sse-mphil-phd.cuhk.edu.cn/program/CIE)
