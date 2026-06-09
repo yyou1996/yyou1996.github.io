@@ -22,8 +22,7 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leveraging them to build bi
 [virtual tissues](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)).
 
 <span style="color:red">**I am actively recruiting young talents to join my lab and explore the frontiers of AI and biology.**</span>
-[[join us]](https://yyou1996.github.io/laboratory/) \\
-Selected [EUSC×AISE Summer Camp](https://sse.cuhk.edu.cn/en/article/2277) research-track students interested in interning in my lab and applying for Ph.D. programs in Fall 2027, are welcome to email me.
+[[join us]](https://yyou1996.github.io/laboratory/)
 
 
 
