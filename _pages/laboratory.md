@@ -21,7 +21,7 @@ author_profile: true
 .lab-member img {
   width: 150px;
   height: 150px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 50%;
   display: block;
   margin: 0 auto 0.8rem auto;
