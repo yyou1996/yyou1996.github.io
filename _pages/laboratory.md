@@ -47,13 +47,13 @@ Ph.D. student:
   <div class="lab-member">
     <img src="{{ '/images/lab/boyan-pan.jpg' | relative_url }}" alt="Boyan Pan">
     <div class="name">Boyan Pan</div>
-    <div class="role">Ph.D. student</div>
+    <div class="role">2026/09 -- Present</div>
   </div>
 
   <div class="lab-member">
     <img src="{{ '/images/lab/yuhao-ye.jpg' | relative_url }}" alt="Yuhao Ye">
     <div class="name">Yuhao Ye</div>
-    <div class="role">Ph.D. student</div>
+    <div class="role">2026/09 -- Present</div>
   </div>
 
 </div>
@@ -65,13 +65,13 @@ Research assistant:
   <div class="lab-member">
     <img src="{{ '/images/lab/tonghao-bai.jpg' | relative_url }}" alt="Tonghao Bai">
     <div class="name">Tonghao Bai</div>
-    <div class="role">Research assistant</div>
+    <div class="role">2025/09 -- Present</div>
   </div>
 
   <div class="lab-member">
     <img src="{{ '/images/lab/zongting-wei.jpg' | relative_url }}" alt="Zongting Wei">
     <div class="name">Zongting Wei</div>
-    <div class="role">Research assistant</div>
+    <div class="role">2025/09 -- Present</div>
   </div>
 
 </div>
