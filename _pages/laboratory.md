@@ -5,8 +5,6 @@ permalink: /laboratory/
 author_profile: true
 ---
 
-**Lab members.**
-
 <style>
 .lab-grid {
   display: grid;
@@ -40,6 +38,7 @@ author_profile: true
 }
 </style>
 
+**Lab members.** \\
 Ph.D. students:
 
 <div class="lab-grid">
