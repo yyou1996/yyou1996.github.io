@@ -57,7 +57,7 @@ Ph.D. students:
   </div>
 
   <div class="lab-member">
-    <img src="{{ '/images/lab/yuhao-ye.jpg' | relative_url }}" alt="Yuhao Ye">
+    <img src="{{ '/images/yuhaoye.jpg' | relative_url }}" alt="Yuhao Ye">
     <div class="name">Yuhao Ye</div>
     <div class="role">2026/09 – Present</div>
   </div>
