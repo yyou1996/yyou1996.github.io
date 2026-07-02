@@ -5,14 +5,76 @@ permalink: /laboratory/
 author_profile: true
 ---
 
-**Lab members.** \\
-<ins>Ph.D. student</ins>: \\
-Boyan Pan, 2026/09 -- Present \\
-Yuhao Ye, 2026/09 -- Present
+**Lab members.**
 
-<ins>Research assistant</ins>: \\
-Tonghao Bai, 2025/09 -- Present \\
-Zongting Wei, 2025/09 -- Present
+<style>
+.lab-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 2rem 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.lab-member {
+  text-align: center;
+}
+
+.lab-member img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto 0.5rem auto;
+}
+
+.lab-member .name {
+  font-weight: 600;
+  margin-top: 0.4rem;
+}
+
+.lab-member .role {
+  font-size: 0.9em;
+  color: #666;
+}
+</style>
+
+Ph.D. student:
+
+<div class="lab-grid">
+
+  <div class="lab-member">
+    <img src="{{ '/images/lab/boyan-pan.jpg' | relative_url }}" alt="Boyan Pan">
+    <div class="name">Boyan Pan</div>
+    <div class="role">Ph.D. student</div>
+  </div>
+
+  <div class="lab-member">
+    <img src="{{ '/images/lab/yuhao-ye.jpg' | relative_url }}" alt="Yuhao Ye">
+    <div class="name">Yuhao Ye</div>
+    <div class="role">Ph.D. student</div>
+  </div>
+
+</div>
+
+Research assistant:
+
+<div class="lab-grid">
+
+  <div class="lab-member">
+    <img src="{{ '/images/lab/tonghao-bai.jpg' | relative_url }}" alt="Tonghao Bai">
+    <div class="name">Tonghao Bai</div>
+    <div class="role">Research assistant</div>
+  </div>
+
+  <div class="lab-member">
+    <img src="{{ '/images/lab/zongting-wei.jpg' | relative_url }}" alt="Zongting Wei">
+    <div class="name">Zongting Wei</div>
+    <div class="role">Research assistant</div>
+  </div>
+
+</div>
 
 
 **Join us.** \\
