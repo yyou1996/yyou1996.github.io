@@ -8,7 +8,7 @@ author_profile: true
 <style>
 .lab-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 2rem 1.5rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
@@ -22,19 +22,26 @@ author_profile: true
   width: 150px;
   height: 150px;
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 50%;
   display: block;
-  margin: 0 auto 0.5rem auto;
+  margin: 0 auto 0.8rem auto;
+  border: 3px solid #ddd;
 }
 
 .lab-member .name {
   font-weight: 600;
-  margin-top: 0.4rem;
+  margin-top: 0.2rem;
 }
 
 .lab-member .role {
-  font-size: 0.9em;
+  font-size: 0.95em;
   color: #666;
+}
+
+@media (max-width: 600px) {
+  .lab-grid {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
 
