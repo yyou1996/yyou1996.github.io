@@ -75,7 +75,7 @@ Research assistants:
   </div>
 
   <div class="lab-member">
-    <img src="{{ '/images/lab/zongting-wei.jpg' | relative_url }}" alt="Zongting Wei">
+    <img src="{{ '/images/zongtingwei.jpg' | relative_url }}" alt="Zongting Wei">
     <div class="name">Zongting Wei (韦宗廷)</div>
     <div class="role">2025/09 – Present</div>
   </div>
