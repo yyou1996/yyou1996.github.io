@@ -51,7 +51,7 @@ Ph.D. students:
 <div class="lab-grid">
 
   <div class="lab-member">
-    <img src="{{ '/images/lab/boyan-pan.jpg' | relative_url }}" alt="Boyan Pan">
+    <img src="{{ '/images/boyanpan.jpg' | relative_url }}" alt="Boyan Pan">
     <div class="name">Boyan Pan (潘博彦)</div>
     <div class="role">2026/09 – Present</div>
   </div>
@@ -69,7 +69,7 @@ Research assistants:
 <div class="lab-grid">
 
   <div class="lab-member">
-    <img src="{{ '/images/lab/tonghao-bai.jpg' | relative_url }}" alt="Tonghao Bai">
+    <img src="{{ '/images/tonghaobai.jpg' | relative_url }}" alt="Tonghao Bai">
     <div class="name">Tonghao Bai (白同豪)</div>
     <div class="role">2025/09 – Present</div>
   </div>
