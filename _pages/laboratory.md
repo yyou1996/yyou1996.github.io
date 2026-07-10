@@ -46,8 +46,6 @@ author_profile: true
 </style>
 
 **Lab members.** \\
-Ph.D. students:
-
 <div class="lab-grid">
 
   <div class="lab-member">
