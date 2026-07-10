@@ -45,7 +45,7 @@ author_profile: true
 }
 </style>
 
-**Lab members.** \\
+**Lab members.**
 <div class="lab-grid">
 
   <div class="lab-member">
