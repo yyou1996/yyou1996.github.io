@@ -8,7 +8,7 @@ author_profile: true
 <style>
 .lab-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 2rem 1.5rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
