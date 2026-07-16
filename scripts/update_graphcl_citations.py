@@ -73,6 +73,7 @@ def fetch_publications():
             continue
 
         citations = article.get("cited_by", {}).get("value", 0)
+        print(article, title, citations)
         publications[normalize_title(title)] = int(citations)
 
     return publications
