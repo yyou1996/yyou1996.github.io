@@ -14,10 +14,7 @@ ABOUT_FILE = Path("_pages/about.md")
 TARGET_TITLES = {
     "Graph Contrastive Learning with Augmentations",
     "Graph Contrastive Learning Automated",
-    (
-        "Bringing Your Own View: Graph Contrastive Learning "
-        "without Prefabricated Data Augmentations"
-    ),
+    "Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations",
 }
 
 START_MARKER = "<!-- graphcl-citations-start -->"
