@@ -26,10 +26,10 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
 
 <div markdown="1">
   <span style="color:blue; font-weight:bold;">Projects.</span><br>
-  <strong>Project 2:</strong> Project title
-  <img src="/images/project2.png"
+  <strong>Virtual tissue:</strong> A cell interaction foundation model for simulating human tissue perturbation responses
+  <img src="/images/cifm.gif"
        alt="Project overview"
-       style="display:block; width:100%; height:auto; margin:0 0 1rem 0;">
+       style="display:block; width:100%; height:auto; margin:0.25rem 0 1rem 0;">
        
   <strong>Graph self-supervised learning:</strong> A series of fundamental techniques for building graph and geometric foundation models
   [[paper1]](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
