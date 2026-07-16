@@ -24,10 +24,11 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
 <span style="color:red">**I am actively recruiting young talents to join my lab and explore the frontiers of AI and biology.**</span>
 [[join us]](https://yyou1996.github.io/laboratory/)
 
-<span style="color:blue">Projects.</span> \\
-Project 1: Project title \\
-<img
-  src="/images/project1.png"
-  alt="Project 1 overview"
-  style="display:block; width:100%; height:auto; margin-top:0rem;"
->
+<div>
+  <span style="color:blue; font-weight:bold;">Projects.</span><br>
+  <strong>Project 1:</strong> Project title
+
+  <img src="/images/project1.png"
+       alt="Project 1 overview"
+       style="display:block; width:100%; height:auto; margin:0;">
+</div>
