@@ -31,9 +31,10 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
        alt="Project overview"
        style="display:block; width:100%; height:auto; margin:0 0 1rem 0;">
        
-  <strong>Graph self-supervised learning:</strong> Fundamental techniques for building graph and geometric foundation models
+  <strong>Graph self-supervised learning:</strong> A series of fundamental techniques for building graph and geometric foundation models
   [[paper1]](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
   [[paper2]](https://proceedings.mlr.press/v139/you21a.html)
+  [[paper3]](https://dl.acm.org/doi/abs/10.1145/3488560.3498416)
   [[github]](https://github.com/Shen-Lab/GraphCL)
   <img src="/images/graphcl.png"
        alt="Project overview"
