@@ -27,16 +27,16 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
 <div markdown="1">
   <span style="color:blue; font-weight:bold;">Projects.</span><br>
   <strong>Virtual tissue:</strong> A cell interaction foundation model for simulating human tissue perturbation responses
-  [[paper]](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)
+  [[Preprint'25]](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)
   [[huggingface]](https://huggingface.co/ynyou/CIFM)
   <img src="/images/cifm.gif"
        alt="Project overview"
        style="display:block; width:100%; height:auto; margin:0.25rem 0 1rem 0;">
        
   <strong>Graph self-supervised learning:</strong> A series of fundamental techniques for building graph and geometric foundation models
-  [[paper1]](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
-  [[paper2]](https://proceedings.mlr.press/v139/you21a.html)
-  [[paper3]](https://dl.acm.org/doi/abs/10.1145/3488560.3498416)
+  [[NeurIPS'20]](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
+  [[ICML'21]](https://proceedings.mlr.press/v139/you21a.html)
+  [[WSDM'22]](https://dl.acm.org/doi/abs/10.1145/3488560.3498416)
   [[github]](https://github.com/Shen-Lab/GraphCL)
   <img src="/images/graphcl.png"
        alt="Project overview"
