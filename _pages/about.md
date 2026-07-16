@@ -25,8 +25,6 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
 [[join us]](https://yyou1996.github.io/laboratory/)
 
 
-
-<span style="color:blue">**Projects.**</span>
 <p style="margin: 0 0 0 0;">
   <span style="color:blue"><strong>Projects.</strong></span>
 </p>
@@ -43,7 +41,7 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
 <img
   src="/images/project1.png"
   alt="Project 1 overview"
-  style="display:block; width:100%; height:auto; margin-top:1rem;"
+  style="display:block; width:100%; height:auto; margin-top:0rem;"
 >
 
 </div>
