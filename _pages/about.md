@@ -26,7 +26,7 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
 
 <div markdown="1">
   <span style="color:blue; font-weight:bold;">Projects.</span><br>
-  <strong>Virtual tissue:</strong> A cell interaction foundation model for predicting human tissue perturbation responses
+  <strong>Virtual tissue:</strong> A cell interaction foundation model (<strong>CIFM</strong>) for predicting human tissue perturbation responses
   [[Preprint'25]](https://www.biorxiv.org/content/10.1101/2025.01.25.634867)
   [[huggingface]](https://huggingface.co/ynyou/CIFM)
   <img src="/images/cifm.gif"
