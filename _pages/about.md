@@ -38,6 +38,7 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
   [[ICML'21]](https://proceedings.mlr.press/v139/you21a.html)
   [[WSDM'22]](https://dl.acm.org/doi/abs/10.1145/3488560.3498416)
   [[GitHub]](https://github.com/Shen-Lab/GraphCL)
+  <strong>Citations:</strong> <!-- graphcl-citations-start -->0<!-- graphcl-citations-end -->
   <img src="/images/graphcl.png"
        alt="Project overview"
        style="display:block; width:100%; height:auto; margin:0.25rem 0 0 0;">
