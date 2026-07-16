@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 
+import os
 import re
 import sys
-import time
 from pathlib import Path
 
 import requests
-from bs4 import BeautifulSoup
 
 
 SCHOLAR_ID = "Pv-V2igAAAAJ"
@@ -26,89 +25,63 @@ END_MARKER = "<!-- graphcl-citations-end -->"
 
 
 def normalize_title(title):
-    """Normalize titles before matching them."""
     return " ".join(title.casefold().split())
 
 
 def fetch_publications():
-    """Retrieve publications and citation counts from Google Scholar."""
-    url = "https://scholar.google.com/citations"
+    api_key = os.environ.get("SERPAPI_API_KEY")
 
-    params = {
-        "user": SCHOLAR_ID,
-        "hl": "en",
-        "pagesize": 100,
-    }
-
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (X11; Linux x86_64) "
-            "AppleWebKit/537.36 Chrome/126.0 Safari/537.36"
+    if not api_key:
+        raise RuntimeError(
+            "SERPAPI_API_KEY is not available. "
+            "Check the GitHub Actions repository secret."
         )
-    }
 
-    last_error = None
+    try:
+        response = requests.get(
+            "https://serpapi.com/search.json",
+            params={
+                "engine": "google_scholar_author",
+                "author_id": SCHOLAR_ID,
+                "hl": "en",
+                "num": 100,
+                "api_key": api_key,
+            },
+            timeout=60,
+        )
+    except requests.RequestException:
+        raise RuntimeError("Unable to connect to SerpAPI.")
 
-    for attempt in range(3):
-        try:
-            response = requests.get(
-                url,
-                params=params,
-                headers=headers,
-                timeout=30,
-            )
-            response.raise_for_status()
+    if response.status_code != 200:
+        raise RuntimeError(
+            f"SerpAPI returned HTTP status {response.status_code}."
+        )
 
-            soup = BeautifulSoup(response.text, "html.parser")
-            rows = soup.select(".gsc_a_tr")
+    data = response.json()
 
-            if not rows:
-                raise RuntimeError(
-                    "Google Scholar returned no publication rows. "
-                    "The request may have been rate-limited."
-                )
+    if "error" in data:
+        raise RuntimeError(f"SerpAPI error: {data['error']}")
 
-            publications = {}
+    articles = data.get("articles", [])
 
-            for row in rows:
-                title_element = row.select_one(".gsc_a_at")
+    if not articles:
+        raise RuntimeError("SerpAPI returned no Google Scholar articles.")
 
-                if title_element is None:
-                    continue
+    publications = {}
 
-                title = normalize_title(
-                    title_element.get_text(" ", strip=True)
-                )
+    for article in articles:
+        title = article.get("title")
 
-                citation_element = row.select_one(".gsc_a_c a")
+        if not title:
+            continue
 
-                if citation_element:
-                    citation_text = citation_element.get_text(strip=True)
-                    citations = (
-                        int(citation_text)
-                        if citation_text.isdigit()
-                        else 0
-                    )
-                else:
-                    citations = 0
+        citations = article.get("cited_by", {}).get("value", 0)
+        publications[normalize_title(title)] = int(citations)
 
-                publications[title] = citations
-
-            return publications
-
-        except (requests.RequestException, RuntimeError) as error:
-            last_error = error
-
-            if attempt < 2:
-                time.sleep(10 * (attempt + 1))
-
-    raise RuntimeError(
-        f"Unable to retrieve Google Scholar data: {last_error}"
-    )
+    return publications
 
 
 def update_about_page(total):
-    """Replace the existing citation total in about.md."""
     content = ABOUT_FILE.read_text(encoding="utf-8")
 
     pattern = re.compile(
@@ -133,7 +106,6 @@ def update_about_page(total):
 
 def main():
     publications = fetch_publications()
-
     counts = {}
     missing = []
 
@@ -159,7 +131,6 @@ def main():
         print(f"{counts[title]:>5}  {title}")
 
     print(f"{total:>5}  Total")
-
     update_about_page(total)
 
 
