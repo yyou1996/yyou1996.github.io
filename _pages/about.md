@@ -37,7 +37,40 @@ If you are passionate about leveraging AI techniques to build virtual biological
 -->
 
 
-<span style="color:blue">**News.**</span> \\
+<span style="color:blue">**Projects.**</span>
+
+<div style="margin-bottom: 3rem;">
+
+**Project 1: Project title**
+
+Write the project description here. You can include links such as
+[[paper]](https://example.com) and [[code]](https://github.com/example).
+
+<img
+  src="{{ '/images/project1.png' | relative_url }}"
+  alt="Project 1 overview"
+  style="display:block; width:100%; max-width:100%; height:auto; margin-top:1rem;"
+>
+
+</div>
+
+
+<div style="margin-bottom: 3rem;">
+
+**Project 2: Project title**
+
+Write the second project description here.
+
+<img
+  src="{{ '/images/project2.png' | relative_url }}"
+  alt="Project 2 overview"
+  style="display:block; width:100%; max-width:100%; height:auto; margin-top:1rem;"
+>
+
+</div>
+
+
+<!-- <span style="color:blue">**News.**</span> \\
 **2025/10.** Our LoG'25 paper shows that current state-of-the-art LLMs cannot yet effectively extract patterns from structures of graphs ---
 "[When Structure Doesn’t Help: LLMs Do Not Read Text-Attributed Graphs as Effectively as We Expected](https://openreview.net/forum?id=ijQTdlHJze)".
 [[poster]](https://yyou1996.github.io/files/log2025_llm4graph_poster.pdf) \\
@@ -101,4 +134,4 @@ If you are passionate about leveraging AI techniques to build virtual biological
 
 <!-- 🐵**2016/12.** Receive 1st Prize in Shaanxi at Contemporary Undergraduate Mathematical Contest in Modeling from China Society for Industrial and Applied Mathematics. -->
 
-<!-- 🐏**2015/08 -- 2019/06.** Attend Xi'an Jiaotong University, Xi'an, China, for the Bachelor's Degree in Information Engineering. ✈️ -->
+<!-- 🐏**2015/08 -- 2019/06.** Attend Xi'an Jiaotong University, Xi'an, China, for the Bachelor's Degree in Information Engineering. ✈️ --> -->
