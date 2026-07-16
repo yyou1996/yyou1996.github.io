@@ -29,10 +29,13 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
   <strong>Project 2:</strong> Project title
   <img src="/images/project2.png"
        alt="Project overview"
-       style="display:block; width:100%; height:auto; margin:0 0 2rem 0;">
+       style="display:block; width:100%; height:auto; margin:0 0 1rem 0;">
        
-  <strong>Project 1:</strong> Project title
-  <img src="/images/project1.png"
+  <strong>Graph self-supervised learning:</strong> Fundamental techniques for building graph and geometric foundation models
+  [[paper1]](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
+  [[paper2]](https://proceedings.mlr.press/v139/you21a.html)
+  [[code]](https://github.com/Shen-Lab/GraphCL)
+  <img src="/images/graphcl.png"
        alt="Project overview"
-       style="display:block; width:100%; height:auto; margin:0;">
+       style="display:block; width:100%; height:auto; margin:0.25rem 0 0 0;">
 </div>
