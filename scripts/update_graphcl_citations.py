@@ -74,6 +74,8 @@ def fetch_publications():
 
         citations = article.get("cited_by", {}).get("value", 0)
         print(article, title, citations)
+        if citations is None:
+            citations = 0
         publications[normalize_title(title)] = int(citations)
 
     return publications
