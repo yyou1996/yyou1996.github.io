@@ -24,7 +24,7 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
 <span style="color:red">**I am actively recruiting young talents to join my lab and explore the frontiers of AI and biology.**</span>
 [[join us]](https://yyou1996.github.io/laboratory/)
 
-<div>
+<div markdown="1">
   <span style="color:blue; font-weight:bold;">Projects.</span><br>
   <strong>Project 2:</strong> Project title
   <img src="/images/project2.png"
@@ -34,7 +34,7 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
   <strong>Graph self-supervised learning:</strong> Fundamental techniques for building graph and geometric foundation models
   [[paper1]](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
   [[paper2]](https://proceedings.mlr.press/v139/you21a.html)
-  [[code]](https://github.com/Shen-Lab/GraphCL)
+  [[github]](https://github.com/Shen-Lab/GraphCL)
   <img src="/images/graphcl.png"
        alt="Project overview"
        style="display:block; width:100%; height:auto; margin:0.25rem 0 0 0;">
