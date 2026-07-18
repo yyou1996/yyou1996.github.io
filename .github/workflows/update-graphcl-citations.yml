@@ -5,7 +5,7 @@ on:
 
   schedule:
     # Every Monday at 6:32 AM, China time
-    - cron: "32 6 * * 1"
+    - cron: "32 6 * * *"
       timezone: "Asia/Shanghai"
 
 permissions:
