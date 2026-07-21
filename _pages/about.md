@@ -24,6 +24,8 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
 <span style="color:red">**I am actively recruiting young talents to join my lab and explore the frontiers of AI and biology.**</span>
 [[join us]](https://yyou1996.github.io/laboratory/)
 
+If you work in the field of AI for Science and are interested in [full-time opportunities](https://sse.cuhk.edu.cn/article/2257) at CUHK-Shenzhen, please feel free to email me. I would be happy to chat.
+
 <div markdown="1">
   <span style="color:blue; font-weight:bold;">Projects.</span><br>
   <strong>Virtual tissue:</strong> A cell interaction foundation model (CIFM) for predicting human tissue perturbation responses
