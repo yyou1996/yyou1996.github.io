@@ -51,13 +51,13 @@ author_profile: true
   <div class="lab-member">
     <img src="{{ '/images/boyanpan.jpg' | relative_url }}" alt="Boyan Pan">
     <div class="name">Boyan Pan (潘博彦)</div>
-    <div class="role">PhD, 2026/09 – Present</div>
+    <div class="role">PhD, 2026/08 – Present</div>
   </div>
 
   <div class="lab-member">
     <img src="{{ '/images/yuhaoye.jpg' | relative_url }}" alt="Yuhao Ye">
     <div class="name">Yuhao Ye (叶宇皓)</div>
-    <div class="role">PhD, 2026/09 – Present</div>
+    <div class="role">PhD, 2026/08 – Present</div>
   </div>
 
   <div class="lab-member">
