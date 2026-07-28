@@ -45,7 +45,8 @@ author_profile: true
 }
 </style>
 
-**Lab members.**
+**Lab members.**\\
+I am fortunate to work alongside the following lab members:
 <div class="lab-grid">
 
   <div class="lab-member">
@@ -82,6 +83,7 @@ Please send me an email with the following materials if you are interested in ap
 * One letter of recommendation (sent directly from the recommender's email)
 * (Optional) Additional proof of relevant skills or qualifications (publications, competition awards, etc.)
 * (For Ph.D. applicants) Additional requirements are specified on the [official website](https://sse-mphil-phd.cuhk.edu.cn/en/program/CIE)
+* <span style="color:red">**The use of AI tools is strictly prohibited during the interview**</span>
 
 如您有意申请本实验室博士研究生、博士后、或研究助理岗位，请将以下材料发送至我的邮箱：
 * 个人简历
@@ -89,3 +91,4 @@ Please send me an email with the following materials if you are interested in ap
 * 一封推荐信（由推荐人从其邮箱发送）
 * （可选）其他能力证明材料（论文与竞赛奖项等）
 * （对于博士申请者）其他要求请参阅[官方网站](https://sse-mphil-phd.cuhk.edu.cn/program/CIE)
+* <span style="color:red">**面试期间严禁使用任何AI工具**</span>
