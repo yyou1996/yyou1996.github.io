@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
 
   schedule:
-    # Everyday at 6:32 AM, China time
-    - cron: "32 6 * * *"
+    # Every Monday at 6:32 AM, China time
+    - cron: "32 6 * * 1"
       timezone: "Asia/Shanghai"
 
 permissions:
