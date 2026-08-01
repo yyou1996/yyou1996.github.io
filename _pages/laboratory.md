@@ -46,7 +46,7 @@ author_profile: true
 </style>
 
 **Lab members.**\\
-I am fortunate to work alongside the following lab members:
+I am fortunate to work alongside the following talented scholars:
 <div class="lab-grid">
 
   <div class="lab-member">
