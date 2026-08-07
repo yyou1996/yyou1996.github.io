@@ -30,7 +30,7 @@ If you work in the field of AI for Science and are interested in [tenure-track f
   <span style="color:blue; font-weight:bold;">Projects.</span><br>
   <strong>DigiAra</strong> computationally designs plant mutants for resistance to microbial infection in *Arabidopsis thaliana*
   [[Preprint'26]]()
-  [[Github]](https://github.com/youlab2025/DigiAra)
+  [[GitHub]](https://github.com/youlab2025/DigiAra)
   <img src="/images/digiara.png"
        alt="Project overview"
        style="display:block; width:100%; height:auto; margin:0.25rem 0 1rem 0;">
