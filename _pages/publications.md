@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-**Preprint’26.** "DigiAra Computationally Designs Plant Mutants for Resistance to Microbial Infection in *Arabidopsis*", T. Bai, S. Cui, **Y. You**, *Learning on Graphs Conference*, 2026.
+**Preprint’26.** "DigiAra Computationally Designs Plant Mutants for Resistance to Microbial Infection in *Arabidopsis*", T. Bai, S. Cui, **Y. You**, 2026.
 [[paper]](https://www.biorxiv.org/content/10.64898/2026.08.07.743468)
 [[code]](https://github.com/youlab2025/DigiAra)
 
