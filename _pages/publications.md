@@ -4,6 +4,10 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+**Preprint’26.** "DigiAra Computationally Designs Plant Mutants for Resistance to Microbial Infection in *Arabidopsis*", T. Bai, S. Cui, **Y. You**, *Learning on Graphs Conference*, 2026.
+[[paper]](https://www.biorxiv.org/content/10.64898/2026.08.07.743468) \\
+[[code]](https://github.com/youlab2025/DigiAra)
+
 **LoG’25.** "When Structure Doesn’t Help: LLMs Do Not Read Text-Attributed Graphs as Effectively as We Expected", H. Xu, **Y. You**, T. Ma, *Learning on Graphs Conference*, 2025.
 [[poster]](https://yyou1996.github.io/files/log2025_llm4graph_poster.pdf)
 [[paper]](https://openreview.net/forum?id=ijQTdlHJze) \\
