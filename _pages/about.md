@@ -10,7 +10,7 @@ redirect_from:
 
 
 <span style="color:blue">**Bio.**</span>
-I am an assistant professor in the School of Science and Engineering at [the Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en) (CUHK-Shenzhen). [[CV]](https://yyou1996.github.io/files/yuning_cv.pdf) \\
+I am an assistant professor in the School of Science and Engineering at [The Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en) (CUHK-Shenzhen). [[CV]](https://yyou1996.github.io/files/yuning_cv.pdf) \\
 I lead the **AI for Life Sciences Laboratory**, where we build AI foundation models on structured biological data, to simulate living systems across species and organizational scales.
 
 <!--
