@@ -34,14 +34,14 @@ If you work in the field of AI for Science and are interested in [tenure-track f
   [[Preprint'26]](https://www.biorxiv.org/content/10.64898/2026.08.12.743536)
   <img src="/images/cifm2.png"
        alt="Project overview"
-       style="display:block; width:100%; height:auto; margin:0.25rem 0 1rem 0;">
+       style="display:block; width:100%; height:auto; margin:0.25rem 0 0.5rem 0;">
   
   <strong>DigiAra</strong> computationally designs plant mutants for resistance to microbial infection in *Arabidopsis thaliana*
   [[Preprint'26]](https://www.biorxiv.org/content/10.64898/2026.08.07.743468)
   [[GitHub]](https://github.com/youlab2025/DigiAra)
   <img src="/images/digiara.png"
        alt="Project overview"
-       style="display:block; width:100%; height:auto; margin:0.25rem 0 1rem 0;">
+       style="display:block; width:100%; height:auto; margin:0.25rem 0 0.5rem 0;">
   
   <strong>Graph self-supervised learning:</strong> A series of fundamental techniques (e.g. GraphCL) for building graph and geometric foundation models
   [[NeurIPS'20]](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
