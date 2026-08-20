@@ -31,7 +31,7 @@ If you work in the field of AI for Science and are interested in [tenure-track f
 <div markdown="1">
   <span style="color:blue; font-weight:bold;">Projects.</span><br>
   <strong>Virtual tissue:</strong> A generative virtual tissue model enables computational design of therapeutic perturbation strategies
-  [[Preprint'25]](https://www.biorxiv.org/content/10.64898/2026.08.12.743536)
+  [[Preprint'26]](https://www.biorxiv.org/content/10.64898/2026.08.12.743536)
   <img src="/images/cifm2.png"
        alt="Project overview"
        style="display:block; width:100%; height:auto; margin:0.25rem 0 1rem 0;">
