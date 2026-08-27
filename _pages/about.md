@@ -24,7 +24,7 @@ and [fields](https://arxiv.org/abs/2402.10227)), and leverage them to build biol
 <span style="color:red">**I am actively recruiting young talents to join my lab and explore the frontiers of AI and biology.**</span>
 [[join us]](https://yyou1996.github.io/laboratory/)
 
-If you are interested in applying our models in your wet-lab research or exploring potential collaborations, please feel free to contact me!
+If you are interested in applying our models to your wet-lab research and need any assistance, please feel free to contact me!
 
 <div markdown="1">
   <span style="color:blue; font-weight:bold;">Models.</span><br>
