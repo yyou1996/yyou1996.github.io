@@ -45,7 +45,7 @@ If you are interested in applying our models to your wet-lab research and need a
   [[NeurIPS'20]](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
   [[ICML'21]](https://proceedings.mlr.press/v139/you21a.html)
   [[WSDM'22]](https://dl.acm.org/doi/abs/10.1145/3488560.3498416)
-  (TotalCitations:<!-- graphcl-citations-start -->4974<!-- graphcl-citations-end -->)
+  (TotalCitations:<!-- graphcl-citations-start -->4993<!-- graphcl-citations-end -->)
   [[GitHub]](https://github.com/Shen-Lab/GraphCL)
   <img src="/images/graphcl.png"
        alt="Project overview"
