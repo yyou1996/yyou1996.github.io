@@ -30,7 +30,7 @@ If you are interested in applying our models to your wet-lab research and need a
   <span style="color:blue; font-weight:bold;">Models.</span><br>
   <strong>Virtual tissue:</strong> A generative virtual tissue model enables computational design of therapeutic perturbation strategies
   [[Preprint'26]](https://www.biorxiv.org/content/10.64898/2026.08.12.743536)
-  <img src="/images/cifm2.png"
+  <img src="/images/cifm2.gif"
        alt="Project overview"
        style="display:block; width:100%; height:auto; margin:0.25rem 0 0.25rem 0;">
   
