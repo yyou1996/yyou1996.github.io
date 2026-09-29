@@ -43,7 +43,7 @@ If you are interested in applying our models to your wet-lab research and need a
   
   <strong>Graph self-supervised learning:</strong> A series of fundamental algorithms (e.g. GraphCL) for building graph and geometric foundation models
   [[NeurIPS'20]](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
-  [[Most influential NeurIPS'20 papers by PaperDigest]](https://www.paperdigest.org/2026/03/most-influential-nips-papers-2026-03-version/)
+  [[One of most influential NeurIPS'20 papers by PaperDigest]](https://www.paperdigest.org/2026/03/most-influential-nips-papers-2026-03-version/)
   [[ICML'21]](https://proceedings.mlr.press/v139/you21a.html)
   [[WSDM'22]](https://dl.acm.org/doi/abs/10.1145/3488560.3498416)
   (Total citations: <!-- graphcl-citations-start -->5076<!-- graphcl-citations-end -->)
