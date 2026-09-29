@@ -36,7 +36,7 @@ If you are interested in applying our models to your wet-lab research and need a
   
   <strong>DigiAra</strong> computationally designs plant mutants for resistance to microbial infection in *Arabidopsis thaliana*
   [[Preprint'26]](https://www.biorxiv.org/content/10.64898/2026.08.07.743468)
-  [[GitHub]](https://github.com/youlab2025/DigiAra)
+  [[Software]](https://github.com/youlab2025/DigiAra)
   <img src="/images/digiara.png"
        alt="Project overview"
        style="display:block; width:100%; height:auto; margin:0.25rem 0 0.25rem 0;">
@@ -47,7 +47,7 @@ If you are interested in applying our models to your wet-lab research and need a
   [[WSDM'22]](https://dl.acm.org/doi/abs/10.1145/3488560.3498416)
   (Total citations: <!-- graphcl-citations-start -->5076<!-- graphcl-citations-end -->)
   [[Most influential NeurIPS'20 papers by PaperDigest]](https://www.paperdigest.org/2026/03/most-influential-nips-papers-2026-03-version/)
-  [[GitHub]](https://github.com/Shen-Lab/GraphCL)
+  [[Software]](https://github.com/Shen-Lab/GraphCL)
   <img src="/images/graphcl.png"
        alt="Project overview"
        style="display:block; width:100%; height:auto; margin:0.25rem 0 0 0;">
