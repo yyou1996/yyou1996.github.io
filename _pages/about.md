@@ -46,9 +46,7 @@ If you are interested in applying our models to your wet-lab research and need a
   [[ICML'21]](https://proceedings.mlr.press/v139/you21a.html)
   [[WSDM'22]](https://dl.acm.org/doi/abs/10.1145/3488560.3498416)
   (Total citations: <!-- graphcl-citations-start -->5076<!-- graphcl-citations-end -->)
-  (Most influential NeurIPS'20 papers by PaperDigest
-  [[v2301]](https://resources.paperdigest.org/2023/01/most-influential-nips-papers-2023-01/)
-  [[v2603]](https://www.paperdigest.org/2026/03/most-influential-nips-papers-2026-03-version/))
+  [[Most influential NeurIPS'20 papers by PaperDigest]](https://www.paperdigest.org/2026/03/most-influential-nips-papers-2026-03-version/)
   [[GitHub]](https://github.com/Shen-Lab/GraphCL)
   <img src="/images/graphcl.png"
        alt="Project overview"
