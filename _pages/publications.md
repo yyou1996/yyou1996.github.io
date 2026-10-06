@@ -81,7 +81,8 @@ author_profile: true
 
 <!-- **MLSB'20.** "Cross-Modality Protein Embedding for Compound-Protein Affinity and Contact Prediction", **Y. You**, Y. Shen, *Machine Learning for Structural Biology Workshop, Conference on Neural Information Processing Systems*. -->
 <!-- [[poster]](https://yyou1996.github.io/files/mlsb2020_cpac_poster.pdf) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2020.11.29.403162) \\ -->
-**NeurIPS'20.** "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*, 2020. (<sup>\*</sup>Equal Contribution, Acceptance Rate 20.09%)
+**NeurIPS'20.** "Graph Contrastive Learning with Augmentations", **Y. You**<sup>\*</sup>, T. Chen<sup>\*</sup>, Y. Sui, T. Chen, Z. Wang, Y. Shen, *Conference on Neural Information Processing Systems*, 2020. (<sup>\*</sup>Equal Contribution, Acceptance Rate 20.09%,
+Top-15 NeurIPS'20 Papers by PaperDigest [[link]](https://resources.paperdigest.org/2023/01/most-influential-nips-papers-2023-01/))
 [[poster]](https://yyou1996.github.io/files/neurips2020_graphcl_poster.pdf)
 [[paper]](https://arxiv.org/abs/2010.13902)
 [[appendix]](https://yyou1996.github.io/files/neurips2020_graphcl_supplement.pdf)
