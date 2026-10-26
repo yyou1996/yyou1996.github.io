@@ -46,7 +46,7 @@ If you are interested in applying our models to your wet-lab research and need a
   [[Top-15 NeurIPS'20 papers by PaperDigest]](https://resources.paperdigest.org/2023/01/most-influential-nips-papers-2023-01/)
   [[ICML'21 Oral, top-3%]](https://proceedings.mlr.press/v139/you21a.html)
   [[WSDM'22]](https://dl.acm.org/doi/abs/10.1145/3488560.3498416)
-  (Total citations: <!-- graphcl-citations-start -->5132<!-- graphcl-citations-end -->)
+  (Total citations: <!-- graphcl-citations-start -->5151<!-- graphcl-citations-end -->)
   [[Software]](https://github.com/Shen-Lab/GraphCL)
   <img src="/images/graphcl.png"
        alt="Project overview"
