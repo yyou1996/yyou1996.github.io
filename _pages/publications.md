@@ -4,6 +4,10 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+**Preprint’26.** "How Much Can AI Virtual Cells Gain from Unified Perturbational Modeling?", Z. Wei, Y. Ye, S. Cui, W. Ma, **Y. You**, 2026.
+[[paper]](https://www.biorxiv.org/content/10.64898/2026.10.25.761625)
+[[code]](https://github.com/youlab2025/UPM) \\
 **Preprint’26.** "A Generative Virtual Tissue Model Enables Computational Design of Therapeutic Perturbation Strategies", Y. Lu, W. Zhang, Y. Chen, J. Yin, L. Chen, K. Fleisher, J. Gornet, R. Liu, Z. Wang, Y. Poon, **Y. You**<sup>\*</sup>, M. Thomson<sup>\*</sup>, 2026. (<sup>\*</sup>Co-Correspondence, MLGenX@ICML'25)
 [[paper]](https://www.biorxiv.org/content/10.64898/2026.08.12.743536) \\
 **Preprint’26.** "DigiAra Computationally Designs Plant Mutants for Resistance to Microbial Infection in *Arabidopsis*", T. Bai, S. Cui, **Y. You**, 2026.
