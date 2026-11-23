@@ -28,7 +28,7 @@ If you are interested in applying our models to your wet-lab research and need a
 
 <div markdown="1">
   <span style="color:blue; font-weight:bold;">Models.</span><br>
-  <strong>Virtual tissue:</strong> A generative virtual tissue model enables computational design of therapeutic perturbation strategies --- We design a CXCL10↑/INHBC↓ combination to promote T-cell expansion in co-culture
+  <strong>Virtual tissue:</strong> A generative virtual tissue model enables computational design of therapeutic perturbation strategies --- we design and validate a CXCL10↑/INHBC↓ combination to promote T-cell expansion in co-culture
   [[Preprint'26]](https://www.biorxiv.org/content/10.64898/2026.08.12.743536)
   <img src="/images/cifm2.gif"
        alt="Project overview"
